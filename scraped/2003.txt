@@ -1,0 +1,313 @@
+ 
+
+<!doctype html public "-//w3c//dtd html 4.01 transitional//en" "http://www.w3.org/tr/html4/loose.dtd"> 
+
+
+  <html> 
+
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=viqoywbk" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nkc" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://rateyourmusic.com:80/top_albums","20030603163131","https://web.archive.org/","web","/_static/",
+	      "1054657891");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=s1zqjcyt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvmkcij" />
+<!-- end wayback rewrite js include -->
+
+
+  
+  <meta name="description" content="rate your music . com is an online
+community of people who love music.  rateyourmusic allows you to catalog
+the music you own, keeping track of the artists, album names, track
+titles, etc.  in addition, you can rate the music that you add to your
+catalogue.  when you rate your music, the rateyourmusic.com servers can
+make recommendations to you based on the music that others have rated.
+other featurs include polls, lists, and forums.
+rateyourmusic.com is free, and there are no banner ads. ">
+
+  <meta name="keywords" content="rate your music, rate music, rate
+albums, music catalog catalogue software, album reviews, music reviews,
+music ratings, community, message boards, polls, boo urns, recommendations">
+
+  <style type="text/css">
+
+  .button {background: #9999bb; font-family: verdana, tahoma, arial, helvetica; font-size: 8pt; color:white; }
+
+  body {font-family: verdana, tahoma, arial, helvetica; font-size: 10pt;margin: 20pt;}
+  td {font-family: verdana, tahoma, arial; font-size: 9pt;}
+  .small {font-family: verdana, tahoma, arial; font-size: 8pt;}
+  </style>
+
+
+<title>top 100 albums -- rate your music</title>
+
+<link rel="shortcut icon" href="https://web.archive.org/web/20030603163131im_/http://rateyourmusic.com/favicon.ico">
+
+<base href="https://web.archive.org/web/20030603163131/http://rateyourmusic.com/">
+</head>
+
+<body vlink="#0000cc" link="#0000ff" background="/web/20030603163131im_/http://rateyourmusic.com/images/bg.gif"> 
+<table bordercolorlight="#c0c0c0" width="95%" cellpadding="3" cellspacing="0" align="center" bgcolor="#aaaacc" border="1" bordercolordark="#ccccff">
+    <tr><td>
+    <center><font color="white"><b>rate your music is an online community of people who love music.  share your musical knowledge and opinions with others
+by rating albums and writing reviews.  
+<a href="signup"><font color="white">sign up now</font></a> or <a href="aboutc"><font color="white">learn more</font></a></b></font></center></td></tr></table><table bordercolorlight="#c0c0c0" width="95%" cellpadding="3" cellspacing="0" align="center" bgcolor="#aaaacc" border="1" bordercolordark="#ccccff"> <tr>
+  <td colspan="6"><table border="0" cellpadding="0" cellspacing="0" width="95%"><tr><td width="40%">
+<a href="https://web.archive.org/web/20030603163131/http://rateyourmusic.com/"><img src="/web/20030603163131im_/http://rateyourmusic.com/images/rym.gif" width="321" height="51" border="0" alt="rate your music .com"></a>
+</td><td width="40%" valign="center"><p align="right">
+ <form method="submit" action="search">
+<input class="button" type="text" maxlength="80" size="15" name="searchterm"> <select class="button" name="searchtype"><option value="artist">artist<option value="album">album</select> <input class="button" type="submit" value=">"></form>
+
+</p></td>
+</tr></table></td>
+</tr>
+
+  <tr align="center">
+  <td width="20%"><b><a href="/web/20030603163131/http://rateyourmusic.com/"><font color="white">home</font></a></b></td>
+  <td width="20%"><b><a href="/web/20030603163131/http://rateyourmusic.com/artists"><font color="white">artists</font></a></b></td>
+  <td width="20%"><b><a href="/web/20030603163131/http://rateyourmusic.com/community"><font color="white">community</font></a></b></td>
+
+
+           <td width="20%"><a href="/web/20030603163131/http://rateyourmusic.com/login"><font color="white"><b>log in/sign up!</b></font></a></td></tr></table><table border="0" width="95%" cellspacing="0" cellpadding="15" align="center" bgcolor="white"><tr><td><br><h2>top 100 albums</h2><p> these are the top 100 albums, rated by our users.</p> (<a href="/web/20030603163131/http://rateyourmusic.com/albums_by_year">top albums by year</a>)<br><br><table border="1" cellpadding="3" cellspacing="0" bordercolorlight="#ccccff" bordercolordark="#c0c0c0" width="100%"> <tr><td valign="center"><font size="+1"><center><b>1</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_22"><b>bob dylan</b></a>:<br><br><a href="view_album_details/album_id_is_50">blood on the tracks</a> &nbsp;&nbsp;
+         (1975)</td></tr><tr><td valign="center"><font size="+1"><center><b>2</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1026"><b>leonard cohen</b></a>:<br><br><a href="view_album_details/album_id_is_3120">songs of leonard cohen</a> &nbsp;&nbsp;
+         (1967)</td></tr><tr><td valign="center"><font size="+1"><center><b>3</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1052"><b> gang of four</b></a>:<br><br><a href="view_album_details/album_id_is_9655">entertainment</a> &nbsp;&nbsp;
+         (1979)</td></tr><tr><td valign="center"><font size="+1"><center><b>4</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_5152"><b>eric dolphy</b></a>:<br><br><a href="view_album_details/album_id_is_17499">out to lunch</a> &nbsp;&nbsp;
+         (1964)</td></tr><tr><td valign="center"><font size="+1"><center><b>5</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_844"><b>gram parsons</b></a>:<br><br><a href="view_album_details/album_id_is_16242">grievous angel</a> &nbsp;&nbsp;
+         (1974)</td></tr><tr><td valign="center"><font size="+1"><center><b>6</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_206">revolver</a> &nbsp;&nbsp;
+         (1966)</td></tr><tr><td valign="center"><font size="+1"><center><b>7</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_16">sgt. pepper&#39;s lonely hearts club band</a> &nbsp;&nbsp;
+         (1967)</td></tr><tr><td valign="center"><font size="+1"><center><b>8</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_3056"><b>cannonball adderley</b></a>:<br><br><a href="view_album_details/album_id_is_11130">somethin&#39; else</a> &nbsp;&nbsp;
+         (1958)</td></tr><tr><td valign="center"><font size="+1"><center><b>9</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_116"><b>the stone roses</b></a>:<br><br><a href="view_album_details/album_id_is_314">the stone roses</a> &nbsp;&nbsp;
+         (1989)</td></tr><tr><td valign="center"><font size="+1"><center><b>10</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1101"><b>john coltrane</b></a>:<br><br><a href="view_album_details/album_id_is_10702">a love supreme</a> &nbsp;&nbsp;
+         (1964)</td></tr><tr><td valign="center"><font size="+1"><center><b>11</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_22"><b>bob dylan</b></a>:<br><br><a href="view_album_details/album_id_is_51">highway 61 revisited</a> &nbsp;&nbsp;
+         (1965)</td></tr><tr><td valign="center"><font size="+1"><center><b>12</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_16"><b>jimi hendrix</b></a>:<br><br><a href="view_album_details/album_id_is_10">are you experienced?</a> &nbsp;&nbsp;
+         (1967)</td></tr><tr><td valign="center"><font size="+1"><center><b>13</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_178"><b>elvis costello</b></a>:<br><br><a href="view_album_details/album_id_is_578">this year&#39;s model</a> &nbsp;&nbsp;
+         (1978)</td></tr><tr><td valign="center"><font size="+1"><center><b>14</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_212"><b> joy division</b></a>:<br><br><a href="view_album_details/album_id_is_545">closer</a> &nbsp;&nbsp;
+         (1980)</td></tr><tr><td valign="center"><font size="+1"><center><b>15</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_35"><b>nick drake</b></a>:<br><br><a href="view_album_details/album_id_is_90">pink moon</a> &nbsp;&nbsp;
+         (1972)</td></tr><tr><td valign="center"><font size="+1"><center><b>16</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_52"><b>the band</b></a>:<br><br><a href="view_album_details/album_id_is_218">the band</a> &nbsp;&nbsp;
+         (1969)</td></tr><tr><td valign="center"><font size="+1"><center><b>17</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_7944"><b>richard &amp; linda thompson</b></a>:<br><br><a href="view_album_details/album_id_is_10979">i want to see the bright lights tonight </a> &nbsp;&nbsp;
+         (1973)</td></tr><tr><td valign="center"><font size="+1"><center><b>18</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_57"><b>the velvet underground</b></a>:<br><br><a href="view_album_details/album_id_is_173">the velvet underground &amp; nico</a> &nbsp;&nbsp;
+         (1967)</td></tr><tr><td valign="center"><font size="+1"><center><b>19</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_275"><b>charles mingus</b></a>:<br><br><a href="view_album_details/album_id_is_11222">mingus ah um</a> &nbsp;&nbsp;
+         (1959)</td></tr><tr><td valign="center"><font size="+1"><center><b>20</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_785"><b>miles davis</b></a>:<br><br><a href="view_album_details/album_id_is_2571">kind of blue</a> &nbsp;&nbsp;
+         (1959)</td></tr><tr><td valign="center"><font size="+1"><center><b>21</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_229"><b>the pixies</b></a>:<br><br><a href="view_album_details/album_id_is_1089">doolittle</a> &nbsp;&nbsp;
+         (1989)</td></tr><tr><td valign="center"><font size="+1"><center><b>22</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_57"><b>the velvet underground</b></a>:<br><br><a href="view_album_details/album_id_is_175">the velvet underground</a> &nbsp;&nbsp;
+         (1969)</td></tr><tr><td valign="center"><font size="+1"><center><b>23</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_397"><b> wire</b></a>:<br><br><a href="view_album_details/album_id_is_1430">pink flag</a> &nbsp;&nbsp;
+         (1977)</td></tr><tr><td valign="center"><font size="+1"><center><b>24</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_275"><b>charles mingus</b></a>:<br><br><a href="view_album_details/album_id_is_17906">the black saint and the sinner lady</a> &nbsp;&nbsp;
+         (1963)</td></tr><tr><td valign="center"><font size="+1"><center><b>25</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_35"><b>nick drake</b></a>:<br><br><a href="view_album_details/album_id_is_52">five leaves left</a> &nbsp;&nbsp;
+         (1969)</td></tr><tr><td valign="center"><font size="+1"><center><b>26</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_58"><b>the who</b></a>:<br><br><a href="view_album_details/album_id_is_185">who&#39;s next</a> &nbsp;&nbsp;
+         (1971)</td></tr><tr><td valign="center"><font size="+1"><center><b>27</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_16"><b>jimi hendrix</b></a>:<br><br><a href="view_album_details/album_id_is_2161">electric ladyland</a> &nbsp;&nbsp;
+         (1968)</td></tr><tr><td valign="center"><font size="+1"><center><b>28</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_22"><b>bob dylan</b></a>:<br><br><a href="view_album_details/album_id_is_93">bringing it all back home</a> &nbsp;&nbsp;
+         (1965)</td></tr><tr><td valign="center"><font size="+1"><center><b>29</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_469"><b>robert wyatt</b></a>:<br><br><a href="view_album_details/album_id_is_10143">rock bottom</a> &nbsp;&nbsp;
+         (1974)</td></tr><tr><td valign="center"><font size="+1"><center><b>30</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_231"><b> public image ltd.</b></a>:<br><br><a href="view_album_details/album_id_is_16347">metal box</a> &nbsp;&nbsp;
+         (1979)</td></tr><tr><td valign="center"><font size="+1"><center><b>31</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_43"><b>the ramones</b></a>:<br><br><a href="view_album_details/album_id_is_806">the ramones</a> &nbsp;&nbsp;
+         (1976)</td></tr><tr><td valign="center"><font size="+1"><center><b>32</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_2149"><b> queensryche</b></a>:<br><br><a href="view_album_details/album_id_is_7383">operation: mindcrime</a> &nbsp;&nbsp;
+         (1988)</td></tr><tr><td valign="center"><font size="+1"><center><b>33</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_663"><b> iron maiden</b></a>:<br><br><a href="view_album_details/album_id_is_9979">live after death</a> &nbsp;&nbsp;
+         (1985)</td></tr><tr><td valign="center"><font size="+1"><center><b>34</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_103"><b>tom waits</b></a>:<br><br><a href="view_album_details/album_id_is_294">rain dogs</a> &nbsp;&nbsp;
+         (1985)</td></tr><tr><td valign="center"><font size="+1"><center><b>35</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_785"><b>miles davis</b></a>:<br><br><a href="view_album_details/album_id_is_10394">in a silent way</a> &nbsp;&nbsp;
+         (1969)</td></tr><tr><td valign="center"><font size="+1"><center><b>36</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_22"><b>bob dylan</b></a>:<br><br><a href="view_album_details/album_id_is_2593">live 1966: royal albert hall concert</a> &nbsp;&nbsp;
+         (1998)</td></tr><tr><td valign="center"><font size="+1"><center><b>37</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1772"><b>the doobie brothers</b></a>:<br><br><a href="view_album_details/album_id_is_6405">the captain and me</a> &nbsp;&nbsp;
+         (1973)</td></tr><tr><td valign="center"><font size="+1"><center><b>38</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1026"><b>leonard cohen</b></a>:<br><br><a href="view_album_details/album_id_is_3122">songs of love and hate</a> &nbsp;&nbsp;
+         (1971)</td></tr><tr><td valign="center"><font size="+1"><center><b>39</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1807"><b> public enemy</b></a>:<br><br><a href="view_album_details/album_id_is_7299">it takes a nation of millions to hold us back</a> &nbsp;&nbsp;
+         (1988)</td></tr><tr><td valign="center"><font size="+1"><center><b>40</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_43"><b>the ramones</b></a>:<br><br><a href="view_album_details/album_id_is_808">rocket to russia</a> &nbsp;&nbsp;
+         (1977)</td></tr><tr><td valign="center"><font size="+1"><center><b>41</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1072"><b> violent femmes</b></a>:<br><br><a href="view_album_details/album_id_is_3258">violent femmes</a> &nbsp;&nbsp;
+         (1983)</td></tr><tr><td valign="center"><font size="+1"><center><b>42</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_2892"><b> run-d.m.c.</b></a>:<br><br><a href="view_album_details/album_id_is_10309">raising hell</a> &nbsp;&nbsp;
+         (1986)</td></tr><tr><td valign="center"><font size="+1"><center><b>43</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_103"><b>tom waits</b></a>:<br><br><a href="view_album_details/album_id_is_297">swordfishtrombones</a> &nbsp;&nbsp;
+         (1983)</td></tr><tr><td valign="center"><font size="+1"><center><b>44</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1076"><b>joni mitchell</b></a>:<br><br><a href="view_album_details/album_id_is_3287">blue</a> &nbsp;&nbsp;
+         (1971)</td></tr><tr><td valign="center"><font size="+1"><center><b>45</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_4026"><b> mahavishnu orchestra</b></a>:<br><br><a href="view_album_details/album_id_is_13931">the inner mounting flame</a> &nbsp;&nbsp;
+         (1971)</td></tr><tr><td valign="center"><font size="+1"><center><b>46</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1689"><b> genesis</b></a>:<br><br><a href="view_album_details/album_id_is_5919">selling england by the pound</a> &nbsp;&nbsp;
+         (1973)</td></tr><tr><td valign="center"><font size="+1"><center><b>47</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_306"><b>elton john</b></a>:<br><br><a href="view_album_details/album_id_is_1209">goodbye yellow brick road</a> &nbsp;&nbsp;
+         (1973)</td></tr><tr><td valign="center"><font size="+1"><center><b>48</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_80"><b>the clash</b></a>:<br><br><a href="view_album_details/album_id_is_236">london calling</a> &nbsp;&nbsp;
+         (1979)</td></tr><tr><td valign="center"><font size="+1"><center><b>49</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_321"><b> sonic youth</b></a>:<br><br><a href="view_album_details/album_id_is_1117">daydream nation</a> &nbsp;&nbsp;
+         (1988)</td></tr><tr><td valign="center"><font size="+1"><center><b>50</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_5978"><b>john prine</b></a>:<br><br><a href="view_album_details/album_id_is_22733">john prine</a> &nbsp;&nbsp;
+         (1971)</td></tr><tr><td valign="center"><font size="+1"><center><b>51</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_279"><b> pere ubu</b></a>:<br><br><a href="view_album_details/album_id_is_792">the modern dance</a> &nbsp;&nbsp;
+         (1978)</td></tr><tr><td valign="center"><font size="+1"><center><b>52</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_320"><b> minutemen</b></a>:<br><br><a href="view_album_details/album_id_is_1110">double nickels on the dime</a> &nbsp;&nbsp;
+         (1984)</td></tr><tr><td valign="center"><font size="+1"><center><b>53</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_42"><b> radiohead</b></a>:<br><br><a href="view_album_details/album_id_is_45">ok computer</a> &nbsp;&nbsp;
+         (1997)</td></tr><tr><td valign="center"><font size="+1"><center><b>54</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_749"><b>the replacements</b></a>:<br><br><a href="view_album_details/album_id_is_7187">let it be</a> &nbsp;&nbsp;
+         (1984)</td></tr><tr><td valign="center"><font size="+1"><center><b>55</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_606"><b> tool</b></a>:<br><br><a href="view_album_details/album_id_is_1904">aenima</a> &nbsp;&nbsp;
+         (1996)</td></tr><tr><td valign="center"><font size="+1"><center><b>56</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1632"><b> reel big fish</b></a>:<br><br><a href="view_album_details/album_id_is_5358">turn the radio off</a> &nbsp;&nbsp;
+         (1996)</td></tr><tr><td valign="center"><font size="+1"><center><b>57</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1439"><b>stevie wonder</b></a>:<br><br><a href="view_album_details/album_id_is_4660">songs in the key of life</a> &nbsp;&nbsp;
+         (1976)</td></tr><tr><td valign="center"><font size="+1"><center><b>58</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1494"><b>aretha franklin</b></a>:<br><br><a href="view_album_details/album_id_is_4859">i never loved a man the way i love you</a> &nbsp;&nbsp;
+         (1967)</td></tr><tr><td valign="center"><font size="+1"><center><b>59</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_960"><b>the zombies</b></a>:<br><br><a href="view_album_details/album_id_is_9363">odessey &amp; oracle</a> &nbsp;&nbsp;
+         (1968)</td></tr><tr><td valign="center"><font size="+1"><center><b>60</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_312"><b> pink floyd</b></a>:<br><br><a href="view_album_details/album_id_is_976">dark side of the moon</a> &nbsp;&nbsp;
+         (1973)</td></tr><tr><td valign="center"><font size="+1"><center><b>61</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_738"><b>neil young</b></a>:<br><br><a href="view_album_details/album_id_is_2339">after the gold rush</a> &nbsp;&nbsp;
+         (1970)</td></tr><tr><td valign="center"><font size="+1"><center><b>62</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_59"><b>john lennon</b></a>:<br><br><a href="view_album_details/album_id_is_113">john lennon/plastic ono band</a> &nbsp;&nbsp;
+         (1970)</td></tr><tr><td valign="center"><font size="+1"><center><b>63</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_50"><b>the smiths</b></a>:<br><br><a href="view_album_details/album_id_is_164">the queen is dead</a> &nbsp;&nbsp;
+         (1986)</td></tr><tr><td valign="center"><font size="+1"><center><b>64</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_57"><b>the velvet underground</b></a>:<br><br><a href="view_album_details/album_id_is_174">white light/white heat</a> &nbsp;&nbsp;
+         (1968)</td></tr><tr><td valign="center"><font size="+1"><center><b>65</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_18"><b>the beach boys</b></a>:<br><br><a href="view_album_details/album_id_is_63">pet sounds</a> &nbsp;&nbsp;
+         (1966)</td></tr><tr><td valign="center"><font size="+1"><center><b>66</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_115"><b>otis redding</b></a>:<br><br><a href="view_album_details/album_id_is_8282">otis blue: otis redding sings soul</a> &nbsp;&nbsp;
+         (1965)</td></tr><tr><td valign="center"><font size="+1"><center><b>67</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_22"><b>bob dylan</b></a>:<br><br><a href="view_album_details/album_id_is_6296">the freewheelin&#39; bob dylan</a> &nbsp;&nbsp;
+         (1963)</td></tr><tr><td valign="center"><font size="+1"><center><b>68</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1809"><b> wu-tang clan</b></a>:<br><br><a href="view_album_details/album_id_is_11014">enter the wu-tang (36 chambers)</a> &nbsp;&nbsp;
+         (1993)</td></tr><tr><td valign="center"><font size="+1"><center><b>69</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_45"><b> rolling stones</b></a>:<br><br><a href="view_album_details/album_id_is_992">beggars banquet</a> &nbsp;&nbsp;
+         (1968)</td></tr><tr><td valign="center"><font size="+1"><center><b>70</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_114"><b>marvin  gaye</b></a>:<br><br><a href="view_album_details/album_id_is_5892">what&#39;s going on</a> &nbsp;&nbsp;
+         (1971)</td></tr><tr><td valign="center"><font size="+1"><center><b>71</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_125"><b> my bloody valentine</b></a>:<br><br><a href="view_album_details/album_id_is_355">loveless</a> &nbsp;&nbsp;
+         (1991)</td></tr><tr><td valign="center"><font size="+1"><center><b>72</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1693"><b>carole king</b></a>:<br><br><a href="view_album_details/album_id_is_5499">tapestry</a> &nbsp;&nbsp;
+         (1971)</td></tr><tr><td valign="center"><font size="+1"><center><b>73</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_811"><b> neu!</b></a>:<br><br><a href="view_album_details/album_id_is_6216">neu! &#39;75</a> &nbsp;&nbsp;
+         (1975)</td></tr><tr><td valign="center"><font size="+1"><center><b>74</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_738"><b>neil young</b></a>:<br><br><a href="view_album_details/album_id_is_2402">on the beach</a> &nbsp;&nbsp;
+         (1974)</td></tr><tr><td valign="center"><font size="+1"><center><b>75</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1689"><b> genesis</b></a>:<br><br><a href="view_album_details/album_id_is_5917">foxtrot</a> &nbsp;&nbsp;
+         (1972)</td></tr><tr><td valign="center"><font size="+1"><center><b>76</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1751"><b> kansas</b></a>:<br><br><a href="view_album_details/album_id_is_5768">leftoverture</a> &nbsp;&nbsp;
+         (1976)</td></tr><tr><td valign="center"><font size="+1"><center><b>77</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1467"><b>john martyn</b></a>:<br><br><a href="view_album_details/album_id_is_5047">solid air</a> &nbsp;&nbsp;
+         (1973)</td></tr><tr><td valign="center"><font size="+1"><center><b>78</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_672"><b> sigur rós</b></a>:<br><br><a href="view_album_details/album_id_is_2115">ágætis byrjun</a> &nbsp;&nbsp;
+         (1999)</td></tr><tr><td valign="center"><font size="+1"><center><b>79</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_3346"><b> jonathan richman &amp; the modern lovers</b></a>:<br><br><a href="view_album_details/album_id_is_12136">the modern lovers</a> &nbsp;&nbsp;
+         (1976)</td></tr><tr><td valign="center"><font size="+1"><center><b>80</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_16"><b>jimi hendrix</b></a>:<br><br><a href="view_album_details/album_id_is_2325">axis - bold as love</a> &nbsp;&nbsp;
+         (1967)</td></tr><tr><td valign="center"><font size="+1"><center><b>81</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_632"><b> marillion</b></a>:<br><br><a href="view_album_details/album_id_is_1981">clutching at straws</a> &nbsp;&nbsp;
+         (1987)</td></tr><tr><td valign="center"><font size="+1"><center><b>82</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_22"><b>bob dylan</b></a>:<br><br><a href="view_album_details/album_id_is_6295">desire</a> &nbsp;&nbsp;
+         (1976)</td></tr><tr><td valign="center"><font size="+1"><center><b>83</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_825"><b> talk talk</b></a>:<br><br><a href="view_album_details/album_id_is_2779">laughing stock</a> &nbsp;&nbsp;
+         (1991)</td></tr><tr><td valign="center"><font size="+1"><center><b>84</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_31"><b> led zeppelin</b></a>:<br><br><a href="view_album_details/album_id_is_43">led zeppelin iv</a> &nbsp;&nbsp;
+         (1971)</td></tr><tr><td valign="center"><font size="+1"><center><b>85</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_3336"><b> caravan</b></a>:<br><br><a href="view_album_details/album_id_is_12095">in the land of grey &amp; pink</a> &nbsp;&nbsp;
+         (1971)</td></tr><tr><td valign="center"><font size="+1"><center><b>86</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1502"><b> santana</b></a>:<br><br><a href="view_album_details/album_id_is_4878">abraxas</a> &nbsp;&nbsp;
+         (1970)</td></tr><tr><td valign="center"><font size="+1"><center><b>87</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_713"><b>the pretenders</b></a>:<br><br><a href="view_album_details/album_id_is_3243">the pretenders</a> &nbsp;&nbsp;
+         (1980)</td></tr><tr><td valign="center"><font size="+1"><center><b>88</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_2435"><b>john cale</b></a>:<br><br><a href="view_album_details/album_id_is_8551">music for a new society</a> &nbsp;&nbsp;
+         (1982)</td></tr><tr><td valign="center"><font size="+1"><center><b>89</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_229"><b>the pixies</b></a>:<br><br><a href="view_album_details/album_id_is_1088">surfer rosa</a> &nbsp;&nbsp;
+         (1988)</td></tr><tr><td valign="center"><font size="+1"><center><b>90</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_312"><b> pink floyd</b></a>:<br><br><a href="view_album_details/album_id_is_974">wish you were here</a> &nbsp;&nbsp;
+         (1975)</td></tr><tr><td valign="center"><font size="+1"><center><b>91</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_97"><b> manic street preachers</b></a>:<br><br><a href="view_album_details/album_id_is_388">the holy bible</a> &nbsp;&nbsp;
+         (1994)</td></tr><tr><td valign="center"><font size="+1"><center><b>92</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_2341"><b> arcturus</b></a>:<br><br><a href="view_album_details/album_id_is_8122">la masquerade infernale</a> &nbsp;&nbsp;
+         (1997)</td></tr><tr><td valign="center"><font size="+1"><center><b>93</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_45"><b> rolling stones</b></a>:<br><br><a href="view_album_details/album_id_is_145">sticky fingers</a> &nbsp;&nbsp;
+         (1971)</td></tr><tr><td valign="center"><font size="+1"><center><b>94</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_45"><b> rolling stones</b></a>:<br><br><a href="view_album_details/album_id_is_996">exile on main street</a> &nbsp;&nbsp;
+         (1972)</td></tr><tr><td valign="center"><font size="+1"><center><b>95</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_286"><b>the stooges</b></a>:<br><br><a href="view_album_details/album_id_is_845">fun house</a> &nbsp;&nbsp;
+         (1970)</td></tr><tr><td valign="center"><font size="+1"><center><b>96</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_738"><b>neil young</b></a>:<br><br><a href="view_album_details/album_id_is_2406">rust never sleeps</a> &nbsp;&nbsp;
+         (1979)</td></tr><tr><td valign="center"><font size="+1"><center><b>97</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_126"><b>van morrison</b></a>:<br><br><a href="view_album_details/album_id_is_357">moondance</a> &nbsp;&nbsp;
+         (1970)</td></tr><tr><td valign="center"><font size="+1"><center><b>98</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_554"><b> steely dan</b></a>:<br><br><a href="view_album_details/album_id_is_1726">can&#39;t buy a thrill</a> &nbsp;&nbsp;
+         (1972)</td></tr><tr><td valign="center"><font size="+1"><center><b>99</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1439"><b>stevie wonder</b></a>:<br><br><a href="view_album_details/album_id_is_5734">innervisions</a> &nbsp;&nbsp;
+         (1973)</td></tr><tr><td valign="center"><font size="+1"><center><b>100</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_126"><b>van morrison</b></a>:<br><br><a href="view_album_details/album_id_is_356">astral weeks</a> &nbsp;&nbsp;
+         (1968)</td></tr></table> 
+
+<table border="0" cellpadding="1" cellspacing="5" width="90%" align="center"><tr><td>
+</td></tr></table><br><br><hr noshade width="95%" color="#ccccff">
+<center><font size="-2"><br><br></td></tr></table>  <table border="1" width="95%" cellpadding="3" cellspacing="0" align="center" border="1" bordercolordark="#ccccff" bgcolor="#ffffff">
+  <tr align="center">
+  <td align="center" width="20%">
+  <font size="-2"><a href="index">home</a></font></td>
+  <td align="center" width="20%">
+  <font size="-2"><a href="tos">terms of service</a></font></td>
+  <td align="center" width="20%">
+  <font size="-2"><a href="privacy">privacy</a></font></td>
+  <td align="center" width="20%">
+  <font size="-2"><a href="about">about</a></font></td>
+  <td align="center" width="20%">
+  <font size="-2"><a href="suggestions">suggestions/feedback</a></font></td>
+  </tr>
+  <tr bgcolor="#aaaacc"><td align="center" colspan="5">
+  <font color="white" size="-1"><b>&copy; 2000-2003
+rateyourmusic.com</b></font></td></tr></table>
+  </body>
+  </html><!--
+     file archived on 16:31:31 jun 03, 2003 and retrieved from the
+     internet archive on 08:53:56 mar 29, 2023.
+     javascript appended by wayback machine, copyright internet archive.
+
+     all other content may also be protected by copyright (17 u.s.c.
+     section 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 325.105
+  exclusion.robots: 0.142
+  exclusion.robots.policy: 0.133
+  rediscdxsource: 13.647
+  esindex: 0.007
+  loadshardblock: 293.045 (3)
+  petaboxloader3.datanode: 216.315 (4)
+  load_resource: 312.637
+  petaboxloader3.resolve: 222.692
+-->

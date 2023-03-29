@@ -1,0 +1,3130 @@
+<!doctype html>
+<html class="theme_">
+   <head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=viqoywbk" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nkc" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://rateyourmusic.com/charts/top/album/all-time","20180926053104","https://web.archive.org/","web","/_static/",
+	      "1537939864");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=s1zqjcyt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvmkcij" />
+<!-- end wayback rewrite js include -->
+
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <meta name="apple-mobile-web-app-capable" content="yes"/> 
+      <title>top albums of all-time - rate your music</title> 
+      <link rel="stylesheet" href="https://web.archive.org/web/20180926053104cs_/https://e.snmc.io/2.5/css/min28.css" type="text/css">
+      <link rel="shortcut icon" href="/web/20180926053104im_/https://rateyourmusic.com/favicon.ico" type="image/x-icon"/>
+      <link rel="icon" href="/web/20180926053104im_/https://rateyourmusic.com/favicon.ico" type="image/x-icon"/>
+   <link rel="dns-prefetch" href="//web.archive.org/web/20180926053104/https://e.snmc.io/"><link rel="dns-prefetch" href="//web.archive.org/web/20180926053104/https://ib.adnxs.com/"><link rel="dns-prefetch" href="//web.archive.org/web/20180926053104/https://ap.lijit.com/"><link rel="dns-prefetch" href="//web.archive.org/web/20180926053104/https://adserver.adtechus.com/"><link rel="dns-prefetch" href="//web.archive.org/web/20180926053104/https://tpc.googlesyndication.com/"><link rel="dns-prefetch" href="//web.archive.org/web/20180926053104/https://pagead2.googlesyndication.com/">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+     
+      <meta name="description" content="rate your music is an online community of people who love music.  catalog, rate, tag, and review your music.  list and review the concerts you've attended, and track upcoming shows.   when you rate your music, the site's music/social recommender can recommend similar music and users with similar music taste. "/>
+      <meta name="keywords" content="rate your music, rate music, rate albums, music catalog, music catalogue, social software, album reviews, music lists, community, music recommendations, concert listings, record labels, venues, shows"/>
+
+      <script>
+         ryminit = window.ryminit || [];
+
+         function rymq( a ) {
+            if ( !ryminit ) {
+               a();
+            } else {
+               ryminit.push(a);
+            }
+         }
+
+      </script>
+
+         <script type="text/javascript">rymq(function() { rym.session.init(0, '0', '');});</script><script> window.cookie_consent = true; </script><script> window.is_eea = false; </script>
+
+   <script>
+           var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+   </script>
+
+   <script type="text/javascript">
+
+   var _gaq = _gaq || [];
+   _gaq.push(['_setaccount', 'ua-59057-1']);
+   _gaq.push (['_gat._anonymizeip']);
+   _gaq.push(['_trackpageview']);
+
+   function initga ( ) {
+
+
+     (function() {
+       var ga = document.createelement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://web.archive.org/web/20180926053104/https://ssl' : 'https://web.archive.org/web/20180926053104/http://www') + '.google-analytics.com/ga.js';
+       var s = document.getelementsbytagname('script')[0]; s.parentnode.insertbefore(ga, s);
+     })();
+   }
+
+   var initgatimer = setinterval(function() { 
+
+      if ( window.cookie_consent ) {
+         clearinterval(initgatimer);
+         initga();
+      }
+
+   }, 100);
+
+   </script>
+   
+
+ <!-- dfp id: chart / ads: enabled --> 
+<!-- used for ad reporting functionality -->
+      <script>
+         // internal ad tracking stuff
+         window.rymads = window.rymads || {}; 
+         window.rymadslots = window.rymadslots || {}; 
+      
+         rymads['div-gpt-ad-1465817209349-63'] = {load_type:'standard', sizes:'[[336, 280], [300, 250], [400, 300]]', name:'charts.case-a.300-400.top', description:'charts: top-right rectangle'}; 
+         rymads['div-gpt-ad-1465817209349-37'] = {load_type:'standard', sizes:'[[728, 90], [970, 90]]', name:'charts.case-a.728-970.top', description:'charts: top of page'}; 
+         rymads['div-gpt-ad-1465817209349-38'] = {load_type:'lazyload', sizes:'[[728, 90], [970, 90]]', name:'charts.case-a.728-970.mid', description:'charts: middle of page'}; 
+         rymads['div-gpt-ad-1465817209349-115'] = {load_type:'lazyload', sizes:'[[728, 90], [970, 90]]', name:'charts.case-a.728-970.mid-2', description:'charts: middle of page'}; 
+         rymads['div-gpt-ad-1465817209349-116'] = {load_type:'lazyload', sizes:'[[728, 90], [970, 90]]', name:'charts.case-a.728-970.mid-3', description:'charts: middle of page'}; 
+         rymads['div-gpt-ad-1465817209349-117'] = {load_type:'lazyload', sizes:'[[728, 90], [970, 90]]', name:'charts.case-a.728-970.mid-4', description:'charts: middle of page'}; 
+         rymads['div-gpt-ad-1465817209349-121'] = {load_type:'lazyload', sizes:'[[728, 90], [970, 90]]', name:'charts.case-a.728-970.mid-5', description:'charts: middle of page'}; 
+         rymads['div-gpt-ad-1465817209349-39'] = {load_type:'lazyload', sizes:'[[728, 90], [970, 90]]', name:'charts.case-a.728-970.bottom', description:'charts: bottom of page'}; 
+         rymads['div-gpt-ad-1465817209349-80'] = {load_type:'standard', sizes:'', name:'charts.case-a.desktop-anchor', description:'chart page: - sticky desktop unit'}; 
+
+         function fixads() {
+            for ( i in window.rymads) {
+               if ( document.getelementbyid('google_ads_iframe_/31961696/' + rymads[i].name + '_0__container__') ) {
+                  document.getelementbyid('google_ads_iframe_/31961696/' + rymads[i].name + '_0__container__').style.height = '';
+                  document.getelementbyid('google_ads_iframe_/31961696/' + rymads[i].name + '_0__container__').style.width = '';
+               }
+            }              
+         }
+
+         //setinterval(fixads, 1500);
+
+      </script>
+<!-- end rymads -->
+
+           <script> 
+                var prebid_max_retries = 50;
+                var prebid_timeout = 1600;
+                var adunits = [{"code":"div-gpt-ad-1465817209349-63","bids":[{"bidder":"appnexusast","params":{"placementid":"10850178"}},{"bidder":"appnexusast","params":{"placementid":"10850187"}},{"bidder":"districtm","params":{"placementid":"9001962"}},{"bidder":"districtmdmx","params":{"id":"121402"}},{"bidder":"brealtime","params":{"placementid":"9000928"}},{"bidder":"aol","params":{"network":"10715.1","placement":"4235885"}},{"bidder":"33across","params":{"productid":"siab","siteid":"cxee1ycner6ikvaklid8sq"}}],"sizes":[[300,250],[300,400]]},{"code":"div-gpt-ad-1465817209349-37","bids":[{"bidder":"appnexusast","params":{"placementid":"10850167"}},{"bidder":"districtm","params":{"placementid":"9001962"}},{"bidder":"districtmdmx","params":{"id":"121402"}},{"bidder":"brealtime","params":{"placementid":"9001130"}},{"bidder":"aol","params":{"network":"10715.1","placement":"4235883"}},{"bidder":"33across","params":{"productid":"siab","siteid":"ayxcwqcner6i0yakkv7mno"}}],"sizes":[[728,90]]},{"code":"div-gpt-ad-1465817209349-38","bids":[{"bidder":"appnexusast","params":{"placementid":"10850175"}},{"bidder":"districtm","params":{"placementid":"9001962"}},{"bidder":"districtmdmx","params":{"id":"121402"}},{"bidder":"brealtime","params":{"placementid":"9056037"}},{"bidder":"aol","params":{"network":"10715.1","placement":"4235887"}},{"bidder":"33across","params":{"productid":"siab","siteid":"bfjk_acner6iodakkv7mno"}}],"sizes":[[728,90]]},{"code":"div-gpt-ad-1465817209349-115","bids":[{"bidder":"appnexusast","params":{"placementid":"10850176"}},{"bidder":"districtm","params":{"placementid":"9001962"}},{"bidder":"districtmdmx","params":{"id":"121402"}},{"bidder":"brealtime","params":{"placementid":"9056041"}},{"bidder":"aol","params":{"network":"10715.1","placement":"4235882"}},{"bidder":"33across","params":{"productid":"siab","siteid":"bqh84scner6kx6akkgjozw"}}],"sizes":[[728,90]]},{"code":"div-gpt-ad-1465817209349-116","bids":[{"bidder":"appnexusast","params":{"placementid":"13626299"}},{"bidder":"districtm","params":{"placementid":"9001962"}},{"bidder":"districtmdmx","params":{"id":"121402"}}],"sizes":[[728,90]]},{"code":"div-gpt-ad-1465817209349-117","bids":[{"bidder":"appnexusast","params":{"placementid":"13626300"}},{"bidder":"districtm","params":{"placementid":"9001962"}},{"bidder":"districtmdmx","params":{"id":"121402"}}],"sizes":[[728,90]]},{"code":"div-gpt-ad-1465817209349-121","bids":[{"bidder":"districtm","params":{"placementid":"9001962"}},{"bidder":"districtmdmx","params":{"id":"121402"}}],"sizes":[[728,90]]},{"code":"div-gpt-ad-1465817209349-39","bids":[{"bidder":"districtm","params":{"placementid":"9001962"}},{"bidder":"districtmdmx","params":{"id":"121402"}}],"sizes":[[728,90]]},{"code":"div-gpt-ad-1465817209349-80","bids":[]}];
+             
+             var pbjs = pbjs || {};
+             pbjs.que = pbjs.que || [];
+             pbjs.retries = 0;
+
+
+             pbjs.biddersettings = {
+
+               brealtime: {
+                 bidcpmadjustment : function(bidcpm){
+                   return bidcpm * 1.1; // 
+                 }
+               },
+               appnexusast: {
+                 bidcpmadjustment : function(bidcpm){
+                   return bidcpm * 1.118; // 
+                 }
+               },
+               districtm: {
+                 bidcpmadjustment : function(bidcpm){
+                   return bidcpm * 1.002; // 
+                 }
+               },
+               districtmdmx: {
+                 bidcpmadjustment : function(bidcpm){
+                   return bidcpm * 1.002; 
+                 }
+               },
+               springserve: {
+                 bidcpmadjustment : function(bidcpm){
+                   return bidcpm * 0.7; // 
+                 }
+               },
+               sovrn: {
+                 bidcpmadjustment : function(bidcpm){
+                   return bidcpm * 0.909;  
+                 }
+               },              
+               pulsepoint: {
+                 bidcpmadjustment : function(bidcpm){
+                   return bidcpm * 0.95; // 
+                 }                  
+               },
+               sekindoum: {
+                 bidcpmadjustment : function(bidcpm){
+                   return bidcpm * 0.95; // 1.0 * 0.93
+                 }
+               },
+               sekindo: {
+                 bidcpmadjustment : function(bidcpm){
+                   return bidcpm * 0.75; // 
+                 }
+               },
+               aol: {
+                 bidcpmadjustment : function(bidcpm){
+                   return bidcpm * 0.8799;  
+                 }
+               },
+               "33across": {
+                 bidcpmadjustment : function(bidcpm){
+                   return bidcpm * 1.0283;  
+                 }                  
+               }
+
+             };
+           </script>
+      <script src="/web/20180926053104js_/https://rateyourmusic.com/static/js/prebid.20180920-eu.js" async></script>
+      <style>
+         .dfp_400_300 {
+            width:400px;
+            height:300px;
+            xtext-align:center;
+            margin:0 auto;
+            margin-top:1em; 
+            margin-bottom:1em;
+         }
+
+         .dfp_320_100 {
+            width:320px;
+            height:100px;
+            margin-top:0.5em;
+            text-align:center;
+            margin:0 auto;
+            margin-top:0.5em;
+            margin-bottom:1.2em;
+         }
+
+         .dfp_300_float_right {
+            float:right;width:300px;height:250px;margin-left:1em;margin-top:1em;
+         }
+
+      </style>
+
+      <script type="text/javascript">
+
+        googletag.cmd.push(function() {
+            googletag.pubads().disableinitialload();
+        });
+
+
+        var inittimer = setinterval(function() {
+
+            if ( window.cookie_consent ) {
+               clearinterval(inittimer);
+            } else {
+               return;
+            }
+
+           (function() {
+             var gads = document.createelement('script');
+             gads.async = true;
+             gads.type = 'text/javascript';
+             var usessl = 'https:' == document.location.protocol;
+             gads.src = (usessl ? 'https:' : 'http:') +
+               '//web.archive.org/web/20180926053104/https://www.googletagservices.com/tag/js/gpt.js';
+             var node = document.getelementsbytagname('script')[0];
+             node.parentnode.insertbefore(gads, node);
+           })();
+         }, 100);
+
+
+
+
+
+      </script>
+   <script> window.reportadsautomatically = 0;</script>
+         <script>
+
+         var pubadsreadyonrefresh = false;
+         pbjs.pubadsretries = 0;
+         pbjs.displaycallretries = 0;
+
+         function initadserver() {
+           if (pbjs.initadserverset) return;
+
+
+           //we don't want to call dfp before it is ready
+           if( (!googletag.pubadsready || !pbjs.displaycalledonallunits) && pbjs.retries <= prebid_max_retries) {
+             if ( !googletag.pubadsready ) {
+                pbjs.pubadsretries++;
+             }
+             if ( !pbjs.displaycalledonallunits ) {
+                pbjs.displaycallretries++;               
+             }
+             settimeout(initadserver, 100);
+             pbjs.retries++;
+             return;
+           }
+
+           console.log ( pbjs.retries + ' retries needed: ' + pbjs.pubadsretries + ' waiting for pubads and ' + pbjs.displaycallretries + ' waiting for display()')
+
+
+           googletag.cmd.push(function () {
+             
+
+
+             pubadsreadyonrefresh = googletag.pubadsready;
+
+            function checkadvisibility() {
+
+               if ( typeof(jquery) === 'undefined' ) {
+                  return
+               }
+
+               for ( var i in rymads ) {
+                  // 
+                  if ( $('#' + i).length && rymads[i] && rymads[i].sizes.length > 0 && rymads[i].load_type === 'lazyload'  ) {
+                     if ( $('#' + i).visible(true, false, 'vertical') ) {
+                         if ( rymadslots[i] ) {
+
+                           googletag.cmd.push(function () {
+                              pbjs.que.push(function () {
+                                pbjs.settargetingforgptasync([i]);
+                                googletag.pubads().refresh([rymadslots[i]])
+                              });
+                           });
+                           
+                           rymadslots[i] = null;
+                           console.log(i + ' is in view, refeshing now.');
+                        }
+                     };
+                  } else {
+                     if ( rymadslots[i] ) {
+                           googletag.cmd.push(function () {
+                              pbjs.que.push(function () {
+                                pbjs.settargetingforgptasync([i]);
+                                googletag.pubads().refresh([rymadslots[i]])
+                              });
+                           });
+                           rymadslots[i] = null;
+                           console.log (i + ' not found or is not lazy load, so calling refresh now')
+                     }
+                  }
+
+                  var hasactivead = false;
+                  for ( var i in rymadslots ) {
+                     if ( rymadslots[i] ) {
+                        hasactivead = true;
+                     }
+                  }
+
+                  if ( !hasactivead ) {
+                     clearinterval(adtimer)
+                     console.log('all ads have been seen, stopping timer')
+                  }
+               }
+
+            }
+
+            if ( true ) {
+
+               checkadvisibility();
+
+               var adtimer = setinterval( checkadvisibility, 250);
+
+            } else {
+               googletag.pubads().refresh();
+            }
+
+
+             settimeout(function() {
+                if ( window.reportadsautomatically ) {
+                  console.log ('notifying: ' + json.stringify(pbjs._winningbids))
+                  rymq(function() { rym.request.post('adsautoreport', {ad_json:json.stringify(pbjs._winningbids)}, null, 'script');});
+                }
+             }, 1500);
+
+             settimeout(function() {
+               if ( !slotrendered && !areadsblocked() ) {
+                  rymq(function() { rym.request.post('markfaileddfprender', {par:pubadsreadyonrefresh}, null, 'script');});
+               }
+              }, 5000);
+
+           });
+           pbjs.initadserverset = true;
+         }
+
+        var customconfigobject = {
+           "buckets" : [{
+               "precision": 2,  
+               "min" : 0,
+               "max" : 2,
+               "increment" : 0.01
+             },
+             {
+               "precision": 2,
+               "min" : 2,
+               "max" : 20,
+               "increment" : 0.10
+             }]
+         };
+
+         var g_confiantid = 'aurqodolhe1icxocefnrokionbu';
+         
+         pbjs.que.push(function() {
+             
+             var confiantwrap = function(a,b,c,d,e){function f(a){return(m(a)||"")[s]("/","_")[s]("+","-")}function g(b,c,d){var e=w+n(b)+"&d="+c,f="err__"+1*new date;k[f]=d;var g="<"+q+" on"+t+'="void('+f+'())" '+r+'="'+e+'" type="text/java'+q+'" ></'+q+">";a[v](g)}function h(){var c=f(d+"/"+x.k.hb_bidder[0]+":"+x.k.hb_size[0]),h={wh:c,wd:l.parse(l[u](x)),wr:0};g(c,f(l[u](h)),function(){a[v](b.ad)});var i={prebid:{adid:b.adid,cpm:b.cpm}},j={d:h,t:b.ad,cb:e,id:i};k[d]={},k[d][c]=j}var i=b.bidder,j=b.size,k=a.parentwindow||a.defaultview,l=k.json,m=k.btoa,n=k.encodeuricomponent;if(!l||!m)return!1;var o="t",p="i",q="script",r="src",s="replace",t="error",u="stringify",v="wr"+p+o+"e",w="https://"+c+"/?wrapper="+n(d)+"&tpid=",x={k:{hb_bidder:[i],hb_size:[j]}};return h(),a.close(),!0};
+
+             // keep a reference to original renderad function
+             var w = window;
+             w.clrm = w.clrm || {};
+             w.clrm.renderad = w.clrm.renderad || pbjs.renderad;
+             // override renderad
+             pbjs.renderad = function(doc, id, dummy1, dummy2, dummy3) {
+                 if (doc && id) {
+                     try {
+
+                         // get pbjs bids
+                         var bids;
+                         if (pbjs._bidsreceived) {       // prebid < 1.0
+                             bids = pbjs._bidsreceived;
+                         } else {                        // prebid >= 1.0
+                             bids = pbjs.gethighestcpmbids();
+                         }
+
+                         // lookup ad by ad id (avoid es6 array functions)
+                         var bid, i;
+                         for (i=0; i<bids.length; i++) {
+                             if (bids[i].adid === id) {
+                                 bid = bids[i];
+                                 break;
+                             }
+                         }
+
+                         // optional: list of bidders that don't need wrapping, array of strings, e.g.: ["bidder1", "bidder2"]
+                         var confiantexcludebidders = [];
+                 
+                         // check bidder exclusion (avoid es6 array functions)
+                         var excludebidder = false;
+                         for (i=0; i<confiantexcludebidders.length; i++) {
+                             if (bid.bidder === confiantexcludebidders[i]) {
+                                 excludebidder = true;
+                                 break;
+                             }
+                         }
+
+                         if (bid && bid.ad && !excludebidder) {
+                             // neutralize document
+                             var docwrite = doc.write;
+                             var docclose = doc.close;
+                             doc.write = doc.close = function() {};
+                             // call renderad with our neutralized doc.write
+                             window.clrm.renderad(doc, id);
+                             // restore document
+                             doc.write = docwrite;
+                             doc.close = docclose;
+
+                             var cdnhost = 'clarium.global.ssl.fastly.net';
+                             var confiantid = g_confiantid;
+                             var callback = function(blockingtype, blockingid, isblocked, wrapperid, tagid, impressiondata) {
+                                 console.log("w00t one more bad ad nixed.", arguments);
+                             };
+                                 
+                             // do the actual ad serving and fall back on document.write if failure
+                             if (!confiantwrap(doc, bid, cdnhost, confiantid, callback)) {
+                                 doc.write(bid.ad);
+                                 doc.close();
+                             }
+                             
+                             /** 
+                             * push an object to localstorage with eviction of old keys
+                             * @param string
+                             * @param object
+                             * @return void
+                             */
+                             (function (propertyid, value) {
+                                 var maxkeys = 20;
+                                 var indexkey = 'clrmix_' + propertyid;
+                                 var keyprefix = 'clrm_' + propertyid;
+                                 
+                                 try {
+                                     var index = localstorage.getitem(indexkey);
+                                     if (!index) {
+                                       index = 0;
+                                     } else {
+                                       index = parseint(index)+1;
+                                     }
+                                     localstorage.setitem(keyprefix + '-' + index.tostring(), json.stringify(value));
+                                     localstorage.setitem(indexkey, index.tostring());
+                                     
+                                     if(index >= maxkeys) {
+                                         index -= maxkeys;
+                                         localstorage.removeitem(keyprefix + '-' + index.tostring());
+                                     }
+                                 } catch(e) {
+                                     console.log(e);
+                                 }
+                             } (confiantid, {
+                                 date: date.now(),
+                                 adid: bid.adid,
+                                 ad: bid.ad.substr(0, 2048),
+                                 bidder: bid.bidder
+                             }));
+
+                             return;
+                         }
+                     } catch (e) {
+                         console.log(e);
+                     }
+                 }
+
+                 // if bid.ad is not defined or if any error occurs, call renderad to serve the creative
+                 window.clrm.renderad(doc, id);
+             };
+
+         });
+
+        var initpbjstimer = setinterval(function() {
+
+            if ( window.cookie_consent ) {
+               clearinterval(initpbjstimer);
+            } else {
+               return;
+            }
+
+ 
+              pbjs.que.push(function() {
+
+                 if ( window.is_eea ) {
+                    pbjs.setconfig({ 
+                       usersync: {
+                           syncsperbidder: 50
+                       },
+                       maxrequestsperorigin: 1,
+                       timeoutbuffer: 400,
+                       disableajaxtimeout: true,
+                     pricegranularity: customconfigobject,
+                     consentmanagement: {
+                     cmpapi: 'iab',
+                     timeout: 8000,
+                     allowauctionwithoutconsent: false
+                   } })
+                 } else {
+                    pbjs.setconfig({ 
+                        pricegranularity: customconfigobject,
+                          usersync: {
+                              syncsperbidder: 50
+                          },
+                          maxrequestsperorigin: 1,
+                          timeoutbuffer: 400,
+                          disableajaxtimeout: true
+                         })
+                 }
+                 pbjs.addadunits(adunits);
+
+                 pbjs.requestbids({
+                   bidsbackhandler: function(bidresponses) {
+                      initadserver();
+                    },
+                   timeout : prebid_timeout
+                 });
+
+
+
+               }); 
+         }, 100);
+
+
+
+     
+
+
+       </script>
+
+
+      
+      <script type="text/javascript">
+         googletag.cmd.push(function () {
+            googletag.pubads().settargeting('pagetype', ['chart'])
+               .settargeting('pb_timeout','d1600')
+               .settargeting('case','')
+               .settargeting('logged_in','false')
+               .settargeting('https','true').settargeting('customize_floating','true')
+      .settargeting('customize_exit_int','true')
+         
+               .settargeting('srm','enabled');
+
+            <!-- ad slot definition -->
+         rymadslots['div-gpt-ad-1465817209349-63'] =    googletag.defineslot('/31961696/charts.case-a.300-400.top', [[336, 280], [300, 250], [400, 300]], 'div-gpt-ad-1465817209349-63').addservice(googletag.pubads());
+         rymadslots['div-gpt-ad-1465817209349-37'] =    googletag.defineslot('/31961696/charts.case-a.728-970.top', [[728, 90], [970, 90]], 'div-gpt-ad-1465817209349-37').addservice(googletag.pubads());
+         rymadslots['div-gpt-ad-1465817209349-38'] =    googletag.defineslot('/31961696/charts.case-a.728-970.mid', [[728, 90], [970, 90]], 'div-gpt-ad-1465817209349-38').addservice(googletag.pubads());
+         rymadslots['div-gpt-ad-1465817209349-115'] =    googletag.defineslot('/31961696/charts.case-a.728-970.mid-2', [[728, 90], [970, 90]], 'div-gpt-ad-1465817209349-115').addservice(googletag.pubads());
+         rymadslots['div-gpt-ad-1465817209349-116'] =    googletag.defineslot('/31961696/charts.case-a.728-970.mid-3', [[728, 90], [970, 90]], 'div-gpt-ad-1465817209349-116').addservice(googletag.pubads());
+         rymadslots['div-gpt-ad-1465817209349-117'] =    googletag.defineslot('/31961696/charts.case-a.728-970.mid-4', [[728, 90], [970, 90]], 'div-gpt-ad-1465817209349-117').addservice(googletag.pubads());
+         rymadslots['div-gpt-ad-1465817209349-121'] =    googletag.defineslot('/31961696/charts.case-a.728-970.mid-5', [[728, 90], [970, 90]], 'div-gpt-ad-1465817209349-121').addservice(googletag.pubads());
+         rymadslots['div-gpt-ad-1465817209349-39'] =    googletag.defineslot('/31961696/charts.case-a.728-970.bottom', [[728, 90], [970, 90]], 'div-gpt-ad-1465817209349-39').addservice(googletag.pubads());
+        rymadslots['div-gpt-ad-1465817209349-80'] =    googletag.defineoutofpageslot('/31961696/charts.case-a.desktop-anchor', 'div-gpt-ad-1465817209349-80').addservice(googletag.pubads()); 
+            googletag.pubads().enablesinglerequest();
+
+            slotrendered = false;
+
+
+            pbjs.displaycalledonallunits = false;
+
+            googletag.__display = googletag.display;
+
+            googletag.display = function(unit) {
+
+               var retvalue = googletag.__display(unit);
+
+               console.log ('displaying ' + unit);
+               rymads[unit].loaded = true;
+
+               var allloaded = true;
+
+               for ( var i in rymads ) { 
+
+                  if ( !rymads[i].loaded && rymads[i].sizes.length > 0 ) {
+                     allloaded = false;
+                     break;
+                  }
+
+               }
+
+               if ( allloaded ) {
+                  pbjs.displaycalledonallunits = true;
+               }
+
+               return retvalue;
+
+            };
+
+
+            googletag.pubads().addeventlistener('slotrenderended', function(event) {
+               slotrendered = true;
+            });
+
+            //googletag.pubads().collapseemptydivs(); 
+
+            googletag.enableservices();
+      
+        });
+      </script>
+      <style>
+          a.game:link, a.game:visited { color: #840505; cursor:pointer; }
+          a.game:active, a.game:hover { color: #d22c2c; }
+          a.game_platform { text-decoration:none;  color: #751617;  }
+          a.game_platform:hover { color: #444;  }
+          a.company_game { color: #de3625; text-decoration:none; border-bottom: 1px dotted #fcc; }
+          a.character { text-decoration:none;  color: #751617;  }
+          a.franchise { text-decoration:none;  color: #751617;  }
+
+          .extra_metadata { line-height:1.5; }
+
+          .extra_metadata_genres { font-size:1.1em; }
+          .extra_metadata_sec_genres a { font-weight:normal }
+          .extra_metadata_descriptors  { color:#888 }
+
+            .btn {
+               line-height: 1.9em;
+               font-size: 1.3em;
+               color: #555;
+               background: linear-gradient(to bottom, #e8e8e8, #f8f8f8);
+               padding: 0.3em;
+               padding-right: 0.8em;
+               padding-left: 0.8em;
+               xborder: 1px solid #ddd;
+               border-radius: 3px;
+               cursor:pointer;
+               text-align:center;
+               text-decoration:none;
+               user-select:none;
+               -webkit-user-select:none;
+            }
+
+            .blue_btn {
+               font-family:raleway,verdana,arial;
+               background:#236ab2;
+               border-radius:3px;
+               width:auto;
+               max-width:25em;
+               color:white !important;
+               text-align:center;
+            }
+
+      </style>
+ </head>
+
+
+<body>
+<div id="wrapper">
+
+
+	<div id="navtop"><div class="mobile_header_btn" onclick="$('#navlist').fadetoggle(100);">rym <i class="fa fa-caret-down"></i></div><ul id="navlist">
+		<li><a style="padding-top:3px;padding-bottom:4px;" title="front page" href="/web/20180926053104/https://rateyourmusic.com/">
+         <span class="hide-for-small"><img id="rstar" src="//web.archive.org/web/20180926053104im_/https://e.snmc.io/2.5/img/images/rstar.gif" alt=""/><span id="logotext">rym</span></span>
+         <span class="show-for-small">front page</span>
+         </a></a></li>
+		<li><a title="view top charts by year, location, genre and more!" href="/web/20180926053104/https://rateyourmusic.com/customchart">charts</a></li>
+      <li><a title="read and make lists" href="/web/20180926053104/https://rateyourmusic.com/lists/">lists</a></li>
+
+		<li><a title="message boards and member directory" href="/web/20180926053104/https://rateyourmusic.com/community/">community</a></li>
+
+		<li><a href="/web/20180926053104/https://rateyourmusic.com/account/login">log in / sign up</a></li>          <li><a href="/web/20180926053104/https://rateyourmusic.com/subscribe/" title="support rate your music with your subscription">
+             <span class="hide-for-small">$</span>
+             <span class="show-for-small">subscribe to rym</span>
+    </a></li>		
+	</ul>
+
+
+  <div class="helplink"><a href="/web/20180926053104/https://rateyourmusic.com/help">help</a></div>
+
+  <div class="main_searchbar">
+   <form id="mainsearch" action="/web/20180926053104/https://rateyourmusic.com/search">
+      <input type="hidden" name="bx" id="bx" value="e9f63959ba6496d854c658b70df9199a"/>
+      <input type="hidden" name="searchtype" id="searchtype" value="a"/>
+      <input tabindex="1" name="searchterm" value="" style="background:none;border:none;outline:none;width:110px;padding:3px;" placeholder="search...">
+      <div tabindex="3" id="mainsearch_submit" onkeydown="if (event.keycode == 13 || event.keycode == 20) { $('#mainsearch')[0].submit();}" onclick="$('#mainsearch')[0].submit();" style="cursor:pointer;float:right;color:#777;font-size: 0.8em;line-height: 22px;margin-left:3px;padding-left:8px;padding-right:5px;background:#e6e6e6">
+         ▶
+      </div>
+      <div tabindex="2" class="search_options_frame" onmouseover="rymq(function() {$('#search_options').show()});" onmouseout="rymq(function() {$('#search_options').hide();});" onfocus="rymq(function() {$('#search_options').show()});" onblur="rymq(function() {$('#search_options').hide();});" onkeydown="rymq(function() {cyclesearchtype(event);});">
+         <span id="searchtype_selected">artists</span> ▾
+
+         <div id="search_options" class="search_options">
+            <div class="search_option_header">music</div>
+               <div onclick="selectsearchtype('a');" id="searchtype_a" class="searchtype_option current">artists</div>
+               <div onclick="selectsearchtype('l');" id="searchtype_l" class="searchtype_option">all releases</div>
+               <div onclick="selectsearchtype('y');" id="searchtype_y" class="searchtype_option">v/a releases</div>
+               <div onclick="selectsearchtype('b');" id="searchtype_b" class="searchtype_option">label</div>
+               <div onclick="selectsearchtype('j');" id="searchtype_j" class="searchtype_option">catalog no.</div>
+               <div onclick="selectsearchtype('r');" id="searchtype_r" class="searchtype_option">classical work</div>
+               <div onclick="selectsearchtype('v');" id="searchtype_v" class="searchtype_option">review</div>
+               <div onclick="selectsearchtype('g');" id="searchtype_g" class="searchtype_option">genre</div>
+
+            <div class="search_option_header">film</div>
+
+               <div onclick="selectsearchtype('f');" id="searchtype_f" class="searchtype_option">film title</div>
+               <div onclick="selectsearchtype('a');" id="searchtype_a" class="searchtype_option">film cast/crew</div>
+
+            <div class="search_option_header">video games</div>
+               <div onclick="selectsearchtype('n');" id="searchtype_n" class="searchtype_option">game person</div>
+
+            <div class="search_option_header">site</div>
+
+               <div onclick="selectsearchtype('u');" id="searchtype_u" class="searchtype_option">user</div>
+               <div onclick="selectsearchtype('p');" id="searchtype_p" class="searchtype_option">boards</div>
+               <div onclick="selectsearchtype('s');" id="searchtype_s" class="searchtype_option">list</div>
+
+         </div>
+      </div>
+   </form>
+  </div>
+  <script>
+      function cyclesearchtype(event) {
+
+         var searchtypes = new array('a', 'l', 'y', 'b', 'j', 'r', 'v', 'g', 'f', 'a', 'u', 'p', 's');
+         var len = searchtypes.length;
+         var currentval = $('#searchtype').val();
+         var currentindex = searchtypes.indexof(currentval);
+         var nextindex = currentindex+1;
+         var previndex = currentindex-1;
+         if ( nextindex == len ) {
+            nextindex = 0;
+         }
+         if ( previndex < 0 ) {
+            previndex = len-1;
+         }
+
+         var nexttype = searchtypes[nextindex];
+         var prevtype = searchtypes[previndex];
+
+
+         switch (event.keycode) {
+            case 40: 
+               selectsearchtype(nexttype);
+               event.preventdefault();
+            break;
+
+            case 38:
+               selectsearchtype(prevtype);
+               event.preventdefault();
+            break;
+
+            case 13:
+               $('#mainsearch')[0].submit();
+               event.preventdefault();
+            break;
+            default: 
+               
+            break;
+         }
+
+        
+         return false;
+
+      }
+      function selectsearchtype(type) {
+         $('#searchtype').val(type);
+         $('#searchtype_selected').text($('#searchtype_' + type).text());
+         $('#search_options').hide();
+      }
+      rymq(function() {selectsearchtype('a')});
+
+  </script>
+
+
+</div>
+
+<!-- trick --><div style="clear:both;"></div>
+
+
+ 
+ <!-- ~~~~~~~~ begin content! ~~~~~~~~~~~~~~~ -->
+ <div id="content" style="border-top:none;"><script type="text/javascript" src="//web.archive.org/web/20180926053104js_/https://e.snmc.io/2.5/js/jquery-appear-b1.js"></script>
+
+   <style>
+   #breadcrumb {
+      background:transparent;
+   }
+   #breadcrumb li.lnk {
+      background:#fff !important;
+      font-size:1.2em;
+      color:#aaa !important;
+      line-height:2em;
+
+   }
+
+   #breadcrumb li.lnk a {
+      color:#aaa !important;
+   }
+   a.navlinkprev, a.navlinknext {
+      background:#ccc;
+      display:inline-block;
+      border-radius:3px;
+      margin-left:1em !important;
+      width:5em !important;
+      text-decoration:none;
+      font-weight:bold;
+      padding:0.3em !important;
+      padding-left:1em !important;
+      padding-right:1em !important;
+   }
+
+   a.navlinkprev:hover, a.navlinknext:hover {
+      background:#ddd;
+   }
+
+   .otherlinks {
+      width:20em;
+   }
+
+   a.prevnextlink {
+      font-size:1.3em;
+      color:#aaa;
+      line-height:2.5em;
+      text-decoration:none;
+   }
+   .nextlink {
+      float:right;
+   }
+   .prevlink:before {
+      content:'< ';
+   }
+
+   .nextlink:after {
+      content:' >';
+   }
+   </style>
+<div style="float:right;padding:1em;width:400px;height:350px"><div style="width:400px;line-height:2;margin-top:0.5em;font-size:1em;text-align:center;color:#888">sponsored links</div><!-- /31961696/charts.case-a.300-400.top -->
+            <div id="div-gpt-ad-1465817209349-63">
+            <script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465817209349-63'); });
+            </script>
+            </div></div><div style="margin-right:450px;"><div id="breadcrumb"><ul> <li class="lnk"><a href="/web/20180926053104/https://rateyourmusic.com/charts/">charts <b>&gt;</b></a></li><li class="lnk"><a href="/web/20180926053104/https://rateyourmusic.com/charts/top/">top <b>&gt;</b></a></li><li class="current"></li></ul></div><h1 style="font-weight:normal;height:auto;line-height:2em;">top albums of all-time</h1><div class="otherlinks"> </div><div style="margin-bottom:1em;margin-top:1em;background:#f8f8f8;color:#b55;border:1px #eee solid;padding:0.5em;font-size:1.2em;padding-left:1em;border-radius:3px;"><a style="text-decoration:none;color:#4a5de9" href="/web/20180926053104/https://rateyourmusic.com/customchart"> create your own chart by date, genre, location, and more</a></div><div style="font-size:1em;padding:0.5em; color:#888;margin-bottom:0em;">want to know more about how charts are calculated?  read the <b><a href="/web/20180926053104/https://rateyourmusic.com/wiki/rym:charts faq" target="blank" title="click to view documentation" class="wiki_link">charts faq</a></b></div><div style="font-size:1em;padding:0.5em; color:#888;margin-bottom:0.5em;"><a href="https://web.archive.org/web/20180926053104/https://twitter.com/sonemic" style="font-weight:bold;color:#1c94e0;text-decoration:none;"><i class="fa fa-twitter"></i> follow us on twitter</a> to be notified when charts are updated.</div><div style="font-size:1.2em;line-height:1.7;text-align:center;background:#f0f0f0;padding:0.75em;">page: <span class="navspan"><span class="navlinkcurrent">1</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/2">2</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/12">12</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/25">25</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/37">37</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/50">50</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/62">62</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/75">75</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/87">87</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/100">100</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/112">112</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/125">125</a> <a class="navlinknext" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/2">next &gt;</a></span></div></div><table><tr><td style="vertical-align:top;"><table class="mbgen" style="width:100%">
+
+   <style>
+
+      .mbgen, .mbgen tr, .mbgen td {
+         border:none;
+      }
+      .pos_mobile {
+         display:none;
+      }
+
+      .img_mobile {
+         display:none;
+      }
+
+      .chart_details {
+         padding:15px;padding-left:30px;
+      }
+
+      .chart_detail_line1 {
+         font-size:x-large;
+      }
+
+      .chart_detail_line2 {
+         font-size:1.7em;
+         margin-top:0.25em;
+         margin-bottom:0.25em;
+      }
+
+      .chart_detail_line3 {
+         margin-top:0.7em;
+         margin-bottom:0.25em;
+         font-size:0.9em;
+
+      }
+
+      .chart_detail_line3 a {
+         color:#669;
+
+      }
+
+      .chart_year {
+         color:#888;
+         font-size:0.6em;
+      }
+
+      .chart_stats {
+         padding:0.6em;
+         padding-left:30px;
+         color:#999;
+      }
+
+      .chart_stats a {
+         color:#666;
+         text-decoration:none;
+      }
+
+      @media only screen and (max-width:48em) {
+
+         .pos_mobile {
+            display:inline;
+            font-size:1.2em;
+            color:#666;
+         }
+         .pos_desktop {
+            display:none;
+         }
+
+         .img_mobile {
+            display:inline;
+            width:100px;
+            float:left;
+            max-height:100px;
+         }
+         .img_mobile img {
+            margin-top:0.5em;
+            margin-left:0.5em;
+            width:100px !important;
+            border-radius:5px;
+            margin-right:1em;
+         }
+
+         .chart_detail_line2 { 
+            font-size:1.4em;
+         }
+
+         .navspan a {
+            text-decoration:none;
+         }
+
+         .navspan {
+            padding-top:0.5em;
+            padding-bottom:0.5em;
+         }
+
+         #content {
+            padding:0;
+         }
+
+         table, tr, td {
+            padding:0;
+            border:none;
+         }
+
+         #content td {
+            padding:0;
+         }
+
+         #content tr {
+            margin-bottom:0.8em;
+         }
+
+         .chart_details {
+            padding:0.25em;
+            padding-top:0.7em;
+
+            margin-left:115px;
+            min-height:100px;
+         }
+
+         .chart_detail_line1 {
+            font-size:1.2em;
+            line-height:1.3
+         }
+
+         .chart_stats {
+            padding:0.5em;
+            font-size:0.8em;
+            border-bottom:1px solid #ddd;
+         }
+
+
+         .img_desktop {
+            display:none;
+         }
+      }
+   </style>
+<tr><td colspan="5"><div style="width:970px;height:90px;text-align:center;margin:0 auto;margin-top:0.25em;margin-bottom:1em;"><!-- /31961696/charts.case-a.728-970.top -->
+            <div id="div-gpt-ad-1465817209349-37">
+            <script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465817209349-37'); });
+            </script>
+            </div></div></td></tr>
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">1</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_45" style="width:150px;" title="ok computer" alt="ok computer" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/1cc996386fd37e5bcb128fef56fbc373/6525367" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/5008c0b7f30d85c1fdb3cc92d239fd0c/6525367"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_45" title="ok computer" alt="ok computer" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/1cc996386fd37e5bcb128fef56fbc373/6525367" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/5008c0b7f30d85c1fdb3cc92d239fd0c/6525367"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">1. </span>
+                  <a title="[artist42]" href="/web/20180926053104/https://rateyourmusic.com/artist/radiohead" class="artist">radiohead</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album45]" href="/web/20180926053104/https://rateyourmusic.com/release/album/radiohead/ok-computer/" class="album">ok computer</a> <span class="chart_year">(1997)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre116]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/alternative+rock/">alternative rock</a>, <a title="[genre52]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+rock/">art rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/radiohead/ok-computer/">rym rating: <b>4.23</b>
+             | ratings: <b>44,882</b> 
+             | reviews: <b>1,521</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/radiohead/ok-computer/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_1 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">2</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_976" style="width:150px;" title="the dark side of the moon" alt="the dark side of the moon" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/4dfc8a25d77eb2308e72166fd313951e/5395533" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/2cf95437e12f1b016e741d5a23a36bba/5395533"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_976" title="the dark side of the moon" alt="the dark side of the moon" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/4dfc8a25d77eb2308e72166fd313951e/5395533" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/2cf95437e12f1b016e741d5a23a36bba/5395533"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">2. </span>
+                  <a title="[artist312]" href="/web/20180926053104/https://rateyourmusic.com/artist/pink-floyd" class="artist">pink floyd</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album976]" href="/web/20180926053104/https://rateyourmusic.com/release/album/pink-floyd/the-dark-side-of-the-moon/" class="album">the dark side of the moon</a> <span class="chart_year">(1973)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre52]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+rock/">art rock</a>, <a title="[genre97]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/progressive+rock/">progressive rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/pink-floyd/the-dark-side-of-the-moon/">rym rating: <b>4.22</b>
+             | ratings: <b>38,056</b> 
+             | reviews: <b>1,477</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/pink-floyd/the-dark-side-of-the-moon/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_2 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">3</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_46" style="width:150px;" title="kid a" alt="kid a" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/3522fe760d70109f5e404e57b303edfd/6525220" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/b94c7dcc1c2815d5b8399a74b55e95eb/6525220"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_46" title="kid a" alt="kid a" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/3522fe760d70109f5e404e57b303edfd/6525220" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/b94c7dcc1c2815d5b8399a74b55e95eb/6525220"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">3. </span>
+                  <a title="[artist42]" href="/web/20180926053104/https://rateyourmusic.com/artist/radiohead" class="artist">radiohead</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album46]" href="/web/20180926053104/https://rateyourmusic.com/release/album/radiohead/kid-a/" class="album">kid a</a> <span class="chart_year">(2000)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre52]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+rock/">art rock</a>, <a title="[genre64]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/experimental+rock/">experimental rock</a>, <a title="[genre82]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/electronic/">electronic</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/radiohead/kid-a/">rym rating: <b>4.20</b>
+             | ratings: <b>36,836</b> 
+             | reviews: <b>1,050</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/radiohead/kid-a/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_3 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">4</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_173" style="width:150px;" title="the velvet underground &amp; nico" alt="the velvet underground &amp; nico" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/111ad8d350ef4e0d9ad29c7cfc2284cd/6988068" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/bfee617a47cf4dc941d1609c7d0e077c/6988068"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_173" title="the velvet underground &amp; nico" alt="the velvet underground &amp; nico" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/111ad8d350ef4e0d9ad29c7cfc2284cd/6988068" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/bfee617a47cf4dc941d1609c7d0e077c/6988068"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">4. </span>
+                  <a title="[artist57]" href="/web/20180926053104/https://rateyourmusic.com/artist/the-velvet-underground" class="artist">the velvet underground</a> &amp; <a title="[artist263]" href="/web/20180926053104/https://rateyourmusic.com/artist/nico" class="artist">nico</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album173]" href="/web/20180926053104/https://rateyourmusic.com/release/album/the-velvet-underground-nico/the-velvet-underground-and-nico-2/" class="album">the velvet underground &amp; nico</a> <span class="chart_year">(1967)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre52]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+rock/">art rock</a>, <a title="[genre64]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/experimental+rock/">experimental rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-velvet-underground-nico/the-velvet-underground-and-nico-2/">rym rating: <b>4.28</b>
+             | ratings: <b>29,936</b> 
+             | reviews: <b>867</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-velvet-underground-nico/the-velvet-underground-and-nico-2/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_4 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">5</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_974" style="width:150px;" title="wish you were here" alt="wish you were here" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/ed6f4961733884840fe322ff58bfc7d9/4184635" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/1bfbce6429d2caf340e6825cfae89c6b/4184635"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_974" title="wish you were here" alt="wish you were here" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/ed6f4961733884840fe322ff58bfc7d9/4184635" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/1bfbce6429d2caf340e6825cfae89c6b/4184635"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">5. </span>
+                  <a title="[artist312]" href="/web/20180926053104/https://rateyourmusic.com/artist/pink-floyd" class="artist">pink floyd</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album974]" href="/web/20180926053104/https://rateyourmusic.com/release/album/pink-floyd/wish-you-were-here-1/" class="album">wish you were here</a> <span class="chart_year">(1975)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre97]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/progressive+rock/">progressive rock</a>, <a title="[genre52]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+rock/">art rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/pink-floyd/wish-you-were-here-1/">rym rating: <b>4.28</b>
+             | ratings: <b>30,937</b> 
+             | reviews: <b>921</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/pink-floyd/wish-you-were-here-1/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_5 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">6</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_2328" style="width:150px;" title="in the court of the crimson king" alt="in the court of the crimson king" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/cb5c55dcf0ad372dea18b40afeda1862/2309223" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/4c0a38077f92e05a80bd3a8bc55e1279/2309223"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_2328" title="in the court of the crimson king" alt="in the court of the crimson king" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/cb5c55dcf0ad372dea18b40afeda1862/2309223" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/4c0a38077f92e05a80bd3a8bc55e1279/2309223"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">6. </span>
+                  <a title="[artist736]" href="/web/20180926053104/https://rateyourmusic.com/artist/king-crimson" class="artist">king crimson</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album2328]" href="/web/20180926053104/https://rateyourmusic.com/release/album/king-crimson/in-the-court-of-the-crimson-king-67/" class="album">in the court of the crimson king</a> <span class="chart_year">(1969)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre97]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/progressive+rock/">progressive rock</a>, <a title="[genre52]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+rock/">art rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/king-crimson/in-the-court-of-the-crimson-king-67/">rym rating: <b>4.30</b>
+             | ratings: <b>25,913</b> 
+             | reviews: <b>793</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/king-crimson/in-the-court-of-the-crimson-king-67/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_6 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">7</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_355" style="width:150px;" title="loveless" alt="loveless" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/ee7d751485a1093029f640858d6855c5/3542621" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/0ba11ef3193465e170408f54294dcb78/3542621"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_355" title="loveless" alt="loveless" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/ee7d751485a1093029f640858d6855c5/3542621" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/0ba11ef3193465e170408f54294dcb78/3542621"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">7. </span>
+                  <a title="[artist125]" href="/web/20180926053104/https://rateyourmusic.com/artist/my-bloody-valentine" class="artist">my bloody valentine</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album355]" href="/web/20180926053104/https://rateyourmusic.com/release/album/my-bloody-valentine/loveless/" class="album">loveless</a> <span class="chart_year">(1991)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre98]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/shoegaze/">shoegaze</a>, <a title="[genre391]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/noise+pop/">noise pop</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/my-bloody-valentine/loveless/">rym rating: <b>4.21</b>
+             | ratings: <b>29,486</b> 
+             | reviews: <b>1,117</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/my-bloody-valentine/loveless/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><tr><td colspan="5"><div style="width:970px;height:90px;text-align:center;margin:0 auto;margin-top:2em;margin-bottom:2em;"><!-- /31961696/charts.case-a.728-970.mid -->
+            <div id="div-gpt-ad-1465817209349-38">
+            <script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465817209349-38'); });
+            </script>
+            </div></div></td></tr>
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">8</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_63" style="width:150px;" title="pet sounds" alt="pet sounds" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/9ec622721e0b66b754fc32da5b48b0fc/3633017" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/77807f227ed597d9ab6ee5a381e14252/3633017"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_63" title="pet sounds" alt="pet sounds" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/9ec622721e0b66b754fc32da5b48b0fc/3633017" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/77807f227ed597d9ab6ee5a381e14252/3633017"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">8. </span>
+                  <a title="[artist18]" href="/web/20180926053104/https://rateyourmusic.com/artist/the-beach-boys" class="artist">the beach boys</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album63]" href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beach-boys/pet-sounds-3/" class="album">pet sounds</a> <span class="chart_year">(1966)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre627]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/baroque+pop/">baroque pop</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beach-boys/pet-sounds-3/">rym rating: <b>4.20</b>
+             | ratings: <b>22,888</b> 
+             | reviews: <b>820</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beach-boys/pet-sounds-3/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_8 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">9</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_12" style="width:150px;" title="abbey road" alt="abbey road" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/b1ecee44b0535c0bfac81e63cbc184b0/6617288" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/b58831050f06abb064b7372da410c633/6617288"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_12" title="abbey road" alt="abbey road" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/b1ecee44b0535c0bfac81e63cbc184b0/6617288" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/b58831050f06abb064b7372da410c633/6617288"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">9. </span>
+                  <a title="[artist8]" href="/web/20180926053104/https://rateyourmusic.com/artist/the-beatles" class="artist">the beatles</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album12]" href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/abbey-road/" class="album">abbey road</a> <span class="chart_year">(1969)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre630]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/pop+rock/">pop rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/abbey-road/">rym rating: <b>4.28</b>
+             | ratings: <b>28,893</b> 
+             | reviews: <b>1,099</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/abbey-road/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_9 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">10</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_206" style="width:150px;" title="revolver" alt="revolver" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/2371d75d749f3dd533fae49c95d4bf2c/6112311" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/0d69cc348b4f7f03b929bb331ff8bc90/6112311"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_206" title="revolver" alt="revolver" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/2371d75d749f3dd533fae49c95d4bf2c/6112311" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/0d69cc348b4f7f03b929bb331ff8bc90/6112311"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">10. </span>
+                  <a title="[artist8]" href="/web/20180926053104/https://rateyourmusic.com/artist/the-beatles" class="artist">the beatles</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album206]" href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/revolver-5/" class="album">revolver</a> <span class="chart_year">(1966)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre630]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/pop+rock/">pop rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/revolver-5/">rym rating: <b>4.26</b>
+             | ratings: <b>28,702</b> 
+             | reviews: <b>1,196</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/revolver-5/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_10 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">11</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_2571" style="width:150px;" title="kind of blue" alt="kind of blue" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/aff78a01ebefc94e6ae0a096534235d9/2622639" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/5533ccb8e76c82cd31b1b1173d16784a/2622639"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_2571" title="kind of blue" alt="kind of blue" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/aff78a01ebefc94e6ae0a096534235d9/2622639" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/5533ccb8e76c82cd31b1b1173d16784a/2622639"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">11. </span>
+                  <a title="[artist785]" href="/web/20180926053104/https://rateyourmusic.com/artist/miles-davis" class="artist">miles davis</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album2571]" href="/web/20180926053104/https://rateyourmusic.com/release/album/miles-davis/kind-of-blue-9/" class="album">kind of blue</a> <span class="chart_year">(1959)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre77]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/modal+jazz/">modal jazz</a>, <a title="[genre71]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/cool+jazz/">cool jazz</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/miles-davis/kind-of-blue-9/">rym rating: <b>4.26</b>
+             | ratings: <b>19,401</b> 
+             | reviews: <b>533</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/miles-davis/kind-of-blue-9/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_11 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">12</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_43" style="width:150px;" title="led zeppelin [iv]" alt="led zeppelin [iv]" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/56e765483624c6b8238089f11d19fbcf/5707164" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/935c4e5b27b278abc30f3fc5b00f1aa4/5707164"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_43" title="led zeppelin [iv]" alt="led zeppelin [iv]" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/56e765483624c6b8238089f11d19fbcf/5707164" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/935c4e5b27b278abc30f3fc5b00f1aa4/5707164"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">12. </span>
+                  <a title="[artist31]" href="/web/20180926053104/https://rateyourmusic.com/artist/led-zeppelin" class="artist">led zeppelin</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album43]" href="/web/20180926053104/https://rateyourmusic.com/release/album/led-zeppelin/led-zeppelin-iv-3/" class="album">led zeppelin [iv]</a> <span class="chart_year">(1971)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre67]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/hard+rock/">hard rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/led-zeppelin/led-zeppelin-iv-3/">rym rating: <b>4.16</b>
+             | ratings: <b>25,046</b> 
+             | reviews: <b>845</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/led-zeppelin/led-zeppelin-iv-3/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_12 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">13</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_2276" style="width:150px;" title="paranoid" alt="paranoid" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/3701cf2d11bd751b70da22f54460146c/2651476" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/b2be67e923022f0d529d1b2b71ccb838/2651476"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_2276" title="paranoid" alt="paranoid" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/3701cf2d11bd751b70da22f54460146c/2651476" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/b2be67e923022f0d529d1b2b71ccb838/2651476"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">13. </span>
+                  <a title="[artist687]" href="/web/20180926053104/https://rateyourmusic.com/artist/black-sabbath" class="artist">black sabbath</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album2276]" href="/web/20180926053104/https://rateyourmusic.com/release/album/black-sabbath/paranoid-3/" class="album">paranoid</a> <span class="chart_year">(1970)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre472]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/heavy+metal/">heavy metal</a>, <a title="[genre67]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/hard+rock/">hard rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/black-sabbath/paranoid-3/">rym rating: <b>4.21</b>
+             | ratings: <b>23,181</b> 
+             | reviews: <b>653</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/black-sabbath/paranoid-3/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_13 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">14</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_623" style="width:150px;" title="the rise and fall of ziggy stardust and the spiders from mars" alt="the rise and fall of ziggy stardust and the spiders from mars" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/4987445950d915c9a532d9dffa8b16f7/4718222" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/e4a87ba77707f6d33d51174f2f5b3938/4718222"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_623" title="the rise and fall of ziggy stardust and the spiders from mars" alt="the rise and fall of ziggy stardust and the spiders from mars" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/4987445950d915c9a532d9dffa8b16f7/4718222" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/e4a87ba77707f6d33d51174f2f5b3938/4718222"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">14. </span>
+                  <a title="[artist247]" href="/web/20180926053104/https://rateyourmusic.com/artist/david-bowie" class="artist">david bowie</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album623]" href="/web/20180926053104/https://rateyourmusic.com/release/album/david-bowie/the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars/" class="album">the rise and fall of ziggy stardust and the spiders from mars</a> <span class="chart_year">(1972)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre62]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/glam+rock/">glam rock</a>, <a title="[genre630]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/pop+rock/">pop rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/david-bowie/the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars/">rym rating: <b>4.28</b>
+             | ratings: <b>25,355</b> 
+             | reviews: <b>708</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/david-bowie/the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><tr><td colspan="5"><div style="width:970px;height:90px;text-align:center;margin:0 auto;margin-top:2em;margin-bottom:2em;"><!-- /31961696/charts.case-a.728-970.mid-2 -->
+            <div id="div-gpt-ad-1465817209349-115">
+            <script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465817209349-115'); });
+            </script>
+            </div></div></td></tr>
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">15</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_1245" style="width:150px;" title="in the aeroplane over the sea" alt="in the aeroplane over the sea" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/769486ca0d8e7cc5dfc338cc89686a8f/6902522" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/05c3aaa99d8d855bb50f763450efd9e4/6902522"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_1245" title="in the aeroplane over the sea" alt="in the aeroplane over the sea" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/769486ca0d8e7cc5dfc338cc89686a8f/6902522" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/05c3aaa99d8d855bb50f763450efd9e4/6902522"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">15. </span>
+                  <a title="[artist222]" href="/web/20180926053104/https://rateyourmusic.com/artist/neutral-milk-hotel" class="artist">neutral milk hotel</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album1245]" href="/web/20180926053104/https://rateyourmusic.com/release/album/neutral-milk-hotel/in-the-aeroplane-over-the-sea/" class="album">in the aeroplane over the sea</a> <span class="chart_year">(1998)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre25388]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/indie+folk/">indie folk</a>, <a title="[genre103]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/indie+rock/">indie rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/neutral-milk-hotel/in-the-aeroplane-over-the-sea/">rym rating: <b>4.09</b>
+             | ratings: <b>28,807</b> 
+             | reviews: <b>933</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/neutral-milk-hotel/in-the-aeroplane-over-the-sea/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_15 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">16</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_1052924" style="width:150px;" title="in rainbows" alt="in rainbows" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/5f7285f01702c678f8d778755c3ffdb8/6942109" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/343952135c4fafe7fd1016b2b0529fdf/6942109"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_1052924" title="in rainbows" alt="in rainbows" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/5f7285f01702c678f8d778755c3ffdb8/6942109" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/343952135c4fafe7fd1016b2b0529fdf/6942109"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">16. </span>
+                  <a title="[artist42]" href="/web/20180926053104/https://rateyourmusic.com/artist/radiohead" class="artist">radiohead</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album1052924]" href="/web/20180926053104/https://rateyourmusic.com/release/album/radiohead/in-rainbows/" class="album">in rainbows</a> <span class="chart_year">(2007)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre52]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+rock/">art rock</a>, <a title="[genre116]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/alternative+rock/">alternative rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/radiohead/in-rainbows/">rym rating: <b>4.06</b>
+             | ratings: <b>27,992</b> 
+             | reviews: <b>716</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/radiohead/in-rainbows/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_16 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">17</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_2602" style="width:150px;" title="lift yr. skinny fists like antennas to heaven!" alt="lift yr. skinny fists like antennas to heaven!" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/9916b182207087f91ef7a86f8f1900da/5662600" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/85dae2e05bae72237d5d191d473d82da/5662600"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_2602" title="lift yr. skinny fists like antennas to heaven!" alt="lift yr. skinny fists like antennas to heaven!" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/9916b182207087f91ef7a86f8f1900da/5662600" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/85dae2e05bae72237d5d191d473d82da/5662600"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">17. </span>
+                  <a title="[artist698]" href="/web/20180926053104/https://rateyourmusic.com/artist/godspeed-you-black-emperor" class="artist">godspeed you black emperor!</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album2602]" href="/web/20180926053104/https://rateyourmusic.com/release/album/godspeed-you-black-emperor/lift-yr-skinny-fists-like-antennas-to-heaven/" class="album">lift yr. skinny fists like antennas to heaven!</a> <span class="chart_year">(2000)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre56]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/post%2drock/">post-rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/godspeed-you-black-emperor/lift-yr-skinny-fists-like-antennas-to-heaven/">rym rating: <b>4.15</b>
+             | ratings: <b>21,080</b> 
+             | reviews: <b>552</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/godspeed-you-black-emperor/lift-yr-skinny-fists-like-antennas-to-heaven/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_17 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">18</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_1089" style="width:150px;" title="doolittle" alt="doolittle" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/f697bb494c07fdac775a897d3d8f2db9/6303339" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/6e8348697a5457a3f3cc19925ee91c23/6303339"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_1089" title="doolittle" alt="doolittle" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/f697bb494c07fdac775a897d3d8f2db9/6303339" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/6e8348697a5457a3f3cc19925ee91c23/6303339"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">18. </span>
+                  <a title="[artist229]" href="/web/20180926053104/https://rateyourmusic.com/artist/pixies" class="artist">pixies</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album1089]" href="/web/20180926053104/https://rateyourmusic.com/release/album/pixies/doolittle/" class="album">doolittle</a> <span class="chart_year">(1989)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre116]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/alternative+rock/">alternative rock</a>, <a title="[genre103]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/indie+rock/">indie rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/pixies/doolittle/">rym rating: <b>4.15</b>
+             | ratings: <b>22,860</b> 
+             | reviews: <b>519</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/pixies/doolittle/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_18 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">19</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_10702" style="width:150px;" title="a love supreme" alt="a love supreme" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/46d92f85f03100107b2e82a6129da08b/1658106" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/69ae4d75ee178cb0ec6ce9d7654e1b6f/1658106"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_10702" title="a love supreme" alt="a love supreme" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/46d92f85f03100107b2e82a6129da08b/1658106" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/69ae4d75ee178cb0ec6ce9d7654e1b6f/1658106"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">19. </span>
+                  <a title="[artist1101]" href="/web/20180926053104/https://rateyourmusic.com/artist/john-coltrane" class="artist">john coltrane</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album10702]" href="/web/20180926053104/https://rateyourmusic.com/release/album/john-coltrane/a-love-supreme-1/" class="album">a love supreme</a> <span class="chart_year">(1965)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre35471]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/spiritual+jazz/">spiritual jazz</a>, <a title="[genre68]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/avant%2dgarde+jazz/">avant-garde jazz</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/john-coltrane/a-love-supreme-1/">rym rating: <b>4.32</b>
+             | ratings: <b>15,770</b> 
+             | reviews: <b>400</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/john-coltrane/a-love-supreme-1/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_19 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">20</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_544" style="width:150px;" title="unknown pleasures" alt="unknown pleasures" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/5227825f45743a180d1b5b368708396e/1937334" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/c6fc1e14b7d3e85db7212b9847646ec3/1937334"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_544" title="unknown pleasures" alt="unknown pleasures" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/5227825f45743a180d1b5b368708396e/1937334" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/c6fc1e14b7d3e85db7212b9847646ec3/1937334"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">20. </span>
+                  <a title="[artist212]" href="/web/20180926053104/https://rateyourmusic.com/artist/joy_division" class="artist">joy division</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album544]" href="/web/20180926053104/https://rateyourmusic.com/release/album/joy_division/unknown_pleasures/" class="album">unknown pleasures</a> <span class="chart_year">(1979)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre332]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/post%2dpunk/">post-punk</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/joy_division/unknown_pleasures/">rym rating: <b>4.13</b>
+             | ratings: <b>24,912</b> 
+             | reviews: <b>518</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/joy_division/unknown_pleasures/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_20 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">21</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_1036" style="width:150px;" title="remain in light" alt="remain in light" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/aa1f81e9c7f82c48f6ce722ed987534e/5627825" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/f517b16a40fad36d52db7c9dba5c9b8f/5627825"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_1036" title="remain in light" alt="remain in light" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/aa1f81e9c7f82c48f6ce722ed987534e/5627825" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/f517b16a40fad36d52db7c9dba5c9b8f/5627825"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">21. </span>
+                  <a title="[artist264]" href="/web/20180926053104/https://rateyourmusic.com/artist/talking_heads" class="artist">talking heads</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album1036]" href="/web/20180926053104/https://rateyourmusic.com/release/album/talking-heads/remain-in-light-8/" class="album">remain in light</a> <span class="chart_year">(1980)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre129]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/new+wave/">new wave</a>, <a title="[genre332]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/post%2dpunk/">post-punk</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/talking-heads/remain-in-light-8/">rym rating: <b>4.23</b>
+             | ratings: <b>20,821</b> 
+             | reviews: <b>432</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/talking-heads/remain-in-light-8/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><tr><td colspan="5"><div style="width:970px;height:90px;text-align:center;margin:0 auto;margin-top:2em;margin-bottom:2em;"><!-- /31961696/charts.case-a.728-970.mid-3 -->
+            <div id="div-gpt-ad-1465817209349-116">
+            <script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465817209349-116'); });
+            </script>
+            </div></div></td></tr>
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">22</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_90" style="width:150px;" title="pink moon" alt="pink moon" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/560e6f0ed110738ca976aa2b018e00ca/2509162" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/19e2daafa210c8ab044e21eb46c989a0/2509162"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_90" title="pink moon" alt="pink moon" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/560e6f0ed110738ca976aa2b018e00ca/2509162" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/19e2daafa210c8ab044e21eb46c989a0/2509162"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">22. </span>
+                  <a title="[artist35]" href="/web/20180926053104/https://rateyourmusic.com/artist/nick-drake" class="artist">nick drake</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album90]" href="/web/20180926053104/https://rateyourmusic.com/release/album/nick-drake/pink-moon/" class="album">pink moon</a> <span class="chart_year">(1972)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre209]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/contemporary+folk/">contemporary folk</a>, <a title="[genre558]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/singer%2fsongwriter/">singer/songwriter</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/nick-drake/pink-moon/">rym rating: <b>4.20</b>
+             | ratings: <b>19,003</b> 
+             | reviews: <b>501</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/nick-drake/pink-moon/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_22 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">23</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_1189" style="width:150px;" title="the doors" alt="the doors" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/4a2b2200a586b1fbd02a2c4bfb9abedc/2281803" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/98ddd1f8501fd2a8a3219d0039dbcb01/2281803"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_1189" title="the doors" alt="the doors" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/4a2b2200a586b1fbd02a2c4bfb9abedc/2281803" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/98ddd1f8501fd2a8a3219d0039dbcb01/2281803"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">23. </span>
+                  <a title="[artist26]" href="/web/20180926053104/https://rateyourmusic.com/artist/the_doors" class="artist">the doors</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album1189]" href="/web/20180926053104/https://rateyourmusic.com/release/album/the_doors/the_doors/" class="album">the doors</a> <span class="chart_year">(1967)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre361]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/psychedelic+rock/">psychedelic rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the_doors/the_doors/">rym rating: <b>4.15</b>
+             | ratings: <b>20,987</b> 
+             | reviews: <b>525</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the_doors/the_doors/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_23 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">24</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_164" style="width:150px;" title="the queen is dead" alt="the queen is dead" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/742e205d5a64db20a68d5ffbcf1b3c78/1816031" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/6724121d7002bea4e17f40fb7fcf0e34/1816031"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_164" title="the queen is dead" alt="the queen is dead" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/742e205d5a64db20a68d5ffbcf1b3c78/1816031" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/6724121d7002bea4e17f40fb7fcf0e34/1816031"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">24. </span>
+                  <a title="[artist50]" href="/web/20180926053104/https://rateyourmusic.com/artist/the-smiths" class="artist">the smiths</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album164]" href="/web/20180926053104/https://rateyourmusic.com/release/album/the-smiths/the-queen-is-dead/" class="album">the queen is dead</a> <span class="chart_year">(1986)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre629]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/jangle+pop/">jangle pop</a>, <a title="[genre390]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/indie+pop/">indie pop</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-smiths/the-queen-is-dead/">rym rating: <b>4.14</b>
+             | ratings: <b>22,257</b> 
+             | reviews: <b>570</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-smiths/the-queen-is-dead/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_24 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">25</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_51" style="width:150px;" title="highway 61 revisited" alt="highway 61 revisited" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/4e785519f1caf8e4c2a697aa259f30e7/3677487" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/23ee1e9bf08a7ad422bedc2dd6ccae96/3677487"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_51" title="highway 61 revisited" alt="highway 61 revisited" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/4e785519f1caf8e4c2a697aa259f30e7/3677487" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/23ee1e9bf08a7ad422bedc2dd6ccae96/3677487"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">25. </span>
+                  <a title="[artist22]" href="/web/20180926053104/https://rateyourmusic.com/artist/bob-dylan" class="artist">bob dylan</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album51]" href="/web/20180926053104/https://rateyourmusic.com/release/album/bob-dylan/highway-61-revisited/" class="album">highway 61 revisited</a> <span class="chart_year">(1965)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre66]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/folk+rock/">folk rock</a>, <a title="[genre558]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/singer%2fsongwriter/">singer/songwriter</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/bob-dylan/highway-61-revisited/">rym rating: <b>4.22</b>
+             | ratings: <b>18,696</b> 
+             | reviews: <b>574</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/bob-dylan/highway-61-revisited/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_25 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">26</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_978" style="width:150px;" title="animals" alt="animals" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/f87f111abdb48dbed16e659b529935cf/4175208" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/71342f3e705d792186a08e8e24dea2e8/4175208"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_978" title="animals" alt="animals" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/f87f111abdb48dbed16e659b529935cf/4175208" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/71342f3e705d792186a08e8e24dea2e8/4175208"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">26. </span>
+                  <a title="[artist312]" href="/web/20180926053104/https://rateyourmusic.com/artist/pink-floyd" class="artist">pink floyd</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album978]" href="/web/20180926053104/https://rateyourmusic.com/release/album/pink-floyd/animals/" class="album">animals</a> <span class="chart_year">(1977)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre97]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/progressive+rock/">progressive rock</a>, <a title="[genre52]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+rock/">art rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/pink-floyd/animals/">rym rating: <b>4.09</b>
+             | ratings: <b>23,315</b> 
+             | reviews: <b>645</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/pink-floyd/animals/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_26 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">27</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_16" style="width:150px;" title="sgt. pepper's lonely hearts club band" alt="sgt. pepper's lonely hearts club band" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/17bc913a7b4f0613973986d11d2a3b46/6617240" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/d941f761c2f2cf487e724494d4d93913/6617240"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_16" title="sgt. pepper's lonely hearts club band" alt="sgt. pepper's lonely hearts club band" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/17bc913a7b4f0613973986d11d2a3b46/6617240" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/d941f761c2f2cf487e724494d4d93913/6617240"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">27. </span>
+                  <a title="[artist8]" href="/web/20180926053104/https://rateyourmusic.com/artist/the-beatles" class="artist">the beatles</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album16]" href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/sgt-peppers-lonely-hearts-club-band-13/" class="album">sgt. pepper&#39;s lonely hearts club band</a> <span class="chart_year">(1967)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre362]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/psychedelic+pop/">psychedelic pop</a>, <a title="[genre630]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/pop+rock/">pop rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/sgt-peppers-lonely-hearts-club-band-13/">rym rating: <b>4.17</b>
+             | ratings: <b>29,266</b> 
+             | reviews: <b>1,112</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/sgt-peppers-lonely-hearts-club-band-13/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_27 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">28</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_185644" style="width:150px;" title="funeral" alt="funeral" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/500a08a4b3f5d299ef9982e14935f557/2330479" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/ab04c5a8681be0e6efb3d4a99b60c135/2330479"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_185644" title="funeral" alt="funeral" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/500a08a4b3f5d299ef9982e14935f557/2330479" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/ab04c5a8681be0e6efb3d4a99b60c135/2330479"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">28. </span>
+                  <a title="[artist36664]" href="/web/20180926053104/https://rateyourmusic.com/artist/arcade_fire" class="artist">arcade fire</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album185644]" href="/web/20180926053104/https://rateyourmusic.com/release/album/arcade_fire/funeral/" class="album">funeral</a> <span class="chart_year">(2004)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre103]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/indie+rock/">indie rock</a>, <a title="[genre628]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/chamber+pop/">chamber pop</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/arcade_fire/funeral/">rym rating: <b>4.02</b>
+             | ratings: <b>26,732</b> 
+             | reviews: <b>825</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/arcade_fire/funeral/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><tr><td colspan="5"><div style="width:970px;height:90px;text-align:center;margin:0 auto;margin-top:2em;margin-bottom:2em;"><!-- /31961696/charts.case-a.728-970.mid-4 -->
+            <div id="div-gpt-ad-1465817209349-117">
+            <script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465817209349-117'); });
+            </script>
+            </div></div></td></tr>
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">29</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_6286502" style="width:150px;" title="to pimp a butterfly" alt="to pimp a butterfly" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/16b46b9a0a73cc648385823e6e0a3423/5623788" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/088c5b446d690885b2f1af4d3eed0eea/5623788"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_6286502" title="to pimp a butterfly" alt="to pimp a butterfly" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/16b46b9a0a73cc648385823e6e0a3423/5623788" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/088c5b446d690885b2f1af4d3eed0eea/5623788"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">29. </span>
+                  <a title="[artist542683]" href="/web/20180926053104/https://rateyourmusic.com/artist/kendrick-lamar" class="artist">kendrick lamar</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album6286502]" href="/web/20180926053104/https://rateyourmusic.com/release/album/kendrick-lamar/to-pimp-a-butterfly-1/" class="album">to pimp a butterfly</a> <span class="chart_year">(2015)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre14]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/conscious+hip+hop/">conscious hip hop</a>, <a title="[genre29]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/west+coast+hip+hop/">west coast hip hop</a>, <a title="[genre18]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/jazz+rap/">jazz rap</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/kendrick-lamar/to-pimp-a-butterfly-1/">rym rating: <b>4.12</b>
+             | ratings: <b>19,713</b> 
+             | reviews: <b>245</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/kendrick-lamar/to-pimp-a-butterfly-1/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_29 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">30</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_629" style="width:150px;" title="low" alt="low" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/689847913cbb75642cd1f2e90698c89d/4503212" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/358e21c69f10acd2b7527c9477a55024/4503212"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_629" title="low" alt="low" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/689847913cbb75642cd1f2e90698c89d/4503212" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/358e21c69f10acd2b7527c9477a55024/4503212"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">30. </span>
+                  <a title="[artist247]" href="/web/20180926053104/https://rateyourmusic.com/artist/david-bowie" class="artist">david bowie</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album629]" href="/web/20180926053104/https://rateyourmusic.com/release/album/david-bowie/low/" class="album">low</a> <span class="chart_year">(1977)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre52]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+rock/">art rock</a>, <a title="[genre64]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/experimental+rock/">experimental rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/david-bowie/low/">rym rating: <b>4.14</b>
+             | ratings: <b>18,550</b> 
+             | reviews: <b>478</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/david-bowie/low/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_30 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">31</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_126" style="width:150px;" title="nevermind" alt="nevermind" class="delayloadimg" data-delayloadurl="https://web.archive.org/web/20180926053104/https://e.snmc.io/2.5/img/images/blockeds.png" data-delayloadurl2x="https://web.archive.org/web/20180926053104/https://e.snmc.io/2.5/img/images/blockedf.png"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_126" title="nevermind" alt="nevermind" class="delayloadimg" data-delayloadurl="https://web.archive.org/web/20180926053104/https://e.snmc.io/2.5/img/images/blockeds.png" data-delayloadurl2x="https://web.archive.org/web/20180926053104/https://e.snmc.io/2.5/img/images/blockedf.png"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">31. </span>
+                  <a title="[artist37]" href="/web/20180926053104/https://rateyourmusic.com/artist/nirvana" class="artist">nirvana</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album126]" href="/web/20180926053104/https://rateyourmusic.com/release/album/nirvana/nevermind/" class="album">nevermind</a> <span class="chart_year">(1991)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre47]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/grunge/">grunge</a>, <a title="[genre116]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/alternative+rock/">alternative rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/nirvana/nevermind/">rym rating: <b>3.92</b>
+             | ratings: <b>28,914</b> 
+             | reviews: <b>1,174</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/nirvana/nevermind/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_31 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">32</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_11082" style="width:150px;" title="illmatic" alt="illmatic" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/95d8737ed1b141662749a3063d2fc0e3/5352803" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/84eb6d09f15ca01abda1f17c85a78621/5352803"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_11082" title="illmatic" alt="illmatic" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/95d8737ed1b141662749a3063d2fc0e3/5352803" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/84eb6d09f15ca01abda1f17c85a78621/5352803"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">32. </span>
+                  <a title="[artist3037]" href="/web/20180926053104/https://rateyourmusic.com/artist/nas" class="artist">nas</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album11082]" href="/web/20180926053104/https://rateyourmusic.com/release/album/nas/illmatic/" class="album">illmatic</a> <span class="chart_year">(1994)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre28]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/east+coast+hip+hop/">east coast hip hop</a>, <a title="[genre25108]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/boom+bap/">boom bap</a>, <a title="[genre16]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/hardcore+hip+hop/">hardcore hip hop</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/nas/illmatic/">rym rating: <b>4.18</b>
+             | ratings: <b>17,498</b> 
+             | reviews: <b>567</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/nas/illmatic/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_32 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">33</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_11014" style="width:150px;" title="enter the wu-tang (36 chambers)" alt="enter the wu-tang (36 chambers)" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/efb36d1432d1c6ce9ac89a50259f19a4/6558603" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/5c5924bad0b206e7b700f54bb1c71ed2/6558603"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_11014" title="enter the wu-tang (36 chambers)" alt="enter the wu-tang (36 chambers)" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/efb36d1432d1c6ce9ac89a50259f19a4/6558603" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/5c5924bad0b206e7b700f54bb1c71ed2/6558603"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">33. </span>
+                  <a title="[artist1809]" href="/web/20180926053104/https://rateyourmusic.com/artist/wu-tang-clan" class="artist">wu-tang clan</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album11014]" href="/web/20180926053104/https://rateyourmusic.com/release/album/wu-tang-clan/enter-the-wu-tang-36-chambers/" class="album">enter the wu-tang (36 chambers)</a> <span class="chart_year">(1993)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre28]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/east+coast+hip+hop/">east coast hip hop</a>, <a title="[genre25108]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/boom+bap/">boom bap</a>, <a title="[genre16]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/hardcore+hip+hop/">hardcore hip hop</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/wu-tang-clan/enter-the-wu-tang-36-chambers/">rym rating: <b>4.18</b>
+             | ratings: <b>16,962</b> 
+             | reviews: <b>495</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/wu-tang-clan/enter-the-wu-tang-36-chambers/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_33 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">34</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_3050748" style="width:150px;" title="my beautiful dark twisted fantasy" alt="my beautiful dark twisted fantasy" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/30edb179af1c655ae40308bd74e82560/6045065" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/144ddf39b2ceed6ce4dac55593b3ab0f/6045065"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_3050748" title="my beautiful dark twisted fantasy" alt="my beautiful dark twisted fantasy" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/30edb179af1c655ae40308bd74e82560/6045065" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/144ddf39b2ceed6ce4dac55593b3ab0f/6045065"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">34. </span>
+                  <a title="[artist23380]" href="/web/20180926053104/https://rateyourmusic.com/artist/kanye-west" class="artist">kanye west</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album3050748]" href="/web/20180926053104/https://rateyourmusic.com/release/album/kanye-west/my-beautiful-dark-twisted-fantasy/" class="album">my beautiful dark twisted fantasy</a> <span class="chart_year">(2010)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre11]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/hip+hop/">hip hop</a>, <a title="[genre22]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/pop+rap/">pop rap</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/kanye-west/my-beautiful-dark-twisted-fantasy/">rym rating: <b>4.01</b>
+             | ratings: <b>23,041</b> 
+             | reviews: <b>544</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/kanye-west/my-beautiful-dark-twisted-fantasy/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_34 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">35</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_1167" style="width:150px;" title="marquee moon" alt="marquee moon" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/8d6013d70e81205c0b347d62cb16d238/2002443" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/639072ea70ae81fa61098b85b01a8ff0/2002443"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_1167" title="marquee moon" alt="marquee moon" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/8d6013d70e81205c0b347d62cb16d238/2002443" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/639072ea70ae81fa61098b85b01a8ff0/2002443"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">35. </span>
+                  <a title="[artist325]" href="/web/20180926053104/https://rateyourmusic.com/artist/television" class="artist">television</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album1167]" href="/web/20180926053104/https://rateyourmusic.com/release/album/television/marquee-moon-4/" class="album">marquee moon</a> <span class="chart_year">(1977)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre452]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+punk/">art punk</a>, <a title="[genre52]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+rock/">art rock</a>, <a title="[genre332]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/post%2dpunk/">post-punk</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/television/marquee-moon-4/">rym rating: <b>4.17</b>
+             | ratings: <b>17,662</b> 
+             | reviews: <b>510</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/television/marquee-moon-4/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><tr><td colspan="5"><div style="width:970px;height:90px;text-align:center;margin:0 auto;margin-top:2em;margin-bottom:2em;"><!-- /31961696/charts.case-a.728-970.mid-5 -->
+            <div id="div-gpt-ad-1465817209349-121">
+            <script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465817209349-121'); });
+            </script>
+            </div></div></td></tr>
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">36</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_17906" style="width:150px;" title="the black saint and the sinner lady" alt="the black saint and the sinner lady" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/96a3558ab18d700524fbb419a8062ae1/2198131" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/88e6144e8801fcfcbaaea3e7ff7713f9/2198131"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_17906" title="the black saint and the sinner lady" alt="the black saint and the sinner lady" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/96a3558ab18d700524fbb419a8062ae1/2198131" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/88e6144e8801fcfcbaaea3e7ff7713f9/2198131"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">36. </span>
+                  <a title="[artist275]" href="/web/20180926053104/https://rateyourmusic.com/artist/charles_mingus" class="artist">mingus</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album17906]" href="/web/20180926053104/https://rateyourmusic.com/release/album/mingus/the-black-saint-and-the-sinner-lady/" class="album">the black saint and the sinner lady</a> <span class="chart_year">(1963)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre68]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/avant%2dgarde+jazz/">avant-garde jazz</a>, <a title="[genre317]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/third+stream/">third stream</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/mingus/the-black-saint-and-the-sinner-lady/">rym rating: <b>4.36</b>
+             | ratings: <b>11,888</b> 
+             | reviews: <b>335</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/mingus/the-black-saint-and-the-sinner-lady/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_36 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">37</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_3597082" style="width:150px;" title="good kid, m.a.a.d city" alt="good kid, m.a.a.d city" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/4adc44697a64df501ae364201fa9a2fb/4367819" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/240be345430c3c44f0a0d81a92860785/4367819"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_3597082" title="good kid, m.a.a.d city" alt="good kid, m.a.a.d city" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/4adc44697a64df501ae364201fa9a2fb/4367819" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/240be345430c3c44f0a0d81a92860785/4367819"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">37. </span>
+                  <a title="[artist542683]" href="/web/20180926053104/https://rateyourmusic.com/artist/kendrick-lamar" class="artist">kendrick lamar</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album3597082]" href="/web/20180926053104/https://rateyourmusic.com/release/album/kendrick-lamar/good-kid-m_a_a_d-city-6/" class="album">good kid, m.a.a.d city</a> <span class="chart_year">(2012)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre29]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/west+coast+hip+hop/">west coast hip hop</a>, <a title="[genre14]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/conscious+hip+hop/">conscious hip hop</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/kendrick-lamar/good-kid-m_a_a_d-city-6/">rym rating: <b>4.11</b>
+             | ratings: <b>19,006</b> 
+             | reviews: <b>246</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/kendrick-lamar/good-kid-m_a_a_d-city-6/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_37 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">38</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_6543" style="width:150px;" title="red" alt="red" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/dd73d33474e99979e5b9ae34b5483469/2601521" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/7ef732c241f5cc7b557b9865c0ae5b66/2601521"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_6543" title="red" alt="red" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/dd73d33474e99979e5b9ae34b5483469/2601521" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/7ef732c241f5cc7b557b9865c0ae5b66/2601521"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">38. </span>
+                  <a title="[artist736]" href="/web/20180926053104/https://rateyourmusic.com/artist/king-crimson" class="artist">king crimson</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album6543]" href="/web/20180926053104/https://rateyourmusic.com/release/album/king-crimson/red-1/" class="album">red</a> <span class="chart_year">(1974)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre97]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/progressive+rock/">progressive rock</a>, <a title="[genre52]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/art+rock/">art rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/king-crimson/red-1/">rym rating: <b>4.21</b>
+             | ratings: <b>13,895</b> 
+             | reviews: <b>394</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/king-crimson/red-1/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_38 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">39</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_545" style="width:150px;" title="closer" alt="closer" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/f1633da0c294a5442c24401f8cc52ee8/3334740" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/2bbbeae8a45dddf30c5e2446375f833e/3334740"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_545" title="closer" alt="closer" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/f1633da0c294a5442c24401f8cc52ee8/3334740" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/2bbbeae8a45dddf30c5e2446375f833e/3334740"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">39. </span>
+                  <a title="[artist212]" href="/web/20180926053104/https://rateyourmusic.com/artist/joy_division" class="artist">joy division</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album545]" href="/web/20180926053104/https://rateyourmusic.com/release/album/joy_division/closer/" class="album">closer</a> <span class="chart_year">(1980)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre332]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/post%2dpunk/">post-punk</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/joy_division/closer/">rym rating: <b>4.11</b>
+             | ratings: <b>19,657</b> 
+             | reviews: <b>542</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/joy_division/closer/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><!-- @@_chart_item_39 -->
+
+   <tr>
+      <td class="pos_desktop" style="text-align:center;width:10em;">
+         <span class="ooookiig">40</span>
+      </td>
+    
+
+      <td class="img_desktop" style="width:150px;"><img id="img_l_8" style="width:150px;" title="the beatles [white album]" alt="the beatles [white album]" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/68f48322f6077afa4eb5c62f76da5d1f/2598086" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/77a5f5c8e886f7cc18b1bf2d774e3eac/2598086"/> </td>
+    
+
+      <td>
+   
+
+         <div class="chart_main">
+            <div class="img_mobile"><img id="img_m_8" title="the beatles [white album]" alt="the beatles [white album]" class="delayloadimg" data-delayloadurl="//web.archive.org/web/20180926053104/https://e.snmc.io/i/150/s/68f48322f6077afa4eb5c62f76da5d1f/2598086" data-delayloadurl2x="//web.archive.org/web/20180926053104/https://e.snmc.io/i/300/s/77a5f5c8e886f7cc18b1bf2d774e3eac/2598086"/> </div>                  
+            <div class="chart_details">
+               <span class="chart_detail_line1">
+                  <span class="pos_mobile">40. </span>
+                  <a title="[artist8]" href="/web/20180926053104/https://rateyourmusic.com/artist/the-beatles" class="artist">the beatles</a>
+               </span>
+
+               <div class="chart_detail_line2">
+                  <a title="[album8]" href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/the-beatles-white-album-4/" class="album">the beatles [white album]</a> <span class="chart_year">(1968)</span>
+               </div>
+
+
+               
+               <div class="chart_detail_line3"><div class="extra_metadata extra_metadata_genres"><a title="[genre630]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/pop+rock/">pop rock</a>, <a title="[genre5]" class="genre" href="/web/20180926053104/https://rateyourmusic.com/genre/rock/">rock</a></div>
+                              
+
+               </div>
+            </div>
+            <div class="clearfix"></div>
+
+         </div>
+         <div class="chart_stats">
+              
+              
+             <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/the-beatles-white-album-4/">rym rating: <b>4.16</b>
+             | ratings: <b>23,782</b> 
+             | reviews: <b>998</b></a> 
+             | <a href="/web/20180926053104/https://rateyourmusic.com/release/album/the-beatles/the-beatles-white-album-4/buy/" style="text-decoration:none;color:#080;font-weight:bold;">buy</a>
+         </div>
+
+
+</td>
+              </tr><tr><td colspan="5"><div style="width:970px;height:90px;text-align:center;margin:0 auto;margin-top:2em;margin-bottom:2em;"><!-- /31961696/charts.case-a.728-970.bottom -->
+            <div id="div-gpt-ad-1465817209349-39">
+            <script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465817209349-39'); });
+            </script>
+            </div></div></td></tr></table></td></tr></table><div style="font-size:1.2em;line-height:1.7;text-align:center;background:#f0f0f0;padding:0.75em;">page: <span class="navspan"><span class="navlinkcurrent">1</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/2">2</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/12">12</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/25">25</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/37">37</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/50">50</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/62">62</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/75">75</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/87">87</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/100">100</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/112">112</a> <span class="navdot">..</span> <a class="navlinknum" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/125">125</a> <a class="navlinknext" href="/web/20180926053104/https://rateyourmusic.com/charts/top/album/all-time/2">next &gt;</a></span></div><!-- /31961696/charts.case-a.desktop-anchor -->
+            <div id="div-gpt-ad-1465817209349-80" style="min-height:1px;min-width:1px;">
+            <script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465817209349-80'); });
+            </script>
+            </div>
+     <script type="text/javascript">
+      var delayloadimgcount = 0;
+
+      rymq(function() { $('.delayloadimg').appear(function() { delayloadimgcount++ ; $(this).attr('src', $(this).attr('data-delayloadurl')); } , { extendheight:400 } );});
+
+      rymq(function() { 
+
+         $('.delayed_background_img').appear(
+            function() { 
+              if ( window.devicepixelratio > 1 && $(this).data('delayloadurl2x').length ) {
+                $(this).css('background-image', $(this).data('delayloadurl2x')); 
+              } else {
+                $(this).css('background-image', $(this).data('delayloadurl'));                
+              }
+            } ,
+            { extendheight:400 }
+         );
+
+      });
+     </script>
+  
+
+<!-- ~~~~~~~~ end content ~~~~~~~~~~~~~~~ -->
+<div id="mymodal" class="reveal-modal">
+  <div id="modal_content">
+  </div>
+     <a class="close-reveal-modal">&#215;</a>
+</div>
+
+<!--trick--><div style="clear:both;"></div>
+</div>
+
+  
+
+
+<div id="navbottom">
+
+   <style>
+
+      .customize_ads {
+         cursor:pointer;display:block;float:left;margin-right:1em;padding-left:2%;line-height:3;text-decoration:none;color:#88b;font-weight:bold;
+      }
+      #customize_ads.fixed {
+         position:fixed;
+         bottom:0;
+         left:0;
+         background:rgba(0,0,0,0.8);
+         color:#ccc;
+         font-weight:bold;
+         padding:0.2em;
+         padding-left:3em;
+         padding-right:3em;
+      }
+
+   </style><a id="customize_ads" class="customize_ads" onclick="rymq(function() { rym.request.post('adscustomizeopen', {}, null, 'script');});" style=""><i class="fa fa-cog"></i> customize ads</a>
+   <script>
+
+      function fixadbanner() {
+
+         $('#customize_ads').addclass('fixed');
+      }
+
+      setinterval(function() {
+
+         if ( document.getelementbyid('google_ads_iframe_/31961696/release.case-a.300-336.top-left_0') && document.getelementbyid('google_ads_iframe_/31961696/release.case-a.300-336.top-left_0').style.position === 'fixed' ) {
+             fixadbanner();
+         }
+
+         if ( document.getelementbyid('google_ads_iframe_/31961696/artist.case-a.300-336.top-left_0') && document.getelementbyid('google_ads_iframe_/31961696/artist.case-a.300-336.top-left_0').style.position === 'fixed' ) {
+             fixadbanner();
+         }
+
+      }, 500);
+
+      function showconsent() {
+
+         $('#mymodal').html('<div id="oil-preference-center"></div>').css('width', '859px').css('padding', '0.5em');  $('#mymodal').reveal({
+               animation: 'none',                   //fade, fadeandpop, none
+               animationspeed: 100,                       //how fast animtions are
+               closeonbackgroundclick: true,              //if you click background will modal close?
+               dismissmodalclass: 'close-reveal-modal'    //the class of a button or element that will close an open modal
+          });
+         window.as_oil.showpreferencecenter();
+      }
+
+
+   </script>
+
+    <ul>
+      <li><a href="/web/20180926053104/https://rateyourmusic.com/wiki/rym:faq">faq</a></li>
+      <li><a href="/web/20180926053104/https://rateyourmusic.com/tos">terms of service</a></li>
+      <li><a href="/web/20180926053104/https://rateyourmusic.com/privacy">privacy</a>
+   
+       <span style="font-size:0.8em;color:#777;"> &nbsp;updated 17/june 2018</span></li>
+      <li><a href="/web/20180926053104/https://rateyourmusic.com/suggestions">website feedback</a></li>
+      <li><a href="https://web.archive.org/web/20180926053104/https://www.buysellads.com/buy/detail/266796">advertise</a></li>
+      <li><a href="/web/20180926053104/https://rateyourmusic.com/help/">help</a></li>
+      <li><a class="facebook_link" href="https://web.archive.org/web/20180926053104/https://www.facebook.com/sonemic.network/"><i class="fa fa-facebook-square"></i> like us</a></li>
+      <li><a class="twitter_link" href="https://web.archive.org/web/20180926053104/https://twitter.com/sonemic"><i class="fa fa-twitter"></i> follow us</a></li>
+   </ul>
+  
+
+<table><tr><td style="width:100%;text-align:center;"><address>&copy; 2000 - 2018 sonemic, inc. &nbsp; &nbsp; &nbsp; <a id="report_ad_link" style="cursor:pointer;" onclick="reportadopen();">report ads</a><script>
+
+
+      function reportadopen() {
+         $('#report_ads').toggle();
+         reportadpopulatelist();
+      }
+
+      function reportadpopulatelist() {
+
+
+         var ret = '';
+
+         for ( i in rymads ) {
+
+
+            var ad = rymads[i];
+
+            ret += '<label for="report_ad_' + i + '"><input type="radio" id="report_ad_' + i + '" onclick="reportadselect(\'' + i + '\');" name="report_ad_unit" value="' + i + '"> ' + ad.description + '</label>';
+
+         }
+
+         $('#report_ads_list').html(ret);
+      }
+
+      function reportadsubmit() {
+
+         var ad_type = $('input[name=report_ad_type]:checked').val();
+         var ad_unit = $('input[name=report_ad_unit]:checked').val();
+
+         var description = $('#report_ad_description').val();
+         var ad_json = $('#report_ad_json').val();
+         var ad_unit_html = $('#report_ad_unit_html').val();
+
+         var url = window.location.pathname;
+
+         rymq(function() { rym.request.post('adsreport', { ad_type:ad_type, ad_unit:ad_unit, description:description, ad_json:ad_json, ad_unit_html:ad_unit_html, url:url } , null, 'script');});
+
+      }
+
+      function _reportadcallback(message) {
+         $('#report_ads').html(message);
+      }
+
+      function reportadselect(id) {
+         $('#report_ad_unit_html').val( $('#' + id).html());
+      }
+
+      </script><style>#report_ads label { display:block;margin-top:0.5em;margin-bottom:0.5em;} 
+   #report_ad_submit {  padding:0.5em; border:1px solid #ddd; background:#f0f0f0; font-size:1.1em; }
+   #report_ad_description { width:100%; height:5em; border:1px solid #eee; background:#fff; padding:0.5em; }
+   #report_ad_json, #report_ad_unit_html { display:none; }
+   #report_ads {
+      display:none;
+      text-align: left;
+    max-width: 40em;
+    margin: 0 auto;
+    padding: 2em;
+    color: #333;
+    border: 1px solid #ddd;
+    margin-top: 1em;
+    border-radius: 3px;
+    background: #f8f8f8;
+   }
+         </style> </address></td></tr></table> 
+
+</div>
+</div>		
+</script>
+</body>
+
+
+      <script type="text/javascript" src="https://web.archive.org/web/20180926053104js_/https://e.snmc.io/2.5/js/jquery.min.js"></script>
+
+      <script type="text/javascript" src="https://web.archive.org/web/20180926053104js_/https://e.snmc.io/2.5/js/rym.min.4.js"></script>
+<script src="https://web.archive.org/web/20180926053104js_/https://e.snmc.io/2.5/js/min/modal.js" async></script><script src="https://web.archive.org/web/20180926053104js_/https://e.snmc.io/2.5/js/min/jquery-appear.js"></script><script>!function(t){var i=t(window);t.fn.visible=function(t,e,o){if(!(this.length<1)){var r=this.length>1?this.eq(0):this,n=r.get(0),f=i.width(),h=i.height(),o=o?o:"both",l=e===!0?n.offsetwidth*n.offsetheight:!0;if("function"==typeof n.getboundingclientrect){var g=n.getboundingclientrect(),u=g.top>=0&&g.top<h,s=g.bottom>0&&g.bottom<=h,c=g.left>=0&&g.left<f,a=g.right>0&&g.right<=f,v=t?u||s:u&&s,b=t?c||a:c&&a;if("both"===o)return l&&v&&b;if("vertical"===o)return l&&v;if("horizontal"===o)return l&&b}else{var d=i.scrolltop(),p=d+h,w=i.scrollleft(),m=w+f,y=r.offset(),z=y.top,b=z+r.height(),c=y.left,r=c+r.width(),j=t===!0?b:z,q=t===!0?z:b,h=t===!0?r:c,l=t===!0?c:r;if("both"===o)return!!l&&p>=q&&j>=d&&m>=l&&h>=w;if("vertical"===o)return!!l&&p>=q&&j>=d;if("horizontal"===o)return!!l&&m>=l&&h>=w}}}}(jquery);
+   </script>
+         <script>
+
+            for ( var i in ryminit ) {
+               var fn = ryminit[i];
+               fn();
+            }
+
+            ryminit = null;
+         </script>
+   <script>
+          var ts = new date().valueof();
+
+          var cx='71b8b024dab50badd1c763974fe3b1b2';
+          $("body").on("mousemove touchend",function(n){$("body").off("mousemove touchend");var o,t=!!window.opr&&!!opr.addons||!!window.opera||navigator.useragent.indexof(" opr/")>=0,e="undefined"!=typeof installtrigger,i=object.prototype.tostring.call(window.htmlelement).indexof("constructor")>0,r=!!document.documentmode,d=!r&&!!window.stylemedia,a=!!window.chrome&&!!window.chrome.webstore,c=(a||t)&&!!window.css,s=!1;navigator.webdriver;a&&window.chrome;try{navigator.permissions.query({name:"notifications"}).then(function(n){"denied"===notification.permission&&"prompt"===n.state&&!0})}catch(n){o=n}try{null[0]()}catch(n){o=n}o.stack.indexof("phantomjs")>-1&&(s=!0);var u=window.outerheight,w=window.innerheight,m=window.outerwidth,h=window.innerwidth,p=document.documentelement.hasattribute("webdriver"),v=document.documentelement.hasattribute("hola_ext_inject"),l=!!("ontouchstart"in window)||"ontouchstart"in document.documentelement,f=navigator.hardwareconcurrency,g=navigator.appcodename,y=navigator.plugins,b=new array;for(var x in y){var j=y[x];if(j)for(var c in j){var o=j[c];o&&o.description&&b.push(o.description.substr(0,12))}}var s={a:t,b:e,c:i,d:r,e:d,f:a,g:c,h:s,i:u,j:p,l:l,m:f,n:g,o:b.join(":"),p:w,q:m,r:h,s:v,t:s,cx:cx,ts:ts};rym.request.post("secchk",s,null,"script")});
+      </script><script type="text/javascript" src="https://web.archive.org/web/20180926053104js_/https://e.snmc.io/2.5/js/web_ads/advertisement.js"></script>
+
+   <script> function areadsblocked() { return ($('#ad_1').length == 0) } 
+   function politeadrequest() {
+
+      var colors = ['#666', '#668', '#866', '#686'];
+
+      var messages = ['rym relies on advertising revenue to support the site. please consider <a href="/subscribe/">becoming a subscriber</a> or whitelisting rateyourmusic.com on your ad blocker.',  'rym relies on advertising revenue to pay for the servers, bandwidth and other costs required to run this site. please consider <a href="/subscribe/">subscribing</a> or adding an exception to adblock for rateyourmusic.com.',  'if you block ads, please consider supporting rym by <a href="/subscribe/">subscribing</a> instead. subscribers never see ads and benefit from extra site features.',  'if you block ads, please consider <a href="/subscribe/">subscribing</a>. subscribers provide us with an independent, stable revenue stream that allows us to better operate and improve the site.']
+
+      var color = colors[math.floor(math.random()*colors.length)];
+      var message = messages[math.floor(math.random()*messages.length)];
+
+      var xx = '<div class=abpmessage style="line-height:2;text-align:center;color:' + color + ';">' + message + '</div>' 
+      $('#content').prepend(xx)
+   }
+
+   </script>
+ 
+      <script>
+                  if(areadsblocked()) {   
+                     politeadrequest()
+                  }
+      </script>
+   
+</html>
+ 
+ <!--
+     file archived on 05:31:04 sep 26, 2018 and retrieved from the
+     internet archive on 08:56:26 mar 29, 2023.
+     javascript appended by wayback machine, copyright internet archive.
+
+     all other content may also be protected by copyright (17 u.s.c.
+     section 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 79.213
+  exclusion.robots: 0.188
+  exclusion.robots.policy: 0.173
+  cdx.remote: 0.083
+  esindex: 0.013
+  loadshardblock: 44.981 (3)
+  petaboxloader3.datanode: 47.275 (4)
+  load_resource: 354.366
+  petaboxloader3.resolve: 324.321
+-->

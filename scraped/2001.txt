@@ -1,0 +1,215 @@
+ 
+
+<!doctype html public "-//w3c//dtd html 4.01 transitional//en" "http://www.w3.org/tr/html4/loose.dtd"> 
+
+
+  <html> 
+
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=viqoywbk" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nkc" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://rateyourmusic.com:80/top_albums","20010426134741","https://web.archive.org/","web","/_static/",
+	      "988292861");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=s1zqjcyt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvmkcij" />
+<!-- end wayback rewrite js include -->
+
+
+  <meta name="description" content="rate your music . com is an online
+community of people who love music.  rateyourmusic allows you to catalog
+the music you own, keeping track of the artists, album names, track
+titles, etc.  in addition, you can rate the music that you add to your
+catalogue.  when you rate your music, the rateyourmusic.com servers can
+make recommendations to you based on the music that others have rated.
+other featurs include polls, lists, and forums.
+rateyourmusic.com is free, and there are no banner ads. ">
+
+  <meta name="keywords" content="rate your music, rate music, rate
+albums, music catalog software, music catalogue software, music software,
+catalogue, album reviews, music reviews, music ratings, music,
+music community, music message boards, music polls, boo urns,
+music recommendations, recommend music">
+
+  <style type="text/css"><!--
+
+  body {font-family: tahoma, verdana, arial, helvetica; font-size: 10pt;margin: 20pt;}
+  td {font-family: tahoma, verdana, arial; font-size: 9pt;}
+  //--></style>
+
+<base href="https://web.archive.org/web/20010426134741/http://rateyourmusic.com/">
+
+<title>rateyourmusic.com - top 100 albums </title>
+
+<link rel="shortcut icon" href="https://web.archive.org/web/20010426134741im_/http://rateyourmusic.com/favicon.ico">
+
+
+</head>
+
+<body vlink="#0000cc" link="#0000ff" background="/web/20010426134741im_/http://rateyourmusic.com/images/bg.gif">
+
+<br> <table bordercolorlight="#c0c0c0" width="95%" cellpadding="3" cellspacing="0" align="center" bgcolor="#aaaacc" border="1" bordercolordark="#ccccff"> <tr>
+  <td colspan="6"><table border="0" cellpadding="0" cellspacing="0" width="95%"><tr><td width="40%">
+<a href="https://web.archive.org/web/20010426134741/http://rateyourmusic.com/"><img src="/web/20010426134741im_/http://rateyourmusic.com/images/rym.gif" width="321" height="51" border="0" alt="rate your music .com"></a>
+</td><td width="40%" valign="bottom"><p align="right">
+<a href="about.tcl"><b><font color="blue">what is 
+rateyourmusic.com?</font></b></a>
+
+</p></td>
+</tr></table></td>
+</tr>
+
+  <tr align="center">
+  <td width="20%"><b><a href="index"><font color="white">home</font></a></b></td>
+  <td width="20%"><b><a href="artists"><font color="white">artists</font></a></b></td>
+  <td width="20%"><b><a href="community"><font color="white">community</font></a></b></td>
+
+
+           <td width="20%"><a href="/web/20010426134741/http://rateyourmusic.com/login"><font color="white"><b>log in/sign up!</b></font></a></td></tr></table><table border="0" width="95%" cellspacing="0" cellpadding="15" align="center" bgcolor="white"><tr><td><br><br><h2>top 100 albums</h2>
+
+<p> these are the top 100 albums, rated by our users.</p><table border="1" cellpadding="3" cellspacing="0" bordercolorlight="#ccccff" bordercolordark="#c0c0c0" width="100%"> <tr><td valign="center"><font size="+1"><center><b>1</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_16">sgt. pepper&#39;s lonely hearts club band</a></td></tr><tr><td valign="center"><font size="+1"><center><b>2</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_37"><b> nirvana</b></a>:<br><br><a href="view_album_details/album_id_is_126">nevermind</a></td></tr><tr><td valign="center"><font size="+1"><center><b>3</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_42"><b> radiohead</b></a>:<br><br><a href="view_album_details/album_id_is_45">ok computer</a></td></tr><tr><td valign="center"><font size="+1"><center><b>4</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_40"><b> pearl jam</b></a>:<br><br><a href="view_album_details/album_id_is_134">ten</a></td></tr><tr><td valign="center"><font size="+1"><center><b>5</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_8">the beatles (white album)</a></td></tr><tr><td valign="center"><font size="+1"><center><b>6</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_206">revolver</a></td></tr><tr><td valign="center"><font size="+1"><center><b>7</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_80"><b>the clash</b></a>:<br><br><a href="view_album_details/album_id_is_236">london calling</a></td></tr><tr><td valign="center"><font size="+1"><center><b>8</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_12">abbey road</a></td></tr><tr><td valign="center"><font size="+1"><center><b>9</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_31"><b> led zeppelin</b></a>:<br><br><a href="view_album_details/album_id_is_43">led zeppelin iv</a></td></tr><tr><td valign="center"><font size="+1"><center><b>10</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_209">1</a></td></tr><tr><td valign="center"><font size="+1"><center><b>11</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_91"><b>billy joel</b></a>:<br><br><a href="view_album_details/album_id_is_254">greatest hits, vols. 1 &amp; 2 (1973 - 1985)</a></td></tr><tr><td valign="center"><font size="+1"><center><b>12</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_37"><b> nirvana</b></a>:<br><br><a href="view_album_details/album_id_is_304">mtv unplugged in new york</a></td></tr><tr><td valign="center"><font size="+1"><center><b>13</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_15">magical mystery tour</a></td></tr><tr><td valign="center"><font size="+1"><center><b>14</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_207">help!</a></td></tr><tr><td valign="center"><font size="+1"><center><b>15</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_312"><b> pink floyd</b></a>:<br><br><a href="view_album_details/album_id_is_969">the wall</a></td></tr><tr><td valign="center"><font size="+1"><center><b>16</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_205">rubber soul</a></td></tr><tr><td valign="center"><font size="+1"><center><b>17</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_16"><b>jimi hendrix</b></a>:<br><br><a href="view_album_details/album_id_is_642">experience hendrix: the best of jimi hendrix</a></td></tr><tr><td valign="center"><font size="+1"><center><b>18</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_68"><b>the jam</b></a>:<br><br><a href="view_album_details/album_id_is_213">all mod cons</a></td></tr><tr><td valign="center"><font size="+1"><center><b>19</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_232"><b>the  sex pistols</b></a>:<br><br><a href="view_album_details/album_id_is_495">never mind the bollocks here&#39;s the sex pistols</a></td></tr><tr><td valign="center"><font size="+1"><center><b>20</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_298"><b> eve</b></a>:<br><br><a href="view_album_details/album_id_is_931">let there be eve....ruff ryders first lady</a></td></tr><tr><td valign="center"><font size="+1"><center><b>21</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_445"><b> sublime</b></a>:<br><br><a href="view_album_details/album_id_is_1523">sublime</a></td></tr><tr><td valign="center"><font size="+1"><center><b>22</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_509"><b> limp bizkit</b></a>:<br><br><a href="view_album_details/album_id_is_1670">rolling</a></td></tr><tr><td valign="center"><font size="+1"><center><b>23</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_108"><b> metallica</b></a>:<br><br><a href="view_album_details/album_id_is_1337">metallica</a></td></tr><tr><td valign="center"><font size="+1"><center><b>24</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_26"><b>the doors</b></a>:<br><br><a href="view_album_details/album_id_is_309">greatest hits</a></td></tr><tr><td valign="center"><font size="+1"><center><b>25</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1"><b> counting crows</b></a>:<br><br><a href="view_album_details/album_id_is_1">august and everything after</a></td></tr><tr><td valign="center"><font size="+1"><center><b>26</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_4"><b> oasis</b></a>:<br><br><a href="view_album_details/album_id_is_35">(what&#39;s the story) morning glory</a></td></tr><tr><td valign="center"><font size="+1"><center><b>27</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_20"><b> belle and sebastian</b></a>:<br><br><a href="view_album_details/album_id_is_67">if you&#39;re feeling sinister</a></td></tr><tr><td valign="center"><font size="+1"><center><b>28</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_59"><b>john lennon</b></a>:<br><br><a href="view_album_details/album_id_is_114">imagine</a></td></tr><tr><td valign="center"><font size="+1"><center><b>29</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_47"><b> simon &amp; garfunkel</b></a>:<br><br><a href="view_album_details/album_id_is_150">greatest hits</a></td></tr><tr><td valign="center"><font size="+1"><center><b>30</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_58"><b>the who</b></a>:<br><br><a href="view_album_details/album_id_is_187">my generation: the very best of the who</a></td></tr><tr><td valign="center"><font size="+1"><center><b>31</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1"><b> counting crows</b></a>:<br><br><a href="view_album_details/album_id_is_2">recovering the satellites</a></td></tr><tr><td valign="center"><font size="+1"><center><b>32</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_18"><b>the beach boys</b></a>:<br><br><a href="view_album_details/album_id_is_63">pet sounds</a></td></tr><tr><td valign="center"><font size="+1"><center><b>33</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_56"><b> u2</b></a>:<br><br><a href="view_album_details/album_id_is_167">the joshua tree</a></td></tr><tr><td valign="center"><font size="+1"><center><b>34</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_387"><b> 3 doors down</b></a>:<br><br><a href="view_album_details/album_id_is_1410">better life</a></td></tr><tr><td valign="center"><font size="+1"><center><b>35</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_509"><b> limp bizkit</b></a>:<br><br><a href="view_album_details/album_id_is_1623">significent other</a></td></tr><tr><td valign="center"><font size="+1"><center><b>36</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_310"><b> guns n roses</b></a>:<br><br><a href="view_album_details/album_id_is_966">appetite for destruction</a></td></tr><tr><td valign="center"><font size="+1"><center><b>37</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1"><b> counting crows</b></a>:<br><br><a href="view_album_details/album_id_is_4">this desert life</a></td></tr><tr><td valign="center"><font size="+1"><center><b>38</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_39"><b>paul simon</b></a>:<br><br><a href="view_album_details/album_id_is_146">graceland</a></td></tr><tr><td valign="center"><font size="+1"><center><b>39</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_47"><b> simon &amp; garfunkel</b></a>:<br><br><a href="view_album_details/album_id_is_148">bookends</a></td></tr><tr><td valign="center"><font size="+1"><center><b>40</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_74"><b>the beastie boys</b></a>:<br><br><a href="view_album_details/album_id_is_514">licensed to &#39;ill</a></td></tr><tr><td valign="center"><font size="+1"><center><b>41</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_312"><b> pink floyd</b></a>:<br><br><a href="view_album_details/album_id_is_976">dark side of the moon</a></td></tr><tr><td valign="center"><font size="+1"><center><b>42</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_108"><b> metallica</b></a>:<br><br><a href="view_album_details/album_id_is_1073">kill em&#39; all</a></td></tr><tr><td valign="center"><font size="+1"><center><b>43</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_326"><b> big tymers</b></a>:<br><br><a href="view_album_details/album_id_is_1212">roll on</a></td></tr><tr><td valign="center"><font size="+1"><center><b>44</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_203"><b> hole</b></a>:<br><br><a href="view_album_details/album_id_is_1369">live through this</a></td></tr><tr><td valign="center"><font size="+1"><center><b>45</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_245"><b> blink-182</b></a>:<br><br><a href="view_album_details/album_id_is_1625">the enema strikes back</a></td></tr><tr><td valign="center"><font size="+1"><center><b>46</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_91"><b>billy joel</b></a>:<br><br><a href="view_album_details/album_id_is_1636">glass houses</a></td></tr><tr><td valign="center"><font size="+1"><center><b>47</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_119"><b> lifehouse</b></a>:<br><br><a href="view_album_details/album_id_is_343">no name face</a></td></tr><tr><td valign="center"><font size="+1"><center><b>48</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_297"><b> dmx</b></a>:<br><br><a href="view_album_details/album_id_is_928">...and then there was x</a></td></tr><tr><td valign="center"><font size="+1"><center><b>49</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_13">let it be</a></td></tr><tr><td valign="center"><font size="+1"><center><b>50</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_56"><b> u2</b></a>:<br><br><a href="view_album_details/album_id_is_171">all that you can&#39;t leave behind</a></td></tr><tr><td valign="center"><font size="+1"><center><b>51</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_56"><b> u2</b></a>:<br><br><a href="view_album_details/album_id_is_172">best of 1980-1990</a></td></tr><tr><td valign="center"><font size="+1"><center><b>52</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_208">a hard day&#39;s night</a></td></tr><tr><td valign="center"><font size="+1"><center><b>53</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_82"><b> creedence clearwater revival</b></a>:<br><br><a href="view_album_details/album_id_is_239">chronicle, vol. 1</a></td></tr><tr><td valign="center"><font size="+1"><center><b>54</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_117"><b>the  cure</b></a>:<br><br><a href="view_album_details/album_id_is_323">kiss me, kiss me, kiss me</a></td></tr><tr><td valign="center"><font size="+1"><center><b>55</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_59"><b>john lennon</b></a>:<br><br><a href="view_album_details/album_id_is_944">the john lennon collection</a></td></tr><tr><td valign="center"><font size="+1"><center><b>56</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_376"><b> supergarage</b></a>:<br><br><a href="view_album_details/album_id_is_1388">demolition</a></td></tr><tr><td valign="center"><font size="+1"><center><b>57</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_408"><b> duran duran</b></a>:<br><br><a href="view_album_details/album_id_is_1461">decade</a></td></tr><tr><td valign="center"><font size="+1"><center><b>58</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_28"><b> grateful dead</b></a>:<br><br><a href="view_album_details/album_id_is_101">skeletons from the closet: the best of the grateful dead</a></td></tr><tr><td valign="center"><font size="+1"><center><b>59</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_258">anthology 2</a></td></tr><tr><td valign="center"><font size="+1"><center><b>60</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_109"><b> creed</b></a>:<br><br><a href="view_album_details/album_id_is_307">human clay</a></td></tr><tr><td valign="center"><font size="+1"><center><b>61</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_302"><b> papa roach</b></a>:<br><br><a href="view_album_details/album_id_is_938">infest</a></td></tr><tr><td valign="center"><font size="+1"><center><b>62</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_41"><b> r.e.m.</b></a>:<br><br><a href="view_album_details/album_id_is_26">automatic for the people</a></td></tr><tr><td valign="center"><font size="+1"><center><b>63</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_7"><b>david gray</b></a>:<br><br><a href="view_album_details/album_id_is_102">white ladder</a></td></tr><tr><td valign="center"><font size="+1"><center><b>64</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_53"><b>tom petty</b></a>:<br><br><a href="view_album_details/album_id_is_142">greatest hits</a></td></tr><tr><td valign="center"><font size="+1"><center><b>65</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_49"><b> smashing pumpkins</b></a>:<br><br><a href="view_album_details/album_id_is_161">mellon collie and the infinite sadness</a></td></tr><tr><td valign="center"><font size="+1"><center><b>66</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_42"><b> radiohead</b></a>:<br><br><a href="view_album_details/album_id_is_46">kid a</a></td></tr><tr><td valign="center"><font size="+1"><center><b>67</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_1"><b> counting crows</b></a>:<br><br><a href="view_album_details/album_id_is_5">across a wire </a></td></tr><tr><td valign="center"><font size="+1"><center><b>68</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_16"><b>jimi hendrix</b></a>:<br><br><a href="view_album_details/album_id_is_10">are you experienced?</a></td></tr><tr><td valign="center"><font size="+1"><center><b>69</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_4"><b> oasis</b></a>:<br><br><a href="view_album_details/album_id_is_31">definitely maybe</a></td></tr><tr><td valign="center"><font size="+1"><center><b>70</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_42"><b> radiohead</b></a>:<br><br><a href="view_album_details/album_id_is_44">the bends</a></td></tr><tr><td valign="center"><font size="+1"><center><b>71</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_65"><b> barenaked ladies</b></a>:<br><br><a href="view_album_details/album_id_is_60">rock spectacle</a></td></tr><tr><td valign="center"><font size="+1"><center><b>72</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_20"><b> belle and sebastian</b></a>:<br><br><a href="view_album_details/album_id_is_69">fold your hands child, you walk like a peasant</a></td></tr><tr><td valign="center"><font size="+1"><center><b>73</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_22"><b>bob dylan</b></a>:<br><br><a href="view_album_details/album_id_is_96">bob dylan&#39;s greatest hits</a></td></tr><tr><td valign="center"><font size="+1"><center><b>74</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_44"><b>richard hell &amp; the voidoids</b></a>:<br><br><a href="view_album_details/album_id_is_103">blank generation</a></td></tr><tr><td valign="center"><font size="+1"><center><b>75</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_46"><b>sarah mclachlan</b></a>:<br><br><a href="view_album_details/album_id_is_123">surfacing</a></td></tr><tr><td valign="center"><font size="+1"><center><b>76</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_37"><b> nirvana</b></a>:<br><br><a href="view_album_details/album_id_is_127">incesticide</a></td></tr><tr><td valign="center"><font size="+1"><center><b>77</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_40"><b> pearl jam</b></a>:<br><br><a href="view_album_details/album_id_is_135">vs.</a></td></tr><tr><td valign="center"><font size="+1"><center><b>78</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_53"><b>tom petty</b></a>:<br><br><a href="view_album_details/album_id_is_141">wildflowers</a></td></tr><tr><td valign="center"><font size="+1"><center><b>79</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_43"><b>the ramones</b></a>:<br><br><a href="view_album_details/album_id_is_144">ramones mania</a></td></tr><tr><td valign="center"><font size="+1"><center><b>80</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_49"><b> smashing pumpkins</b></a>:<br><br><a href="view_album_details/album_id_is_160">siamese dream</a></td></tr><tr><td valign="center"><font size="+1"><center><b>81</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_56"><b> u2</b></a>:<br><br><a href="view_album_details/album_id_is_169">achtung baby</a></td></tr><tr><td valign="center"><font size="+1"><center><b>82</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_75"><b> ben folds five</b></a>:<br><br><a href="view_album_details/album_id_is_221">whatever and ever amen</a></td></tr><tr><td valign="center"><font size="+1"><center><b>83</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_8"><b>the beatles</b></a>:<br><br><a href="view_album_details/album_id_is_257">anthology 1</a></td></tr><tr><td valign="center"><font size="+1"><center><b>84</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_97"><b> manic street preachers</b></a>:<br><br><a href="view_album_details/album_id_is_266">everything must go</a></td></tr><tr><td valign="center"><font size="+1"><center><b>85</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_98"><b> dave matthews band</b></a>:<br><br><a href="view_album_details/album_id_is_268">under the table and dreaming</a></td></tr><tr><td valign="center"><font size="+1"><center><b>86</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_98"><b> dave matthews band</b></a>:<br><br><a href="view_album_details/album_id_is_269">live at luther college</a></td></tr><tr><td valign="center"><font size="+1"><center><b>87</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_104"><b> x-ray spex</b></a>:<br><br><a href="view_album_details/album_id_is_299">germfree adolescents</a></td></tr><tr><td valign="center"><font size="+1"><center><b>88</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_227"><b> air</b></a>:<br><br><a href="view_album_details/album_id_is_411">premiers symptomes</a></td></tr><tr><td valign="center"><font size="+1"><center><b>89</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_138"><b> coldplay</b></a>:<br><br><a href="view_album_details/album_id_is_524">parachutes</a></td></tr><tr><td valign="center"><font size="+1"><center><b>90</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_117"><b>the  cure</b></a>:<br><br><a href="view_album_details/album_id_is_674">staring at the sea: the singles</a></td></tr><tr><td valign="center"><font size="+1"><center><b>91</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_297"><b> dmx</b></a>:<br><br><a href="view_album_details/album_id_is_930">flesh of my flesh...blood of my blood</a></td></tr><tr><td valign="center"><font size="+1"><center><b>92</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_311"><b> dokken</b></a>:<br><br><a href="view_album_details/album_id_is_967">best of dokken</a></td></tr><tr><td valign="center"><font size="+1"><center><b>93</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_322"><b> aerosmith</b></a>:<br><br><a href="view_album_details/album_id_is_1141">greatest hits</a></td></tr><tr><td valign="center"><font size="+1"><center><b>94</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_91"><b>billy joel</b></a>:<br><br><a href="view_album_details/album_id_is_1633">an innocent man</a></td></tr><tr><td valign="center"><font size="+1"><center><b>95</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_245"><b> blink-182</b></a>:<br><br><a href="view_album_details/album_id_is_1160">enema of the state</a></td></tr><tr><td valign="center"><font size="+1"><center><b>96</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_40"><b> pearl jam</b></a>:<br><br><a href="view_album_details/album_id_is_139">binaural</a></td></tr><tr><td valign="center"><font size="+1"><center><b>97</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_41"><b> r.e.m.</b></a>:<br><br><a href="view_album_details/album_id_is_19">murmur</a></td></tr><tr><td valign="center"><font size="+1"><center><b>98</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_31"><b> led zeppelin</b></a>:<br><br><a href="view_album_details/album_id_is_42">led zeppelin ii</a></td></tr><tr><td valign="center"><font size="+1"><center><b>99</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_65"><b> barenaked ladies</b></a>:<br><br><a href="view_album_details/album_id_is_57">gordon</a></td></tr><tr><td valign="center"><font size="+1"><center><b>100</b></center></font></td>
+			<td><a href="view_albums/artist_id_is_30"><b> k&#39;s choice</b></a>:<br><br><a href="view_album_details/album_id_is_111">cocoon crash</a></td></tr> 
+
+<table border="0" cellpadding="1" cellspacing="5" width="90%" align="center"><tr><td> <form method="submit" action="search">
+</td></tr></table><br><br><hr noshade width="95%" color="#ccccff">
+<center><font size="-2"><br><br>
+<p>search for <input type="text" maxlength="80" size="35" name="searchterm"> in
+<select name="searchtype"><option value="artist">artist<option value="album">album title</select>
+
+<input type="submit" value="search"></form></td></tr></table>  <table border="1" width="95%" cellpadding="3" cellspacing="0" align="center" border="1" bordercolordark="#ccccff" bgcolor="#ffffff">
+  <tr align="center">
+  <td align="center" width="20%">
+  <font size="-2"><a href="index">home</a></font></td>
+  <td align="center" width="20%">
+  <font size="-2"><a href="tos">terms of service</a></font></td>
+  <td align="center" width="20%">
+  <font size="-2"><a href="privacy">privacy</a></font></td>
+  <td align="center" width="20%">
+  <font size="-2"><a href="about">about</a></font></td>
+  <td align="center" width="20%">
+  <font size="-2"><a href="suggestions">suggestions/feedback</a></font></td>
+  </tr>
+  <tr bgcolor="#aaaacc"><td align="center" colspan="5">
+  <font color="white" size="-1"><b>&copy; 2001
+rateyourmusic.com</b></font></td></tr></table>
+  </body>
+  </html><!--
+     file archived on 13:47:41 apr 26, 2001 and retrieved from the
+     internet archive on 08:53:43 mar 29, 2023.
+     javascript appended by wayback machine, copyright internet archive.
+
+     all other content may also be protected by copyright (17 u.s.c.
+     section 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 127.401
+  exclusion.robots: 0.145
+  exclusion.robots.policy: 0.137
+  rediscdxsource: 0.74
+  esindex: 0.006
+  loadshardblock: 105.34 (3)
+  petaboxloader3.datanode: 90.835 (4)
+  load_resource: 136.476
+  petaboxloader3.resolve: 91.749
+-->

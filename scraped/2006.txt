@@ -1,0 +1,752 @@
+ 
+
+<!doctype html public "-//w3c//dtd html 4.01 transitional//en" "http://www.w3.org/tr/html4/loose.dtd"> 
+
+
+  <html> 
+
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=viqoywbk" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nkc" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://rateyourmusic.com:80/top_albums","20060417162319","https://web.archive.org/","web","/_static/",
+	      "1145290999");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=s1zqjcyt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvmkcij" />
+<!-- end wayback rewrite js include -->
+
+
+  
+  <meta name="description" content="rate your music . com is an online
+community of people who love music.  rateyourmusic allows you to catalog
+the music you own, keeping track of the artists, album names, track
+titles, etc.  in addition, you can rate the music that you add to your
+catalogue.  when you rate your music, the rateyourmusic.com servers can
+make recommendations to you based on the music that others have rated.
+other featurs include polls, lists, and forums.
+rateyourmusic.com is free, and there are no banner ads. ">
+
+  <meta name="keywords" content="rate your music, rate music, rate
+albums, music catalog catalogue software, album reviews, music reviews,
+music ratings, community, message boards, polls, boo urns, recommendations">
+
+  <style type="text/css">
+
+  .button {background: #9999bb; font-family: verdana, tahoma, arial, helvetica; font-size: 8pt; color:white; }
+
+  body { background: #aaaacc; color: #332200; font-family: verdana, tahoma, arial, helvetica; font-size: 10pt;margin: 20pt;}
+  td {color: #332200; font-family: verdana, tahoma, arial; font-size: 9pt;}
+  .small {font-family: verdana, tahoma, arial; font-size: 8pt;}
+  .nomarginform { margin: 0em;padding:0em;font-weight:bold; } 
+  .dottedgray {font-family: verdana,tahoma,arial; font-size: 8pt;
+           background: rgb(240,240,240);
+           border:1px;
+           border-style: dashed;
+           border-width: 1px;
+           border-color: #3366cc;
+           padding:4px; }
+
+  .quote   {font-family: verdana,tahoma,arial; font-size: 9pt;
+           background: rgb(240,240,240);
+           border:1px;
+           border-style: solid;
+           border-width: 1px;
+           border-color: #999999;
+           padding:4px; }
+  a:link.admin,
+  a:visited.admin {
+        color: #eeee99;
+  }
+
+  a:link.userd,
+  a:visited.userd {
+        color: black ;
+	text-decoration: line-through;
+  }
+  a:link.usero,
+  a:visited.usero {
+        color: #33a;
+  }
+  a:link.user,
+  a:visited.user {
+        color: black;
+  }
+
+  a:link.list,
+  a:visited.list {
+        color: black;
+  }
+
+  a:link.artist,
+  a:visited.artist {
+        color: black;
+  }
+
+  a:link.album,
+  a:visited.album {
+        color: black;
+  }
+  </style>
+
+
+
+<title>top 1000 albums -- rate your music</title>
+<base href="https://web.archive.org/web/20060417162319/http://rateyourmusic.com/">
+<link rel="shortcut icon" href="https://web.archive.org/web/20060417162319im_/http://rateyourmusic.com/favicon.ico">
+
+</head>
+
+<body vlink="#0000cc" alink="#0000ff" link="#0000ff"> 
+<table bordercolorlight="#c0c0c0" width="95%" cellpadding="3" cellspacing="0" align="center" bgcolor="#aaaacc" border="1" bordercolordark="#ccccff">
+    <tr><td>
+    <center><font color="white"><b>rate your music is an online community of people who love music.  
+<a href="signup"><font color="#f8f8f8">sign up now</font></a> to catalog your music collection, rate and review music, receive recommendations, create and share lists, and meet people with the same taste in music as you.</font></center></td></tr></table><table bordercolorlight="#c0c0c0" width="95%" cellpadding="3" cellspacing="0" align="center" bgcolor="#aaaacc" border="1" bordercolordark="#ccccff"> <tr>
+  <td colspan="7"><table border="0" cellpadding="0" cellspacing="0" width="95%"><tr><td width="40%">
+<a href="https://web.archive.org/web/20060417162319/http://rateyourmusic.com/"><img src="https://web.archive.org/web/20060417162319im_/http://muzikamoya.com/images/rym.gif" width="321" height="51" border="0" alt="rate your music .com"></a> 
+</td><td width="40%" valign="center"><p align="right">
+ <form method="submit" action="/web/20060417162319/http://rateyourmusic.com/search">
+<input class="button" type="text" maxlength="80" size="15" name="searchterm"> <select class="button" name="searchtype"><option value="artist">artist<option value="album">album<option value="t">list <option value="v">review  <option value="genre">genre</select> <input class="button" type="submit" value=">"></form>
+
+</p></td>
+</tr></table></td>
+</tr>
+
+  <tr align="center">
+  <td width="20%"><b><a href="/web/20060417162319/http://rateyourmusic.com/"><font color="#f8f8f8">home</font></a></b></td>
+  <td width="20%"><b><a href="/web/20060417162319/http://rateyourmusic.com/artists"><font color="#f8f8f8">artists</font></a></b></td>
+  <td width="20%"><b><a href="/web/20060417162319/http://rateyourmusic.com/community"><font color="#f8f8f8">community</font></a></b></td>
+
+
+           <td width="20%"><a href="/web/20060417162319/http://rateyourmusic.com/login"><font color="#f8f8f8"><b>log in/sign up!</b></font></a></td></tr></table><table border="0" width="95%" cellspacing="0" cellpadding="15" align="center" bgcolor="#ffffff"><tr><td><br>  <style>
+   .dottedgray {font-family: verdana,tahoma,arial; font-size: 8pt;
+           background: rgb(240,240,240);
+           width: 200px;
+           border:1px;
+           border-style: dashed;
+           border-width: 1px;
+           border-color: #3366cc;
+           padding:4px; }
+  #user_list {
+        padding: 5px;
+        margin: 5px;
+  }
+  .number {
+        font-size:60px;
+        text-align:center;
+        width:130px;
+        color: #999;
+        font-family:verdana,tahoma,arial;
+   }
+  .trodd {
+        background: #eee;
+        padding: 5px;
+        margin: 5px;
+   }
+
+  .treven {
+        background: #fff;
+        padding: 5px;
+        margin: 5px;
+   }
+  #user_list td { margin:0px; }
+  #user_list tr { margin:10px; }
+
+  .rel_date {
+        color: #666;
+        font-size: 14px;
+        padding-left: 10px;
+  }
+  .list_art {
+        padding: 10px;
+        text-align:center;
+  }
+  .main_entry {
+        padding-left: 20px;
+  }
+  .list_artist {
+        color: #333;
+        font-size: 18px;
+        text-decoration:none;
+  }
+  .list_user {
+        color: #333;
+        font-size: 18px;
+        text-decoration:none;
+  }
+
+  .list_album {
+
+        color: #333;
+        font-size: 20px;
+        text-decoration: none;
+        font-style: italic;
+  }
+  .top_albums_nav { 
+        text-align:center;
+        width:100%;
+        font-weight: bold;
+        font-size: 14px;
+  }
+  .yearlink { 
+  
+        color: #22f;
+        font-size: 18px;
+        font-weight: bold;
+  }
+  .year { 
+        color: #222;
+        font-size: 40px;
+        font-weight: bold;
+   }
+</style>
+
+<h2>top 100 albums</h2><p> these are the top 100 albums, rated by our users.</p> (<a href="/web/20060417162319/http://rateyourmusic.com/albums_by_year">top albums by year</a>)<br><br><div class="top_albums_nav"><a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=0">1 - 100</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=100">101 - 200</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=200">201 - 300</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=300">301 - 400</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=400">401 - 500</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=500">501 - 600</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=600">601 - 700</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=700">701 - 800</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=800">801 - 900</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=900">901 - 1000</a> &nbsp;&nbsp; </div> <table width="100%"><tr><td></table><br> <table id="user_list"><tr class="trodd">
+
+<td valign="center" class="number">1</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beatles/revolver__gbr_/"><img border="0" width="150" alt="revolver [gbr]" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s206.jpg"></a></td>
+			<td class="main_entry"><a title="[artist8]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_beatles" class="list_artist">the beatles</a><br><br><a title="[album206]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beatles/revolver__gbr_/" class="list_album">revolver [gbr]</a><span class="rel_year">
+         (1966)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">2</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/bob_dylan/highway_61_revisited/"><img border="0" width="150" alt="highway 61 revisited" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s51.jpg"></a></td>
+			<td class="main_entry"><a title="[artist22]" href="/web/20060417162319/http://rateyourmusic.com/artist/bob_dylan" class="list_artist">bob dylan</a><br><br><a title="[album51]" href="/web/20060417162319/http://rateyourmusic.com/release/album/bob_dylan/highway_61_revisited/" class="list_album">highway 61 revisited</a><span class="rel_year">
+         (1965)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">3</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beatles/abbey_road/"><img border="0" width="150" alt="abbey road" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s12.jpg"></a></td>
+			<td class="main_entry"><a title="[artist8]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_beatles" class="list_artist">the beatles</a><br><br><a title="[album12]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beatles/abbey_road/" class="list_album">abbey road</a><span class="rel_year">
+         (1969)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">4</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/bob_dylan/blood_on_the_tracks/"><img border="0" width="150" alt="blood on the tracks" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s50.jpg"></a></td>
+			<td class="main_entry"><a title="[artist22]" href="/web/20060417162319/http://rateyourmusic.com/artist/bob_dylan" class="list_artist">bob dylan</a><br><br><a title="[album50]" href="/web/20060417162319/http://rateyourmusic.com/release/album/bob_dylan/blood_on_the_tracks/" class="list_album">blood on the tracks</a><span class="rel_year">
+         (1975)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">5</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/john_coltrane/a_love_supreme/"><img border="0" width="150" alt="a love supreme" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s10702.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1101]" href="/web/20060417162319/http://rateyourmusic.com/artist/john_coltrane" class="list_artist">john coltrane</a><br><br><a title="[album10702]" href="/web/20060417162319/http://rateyourmusic.com/release/album/john_coltrane/a_love_supreme/" class="list_album">a love supreme</a><span class="rel_year">
+         (1965)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">6</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/miles_davis/kind_of_blue/"><img border="0" width="150" alt="kind of blue" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2571.jpg"></a></td>
+			<td class="main_entry"><a title="[artist785]" href="/web/20060417162319/http://rateyourmusic.com/artist/miles_davis" class="list_artist">miles davis</a><br><br><a title="[album2571]" href="/web/20060417162319/http://rateyourmusic.com/release/album/miles_davis/kind_of_blue/" class="list_album">kind of blue</a><span class="rel_year">
+         (1959)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">7</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/radiohead/ok_computer/"><img border="0" width="150" alt="ok computer" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s45.jpg"></a></td>
+			<td class="main_entry"><a title="[artist42]" href="/web/20060417162319/http://rateyourmusic.com/artist/radiohead" class="list_artist">radiohead</a><br><br><a title="[album45]" href="/web/20060417162319/http://rateyourmusic.com/release/album/radiohead/ok_computer/" class="list_album">ok computer</a><span class="rel_year">
+         (1997)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">8</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_velvet_underground/the_velvet_underground_and_nico/"><img border="0" width="150" alt="the velvet underground &amp; nico" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s173.jpg"></a></td>
+			<td class="main_entry"><a title="[artist57]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_velvet_underground" class="list_artist">the velvet underground</a><br><br><a title="[album173]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_velvet_underground/the_velvet_underground_and_nico/" class="list_album">the velvet underground &amp; nico</a><span class="rel_year">
+         (1967)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">9</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beatles/the_beatles__white_album_/"><img border="0" width="150" alt="the beatles [white album]" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s8.jpg"></a></td>
+			<td class="main_entry"><a title="[artist8]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_beatles" class="list_artist">the beatles</a><br><br><a title="[album8]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beatles/the_beatles__white_album_/" class="list_album">the beatles [white album]</a><span class="rel_year">
+         (1968)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">10</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/pink_floyd/the_dark_side_of_the_moon/"><img border="0" width="150" alt="the dark side of the moon" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s976.jpg"></a></td>
+			<td class="main_entry"><a title="[artist312]" href="/web/20060417162319/http://rateyourmusic.com/artist/pink_floyd" class="list_artist">pink floyd</a><br><br><a title="[album976]" href="/web/20060417162319/http://rateyourmusic.com/release/album/pink_floyd/the_dark_side_of_the_moon/" class="list_album">the dark side of the moon</a><span class="rel_year">
+         (1973)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">11</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/bob_dylan/bringing_it_all_back_home/"><img border="0" width="150" alt="bringing it all back home" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s93.jpg"></a></td>
+			<td class="main_entry"><a title="[artist22]" href="/web/20060417162319/http://rateyourmusic.com/artist/bob_dylan" class="list_artist">bob dylan</a><br><br><a title="[album93]" href="/web/20060417162319/http://rateyourmusic.com/release/album/bob_dylan/bringing_it_all_back_home/" class="list_album">bringing it all back home</a><span class="rel_year">
+         (1965)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">12</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/bob_dylan/blonde_on_blonde/"><img border="0" width="150" alt="blonde on blonde" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s94.jpg"></a></td>
+			<td class="main_entry"><a title="[artist22]" href="/web/20060417162319/http://rateyourmusic.com/artist/bob_dylan" class="list_artist">bob dylan</a><br><br><a title="[album94]" href="/web/20060417162319/http://rateyourmusic.com/release/album/bob_dylan/blonde_on_blonde/" class="list_album">blonde on blonde</a><span class="rel_year">
+         (1966)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">13</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/charles_mingus/the_black_saint_and_the_sinner_lady/"><img border="0" width="150" alt="the black saint and the sinner lady" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s17906.jpg"></a></td>
+			<td class="main_entry"><a title="[artist275]" href="/web/20060417162319/http://rateyourmusic.com/artist/charles_mingus" class="list_artist">charles mingus</a><br><br><a title="[album17906]" href="/web/20060417162319/http://rateyourmusic.com/release/album/charles_mingus/the_black_saint_and_the_sinner_lady/" class="list_album">the black saint and the sinner lady</a><span class="rel_year">
+         (1963)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">14</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/david_bowie/the_rise_and_fall_of_ziggy_stardust_and_the_spiders_from_mars/"><img border="0" width="150" alt="the rise and fall of ziggy stardust and the spiders from mars" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s623.jpg"></a></td>
+			<td class="main_entry"><a title="[artist247]" href="/web/20060417162319/http://rateyourmusic.com/artist/david_bowie" class="list_artist">david bowie</a><br><br><a title="[album623]" href="/web/20060417162319/http://rateyourmusic.com/release/album/david_bowie/the_rise_and_fall_of_ziggy_stardust_and_the_spiders_from_mars/" class="list_album">the rise and fall of ziggy stardust and the spiders from mars</a><span class="rel_year">
+         (1972)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">15</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/pink_floyd/wish_you_were_here/"><img border="0" width="150" alt="wish you were here" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s974.jpg"></a></td>
+			<td class="main_entry"><a title="[artist312]" href="/web/20060417162319/http://rateyourmusic.com/artist/pink_floyd" class="list_artist">pink floyd</a><br><br><a title="[album974]" href="/web/20060417162319/http://rateyourmusic.com/release/album/pink_floyd/wish_you_were_here/" class="list_album">wish you were here</a><span class="rel_year">
+         (1975)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">16</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/jimi_hendrix/are_you_experienced__gbr_/"><img border="0" width="150" alt="are you experienced [gbr]" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s11.jpg"></a></td>
+			<td class="main_entry"><a title="[artist16]" href="/web/20060417162319/http://rateyourmusic.com/artist/jimi_hendrix" class="list_artist">jimi hendrix</a><br><br><a title="[album11]" href="/web/20060417162319/http://rateyourmusic.com/release/album/jimi_hendrix/are_you_experienced__gbr_/" class="list_album">are you experienced [gbr]</a><span class="rel_year">
+         (1967)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">17</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/led_zeppelin/led_zeppelin_iv/"><img border="0" width="150" alt="led zeppelin iv" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s43.jpg"></a></td>
+			<td class="main_entry"><a title="[artist31]" href="/web/20060417162319/http://rateyourmusic.com/artist/led_zeppelin" class="list_artist">led zeppelin</a><br><br><a title="[album43]" href="/web/20060417162319/http://rateyourmusic.com/release/album/led_zeppelin/led_zeppelin_iv/" class="list_album">led zeppelin iv</a><span class="rel_year">
+         (1971)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">18</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_who/whos_next/"><img border="0" width="150" alt="who's next" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s185.jpg"></a></td>
+			<td class="main_entry"><a title="[artist58]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_who" class="list_artist">the who</a><br><br><a title="[album185]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_who/whos_next/" class="list_album">who&#39;s next</a><span class="rel_year">
+         (1971)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">19</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/miles_davis/in_a_silent_way/"><img border="0" width="150" alt="in a silent way" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s10394.jpg"></a></td>
+			<td class="main_entry"><a title="[artist785]" href="/web/20060417162319/http://rateyourmusic.com/artist/miles_davis" class="list_artist">miles davis</a><br><br><a title="[album10394]" href="/web/20060417162319/http://rateyourmusic.com/release/album/miles_davis/in_a_silent_way/" class="list_album">in a silent way</a><span class="rel_year">
+         (1969)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">20</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_clash/london_calling/"><img border="0" width="150" alt="london calling" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s236.jpg"></a></td>
+			<td class="main_entry"><a title="[artist80]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_clash" class="list_artist">the clash</a><br><br><a title="[album236]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_clash/london_calling/" class="list_album">london calling</a><span class="rel_year">
+         (1979)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">21</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/jimi_hendrix/electric_ladyland/"><img border="0" width="150" alt="electric ladyland" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2161.jpg"></a></td>
+			<td class="main_entry"><a title="[artist16]" href="/web/20060417162319/http://rateyourmusic.com/artist/jimi_hendrix" class="list_artist">jimi hendrix</a><br><br><a title="[album2161]" href="/web/20060417162319/http://rateyourmusic.com/release/album/jimi_hendrix/electric_ladyland/" class="list_album">electric ladyland</a><span class="rel_year">
+         (1968)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">22</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beatles/rubber_soul__gbr_/"><img border="0" width="150" alt="rubber soul [gbr]" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s205.jpg"></a></td>
+			<td class="main_entry"><a title="[artist8]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_beatles" class="list_artist">the beatles</a><br><br><a title="[album205]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beatles/rubber_soul__gbr_/" class="list_album">rubber soul [gbr]</a><span class="rel_year">
+         (1965)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">23</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/neutral_milk_hotel/in_the_aeroplane_over_the_sea/"><img border="0" width="150" alt="in the aeroplane over the sea" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s1245.jpg"></a></td>
+			<td class="main_entry"><a title="[artist222]" href="/web/20060417162319/http://rateyourmusic.com/artist/neutral_milk_hotel" class="list_artist">neutral milk hotel</a><br><br><a title="[album1245]" href="/web/20060417162319/http://rateyourmusic.com/release/album/neutral_milk_hotel/in_the_aeroplane_over_the_sea/" class="list_album">in the aeroplane over the sea</a><span class="rel_year">
+         (1998)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">24</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/television/marquee_moon/"><img border="0" width="150" alt="marquee moon" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s1167.jpg"></a></td>
+			<td class="main_entry"><a title="[artist325]" href="/web/20060417162319/http://rateyourmusic.com/artist/television" class="list_artist">television</a><br><br><a title="[album1167]" href="/web/20060417162319/http://rateyourmusic.com/release/album/television/marquee_moon/" class="list_album">marquee moon</a><span class="rel_year">
+         (1977)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">25</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_kinks/the_kinks_are_the_village_green_preservation_society/"><img border="0" width="150" alt="the kinks are the village green preservation society" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s4648.jpg"></a></td>
+			<td class="main_entry"><a title="[artist946]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_kinks" class="list_artist">the kinks</a><br><br><a title="[album4648]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_kinks/the_kinks_are_the_village_green_preservation_society/" class="list_album">the kinks are the village green preservation society</a><span class="rel_year">
+         (1968)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">26</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/pixies/doolittle/"><img border="0" width="150" alt="doolittle" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s1089.jpg"></a></td>
+			<td class="main_entry"><a title="[artist229]" href="/web/20060417162319/http://rateyourmusic.com/artist/pixies" class="list_artist">pixies</a><br><br><a title="[album1089]" href="/web/20060417162319/http://rateyourmusic.com/release/album/pixies/doolittle/" class="list_album">doolittle</a><span class="rel_year">
+         (1989)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">27</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/john_coltrane/giant_steps/"><img border="0" width="150" alt="giant steps" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s10701.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1101]" href="/web/20060417162319/http://rateyourmusic.com/artist/john_coltrane" class="list_artist">john coltrane</a><br><br><a title="[album10701]" href="/web/20060417162319/http://rateyourmusic.com/release/album/john_coltrane/giant_steps/" class="list_album">giant steps</a><span class="rel_year">
+         (1960)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">28</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_smiths/the_queen_is_dead/"><img border="0" width="150" alt="the queen is dead" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s164.jpg"></a></td>
+			<td class="main_entry"><a title="[artist50]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_smiths" class="list_artist">the smiths</a><br><br><a title="[album164]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_smiths/the_queen_is_dead/" class="list_album">the queen is dead</a><span class="rel_year">
+         (1986)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">29</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/nas/illmatic/"><img border="0" width="150" alt="illmatic" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s11082.jpg"></a></td>
+			<td class="main_entry"><a title="[artist3037]" href="/web/20060417162319/http://rateyourmusic.com/artist/nas" class="list_artist">nas</a><br><br><a title="[album11082]" href="/web/20060417162319/http://rateyourmusic.com/release/album/nas/illmatic/" class="list_album">illmatic</a><span class="rel_year">
+         (1994)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">30</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/stevie_wonder/innervisions/"><img border="0" width="150" alt="innervisions" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s5734.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1439]" href="/web/20060417162319/http://rateyourmusic.com/artist/stevie_wonder" class="list_artist">stevie wonder</a><br><br><a title="[album5734]" href="/web/20060417162319/http://rateyourmusic.com/release/album/stevie_wonder/innervisions/" class="list_album">innervisions</a><span class="rel_year">
+         (1973)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">31</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/wu_tang_clan/enter_the_wu_tang__36_chambers_/"><img border="0" width="150" alt="enter the wu-tang (36 chambers)" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s11014.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1809]" href="/web/20060417162319/http://rateyourmusic.com/artist/wu_tang_clan" class="list_artist">wu-tang clan</a><br><br><a title="[album11014]" href="/web/20060417162319/http://rateyourmusic.com/release/album/wu_tang_clan/enter_the_wu_tang__36_chambers_/" class="list_album">enter the wu-tang (36 chambers)</a><span class="rel_year">
+         (1993)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">32</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beatles/sgt__peppers_lonely_hearts_club_band/"><img border="0" width="150" alt="sgt. pepper's lonely hearts club band" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s16.jpg"></a></td>
+			<td class="main_entry"><a title="[artist8]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_beatles" class="list_artist">the beatles</a><br><br><a title="[album16]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beatles/sgt__peppers_lonely_hearts_club_band/" class="list_album">sgt. pepper&#39;s lonely hearts club band</a><span class="rel_year">
+         (1967)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">33</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/metallica/master_of_puppets/"><img border="0" width="150" alt="master of puppets" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s1593.jpg"></a></td>
+			<td class="main_entry"><a title="[artist108]" href="/web/20060417162319/http://rateyourmusic.com/artist/metallica" class="list_artist">metallica</a><br><br><a title="[album1593]" href="/web/20060417162319/http://rateyourmusic.com/release/album/metallica/master_of_puppets/" class="list_album">master of puppets</a><span class="rel_year">
+         (1986)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">34</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/nick_drake/pink_moon/"><img border="0" width="150" alt="pink moon" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s90.jpg"></a></td>
+			<td class="main_entry"><a title="[artist35]" href="/web/20060417162319/http://rateyourmusic.com/artist/nick_drake" class="list_artist">nick drake</a><br><br><a title="[album90]" href="/web/20060417162319/http://rateyourmusic.com/release/album/nick_drake/pink_moon/" class="list_album">pink moon</a><span class="rel_year">
+         (1972)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">35</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_zombies/odessey_and_oracle/"><img border="0" width="150" alt="odessey &amp; oracle" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s9363.jpg"></a></td>
+			<td class="main_entry"><a title="[artist960]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_zombies" class="list_artist">the zombies</a><br><br><a title="[album9363]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_zombies/odessey_and_oracle/" class="list_album">odessey &amp; oracle</a><span class="rel_year">
+         (1968)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">36</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_rolling_stones/sticky_fingers/"><img border="0" width="150" alt="sticky fingers" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s145.jpg"></a></td>
+			<td class="main_entry"><a title="[artist45]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_rolling_stones" class="list_artist">the rolling stones</a><br><br><a title="[album145]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_rolling_stones/sticky_fingers/" class="list_album">sticky fingers</a><span class="rel_year">
+         (1971)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">37</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/tom_waits/rain_dogs/"><img border="0" width="150" alt="rain dogs" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s294.jpg"></a></td>
+			<td class="main_entry"><a title="[artist103]" href="/web/20060417162319/http://rateyourmusic.com/artist/tom_waits" class="list_artist">tom waits</a><br><br><a title="[album294]" href="/web/20060417162319/http://rateyourmusic.com/release/album/tom_waits/rain_dogs/" class="list_album">rain dogs</a><span class="rel_year">
+         (1985)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">38</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/slayer/reign_in_blood/"><img border="0" width="150" alt="reign in blood" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2771.jpg"></a></td>
+			<td class="main_entry"><a title="[artist867]" href="/web/20060417162319/http://rateyourmusic.com/artist/slayer" class="list_artist">slayer</a><br><br><a title="[album2771]" href="/web/20060417162319/http://rateyourmusic.com/release/album/slayer/reign_in_blood/" class="list_album">reign in blood</a><span class="rel_year">
+         (1986)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">39</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/van_morrison/astral_weeks/"><img border="0" width="150" alt="astral weeks" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s356.jpg"></a></td>
+			<td class="main_entry"><a title="[artist126]" href="/web/20060417162319/http://rateyourmusic.com/artist/van_morrison" class="list_artist">van morrison</a><br><br><a title="[album356]" href="/web/20060417162319/http://rateyourmusic.com/release/album/van_morrison/astral_weeks/" class="list_album">astral weeks</a><span class="rel_year">
+         (1968)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">40</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/eric_dolphy/out_to_lunch/"><img border="0" width="150" alt="out to lunch" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s17499.jpg"></a></td>
+			<td class="main_entry"><a title="[artist5152]" href="/web/20060417162319/http://rateyourmusic.com/artist/eric_dolphy" class="list_artist">eric dolphy</a><br><br><a title="[album17499]" href="/web/20060417162319/http://rateyourmusic.com/release/album/eric_dolphy/out_to_lunch/" class="list_album">out to lunch</a><span class="rel_year">
+         (1964)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">41</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/charles_mingus/mingus_ah_um/"><img border="0" width="150" alt="mingus ah um" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s11222.jpg"></a></td>
+			<td class="main_entry"><a title="[artist275]" href="/web/20060417162319/http://rateyourmusic.com/artist/charles_mingus" class="list_artist">charles mingus</a><br><br><a title="[album11222]" href="/web/20060417162319/http://rateyourmusic.com/release/album/charles_mingus/mingus_ah_um/" class="list_album">mingus ah um</a><span class="rel_year">
+         (1959)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">42</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/neil_young/after_the_gold_rush/"><img border="0" width="150" alt="after the gold rush" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2339.jpg"></a></td>
+			<td class="main_entry"><a title="[artist738]" href="/web/20060417162319/http://rateyourmusic.com/artist/neil_young" class="list_artist">neil young</a><br><br><a title="[album2339]" href="/web/20060417162319/http://rateyourmusic.com/release/album/neil_young/after_the_gold_rush/" class="list_album">after the gold rush</a><span class="rel_year">
+         (1970)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">43</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/aretha_franklin/i_never_loved_a_man_the_way_i_love_you/"><img border="0" width="150" alt="i never loved a man the way i love you" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s4859.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1494]" href="/web/20060417162319/http://rateyourmusic.com/artist/aretha_franklin" class="list_artist">aretha franklin</a><br><br><a title="[album4859]" href="/web/20060417162319/http://rateyourmusic.com/release/album/aretha_franklin/i_never_loved_a_man_the_way_i_love_you/" class="list_album">i never loved a man the way i love you</a><span class="rel_year">
+         (1967)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">44</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/johnny_cash/at_folsom_prison/"><img border="0" width="150" alt="at folsom prison" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s1795.jpg"></a></td>
+			<td class="main_entry"><a title="[artist564]" href="/web/20060417162319/http://rateyourmusic.com/artist/johnny_cash" class="list_artist">johnny cash</a><br><br><a title="[album1795]" href="/web/20060417162319/http://rateyourmusic.com/release/album/johnny_cash/at_folsom_prison/" class="list_album">at folsom prison</a><span class="rel_year">
+         (1968)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">45</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/joy_division/closer/"><img border="0" width="150" alt="closer" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s545.jpg"></a></td>
+			<td class="main_entry"><a title="[artist212]" href="/web/20060417162319/http://rateyourmusic.com/artist/joy_division" class="list_artist">joy division</a><br><br><a title="[album545]" href="/web/20060417162319/http://rateyourmusic.com/release/album/joy_division/closer/" class="list_album">closer</a><span class="rel_year">
+         (1980)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">46</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beach_boys/pet_sounds/"><img border="0" width="150" alt="pet sounds" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s63.jpg"></a></td>
+			<td class="main_entry"><a title="[artist18]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_beach_boys" class="list_artist">the beach boys</a><br><br><a title="[album63]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_beach_boys/pet_sounds/" class="list_album">pet sounds</a><span class="rel_year">
+         (1966)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">47</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_doors/the_doors/"><img border="0" width="150" alt="the doors" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s1189.jpg"></a></td>
+			<td class="main_entry"><a title="[artist26]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_doors" class="list_artist">the doors</a><br><br><a title="[album1189]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_doors/the_doors/" class="list_album">the doors</a><span class="rel_year">
+         (1967)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">48</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/joy_division/unknown_pleasures/"><img border="0" width="150" alt="unknown pleasures" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s544.jpg"></a></td>
+			<td class="main_entry"><a title="[artist212]" href="/web/20060417162319/http://rateyourmusic.com/artist/joy_division" class="list_artist">joy division</a><br><br><a title="[album544]" href="/web/20060417162319/http://rateyourmusic.com/release/album/joy_division/unknown_pleasures/" class="list_album">unknown pleasures</a><span class="rel_year">
+         (1979)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">49</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_stooges/fun_house/"><img border="0" width="150" alt="fun house" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s845.jpg"></a></td>
+			<td class="main_entry"><a title="[artist286]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_stooges" class="list_artist">the stooges</a><br><br><a title="[album845]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_stooges/fun_house/" class="list_album">fun house</a><span class="rel_year">
+         (1970)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">50</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_rolling_stones/exile_on_main_street/"><img border="0" width="150" alt="exile on main street" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s996.jpg"></a></td>
+			<td class="main_entry"><a title="[artist45]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_rolling_stones" class="list_artist">the rolling stones</a><br><br><a title="[album996]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_rolling_stones/exile_on_main_street/" class="list_album">exile on main street</a><span class="rel_year">
+         (1972)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">51</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/love/forever_changes/"><img border="0" width="150" alt="forever changes" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s1277.jpg"></a></td>
+			<td class="main_entry"><a title="[artist337]" href="/web/20060417162319/http://rateyourmusic.com/artist/love" class="list_artist">love</a><br><br><a title="[album1277]" href="/web/20060417162319/http://rateyourmusic.com/release/album/love/forever_changes/" class="list_album">forever changes</a><span class="rel_year">
+         (1967)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">52</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/nick_drake/five_leaves_left/"><img border="0" width="150" alt="five leaves left" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s52.jpg"></a></td>
+			<td class="main_entry"><a title="[artist35]" href="/web/20060417162319/http://rateyourmusic.com/artist/nick_drake" class="list_artist">nick drake</a><br><br><a title="[album52]" href="/web/20060417162319/http://rateyourmusic.com/release/album/nick_drake/five_leaves_left/" class="list_album">five leaves left</a><span class="rel_year">
+         (1969)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">53</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/vince_guaraldi/a_charlie_brown_christmas__original_television_soundtrack_/"><img border="0" width="150" alt="a charlie brown christmas [original television soundtrack]" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s70181.jpg"></a></td>
+			<td class="main_entry"><a title="[artist7578]" href="/web/20060417162319/http://rateyourmusic.com/artist/vince_guaraldi" class="list_artist">vince guaraldi</a><br><br><a title="[album70181]" href="/web/20060417162319/http://rateyourmusic.com/release/album/vince_guaraldi/a_charlie_brown_christmas__original_television_soundtrack_/" class="list_album">a charlie brown christmas [original television soundtrack]</a><span class="rel_year">
+         (1965)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">54</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/yes/close_to_the_edge/"><img border="0" width="150" alt="close to the edge" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s5721.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1728]" href="/web/20060417162319/http://rateyourmusic.com/artist/yes" class="list_artist">yes</a><br><br><a title="[album5721]" href="/web/20060417162319/http://rateyourmusic.com/release/album/yes/close_to_the_edge/" class="list_album">close to the edge</a><span class="rel_year">
+         (1972)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">55</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/neil_young/on_the_beach/"><img border="0" width="150" alt="on the beach" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2402.jpg"></a></td>
+			<td class="main_entry"><a title="[artist738]" href="/web/20060417162319/http://rateyourmusic.com/artist/neil_young" class="list_artist">neil young</a><br><br><a title="[album2402]" href="/web/20060417162319/http://rateyourmusic.com/release/album/neil_young/on_the_beach/" class="list_album">on the beach</a><span class="rel_year">
+         (1974)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">56</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/van_morrison/moondance/"><img border="0" width="150" alt="moondance" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s357.jpg"></a></td>
+			<td class="main_entry"><a title="[artist126]" href="/web/20060417162319/http://rateyourmusic.com/artist/van_morrison" class="list_artist">van morrison</a><br><br><a title="[album357]" href="/web/20060417162319/http://rateyourmusic.com/release/album/van_morrison/moondance/" class="list_album">moondance</a><span class="rel_year">
+         (1970)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">57</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/a_tribe_called_quest/the_low_end_theory/"><img border="0" width="150" alt="the low end theory" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s7406.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1859]" href="/web/20060417162319/http://rateyourmusic.com/artist/a_tribe_called_quest" class="list_artist">a tribe called quest</a><br><br><a title="[album7406]" href="/web/20060417162319/http://rateyourmusic.com/release/album/a_tribe_called_quest/the_low_end_theory/" class="list_album">the low end theory</a><span class="rel_year">
+         (1991)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">58</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/bill_hicks/rant_in_e_minor/"><img border="0" width="150" alt="rant in e-minor" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s18946.jpg"></a></td>
+			<td class="main_entry"><a title="[artist5553]" href="/web/20060417162319/http://rateyourmusic.com/artist/bill_hicks" class="list_artist">bill hicks</a><br><br><a title="[album18946]" href="/web/20060417162319/http://rateyourmusic.com/release/album/bill_hicks/rant_in_e_minor/" class="list_album">rant in e-minor</a><span class="rel_year">
+         (1997)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">59</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/talking_heads/remain_in_light/"><img border="0" width="150" alt="remain in light" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s1036.jpg"></a></td>
+			<td class="main_entry"><a title="[artist264]" href="/web/20060417162319/http://rateyourmusic.com/artist/talking_heads" class="list_artist">talking heads</a><br><br><a title="[album1036]" href="/web/20060417162319/http://rateyourmusic.com/release/album/talking_heads/remain_in_light/" class="list_album">remain in light</a><span class="rel_year">
+         (1980)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">60</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/sonny_rollins/saxophone_colossus/"><img border="0" width="150" alt="saxophone colossus" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s24827.jpg"></a></td>
+			<td class="main_entry"><a title="[artist4277]" href="/web/20060417162319/http://rateyourmusic.com/artist/sonny_rollins" class="list_artist">sonny rollins</a><br><br><a title="[album24827]" href="/web/20060417162319/http://rateyourmusic.com/release/album/sonny_rollins/saxophone_colossus/" class="list_album">saxophone colossus</a><span class="rel_year">
+         (1956)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">61</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/david_bowie/hunky_dory/"><img border="0" width="150" alt="hunky dory" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s622.jpg"></a></td>
+			<td class="main_entry"><a title="[artist247]" href="/web/20060417162319/http://rateyourmusic.com/artist/david_bowie" class="list_artist">david bowie</a><br><br><a title="[album622]" href="/web/20060417162319/http://rateyourmusic.com/release/album/david_bowie/hunky_dory/" class="list_album">hunky dory</a><span class="rel_year">
+         (1971)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">62</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/curtis_mayfield/super_fly__ost_/"><img border="0" width="150" alt="super fly [ost]" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s4599.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1424]" href="/web/20060417162319/http://rateyourmusic.com/artist/curtis_mayfield" class="list_artist">curtis mayfield</a><br><br><a title="[album4599]" href="/web/20060417162319/http://rateyourmusic.com/release/album/curtis_mayfield/super_fly__ost_/" class="list_album">super fly [ost]</a><span class="rel_year">
+         (1972)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">63</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/genius___gza/liquid_swords/"><img border="0" width="150" alt="liquid swords" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s22312.jpg"></a></td>
+			<td class="main_entry"><a title="[artist6556]" href="/web/20060417162319/http://rateyourmusic.com/artist/genius___gza" class="list_artist">genius / gza</a><br><br><a title="[album22312]" href="/web/20060417162319/http://rateyourmusic.com/release/album/genius___gza/liquid_swords/" class="list_album">liquid swords</a><span class="rel_year">
+         (1995)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">64</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/my_bloody_valentine/loveless/"><img border="0" width="150" alt="loveless" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s355.jpg"></a></td>
+			<td class="main_entry"><a title="[artist125]" href="/web/20060417162319/http://rateyourmusic.com/artist/my_bloody_valentine" class="list_artist">my bloody valentine</a><br><br><a title="[album355]" href="/web/20060417162319/http://rateyourmusic.com/release/album/my_bloody_valentine/loveless/" class="list_album">loveless</a><span class="rel_year">
+         (1991)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">65</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_rolling_stones/let_it_bleed/"><img border="0" width="150" alt="let it bleed" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s993.jpg"></a></td>
+			<td class="main_entry"><a title="[artist45]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_rolling_stones" class="list_artist">the rolling stones</a><br><br><a title="[album993]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_rolling_stones/let_it_bleed/" class="list_album">let it bleed</a><span class="rel_year">
+         (1969)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">66</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_velvet_underground/the_velvet_underground/"><img border="0" width="150" alt="the velvet underground" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s175.jpg"></a></td>
+			<td class="main_entry"><a title="[artist57]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_velvet_underground" class="list_artist">the velvet underground</a><br><br><a title="[album175]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_velvet_underground/the_velvet_underground/" class="list_album">the velvet underground</a><span class="rel_year">
+         (1969)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">67</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/miles_davis/bitches_brew/"><img border="0" width="150" alt="bitches brew" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s4588.jpg"></a></td>
+			<td class="main_entry"><a title="[artist785]" href="/web/20060417162319/http://rateyourmusic.com/artist/miles_davis" class="list_artist">miles davis</a><br><br><a title="[album4588]" href="/web/20060417162319/http://rateyourmusic.com/release/album/miles_davis/bitches_brew/" class="list_album">bitches brew</a><span class="rel_year">
+         (1970)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">68</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/ornette_coleman/the_shape_of_jazz_to_come/"><img border="0" width="150" alt="the shape of jazz to come" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s11218.jpg"></a></td>
+			<td class="main_entry"><a title="[artist2999]" href="/web/20060417162319/http://rateyourmusic.com/artist/ornette_coleman" class="list_artist">ornette coleman</a><br><br><a title="[album11218]" href="/web/20060417162319/http://rateyourmusic.com/release/album/ornette_coleman/the_shape_of_jazz_to_come/" class="list_album">the shape of jazz to come</a><span class="rel_year">
+         (1959)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">69</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/minutemen/double_nickels_on_the_dime/"><img border="0" width="150" alt="double nickels on the dime" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s1110.jpg"></a></td>
+			<td class="main_entry"><a title="[artist320]" href="/web/20060417162319/http://rateyourmusic.com/artist/minutemen" class="list_artist">minutemen</a><br><br><a title="[album1110]" href="/web/20060417162319/http://rateyourmusic.com/release/album/minutemen/double_nickels_on_the_dime/" class="list_album">double nickels on the dime</a><span class="rel_year">
+         (1984)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">70</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/marvin_gaye/whats_going_on/"><img border="0" width="150" alt="what's going on" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s5892.jpg"></a></td>
+			<td class="main_entry"><a title="[artist114]" href="/web/20060417162319/http://rateyourmusic.com/artist/marvin_gaye" class="list_artist">marvin gaye</a><br><br><a title="[album5892]" href="/web/20060417162319/http://rateyourmusic.com/release/album/marvin_gaye/whats_going_on/" class="list_album">what&#39;s going on</a><span class="rel_year">
+         (1971)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">71</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/mobb_deep/the_infamous___/"><img border="0" width="150" alt="the infamous..." src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s22562.jpg"></a></td>
+			<td class="main_entry"><a title="[artist6630]" href="/web/20060417162319/http://rateyourmusic.com/artist/mobb_deep" class="list_artist">mobb deep</a><br><br><a title="[album22562]" href="/web/20060417162319/http://rateyourmusic.com/release/album/mobb_deep/the_infamous___/" class="list_album">the infamous...</a><span class="rel_year">
+         (1995)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">72</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_allman_brothers_band/live_at_fillmore_east/"><img border="0" width="150" alt="live at fillmore east" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2564.jpg"></a></td>
+			<td class="main_entry"><a title="[artist781]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_allman_brothers_band" class="list_artist">the allman brothers band</a><br><br><a title="[album2564]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_allman_brothers_band/live_at_fillmore_east/" class="list_album">live at fillmore east</a><span class="rel_year">
+         (1971)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">73</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/bill_evans__pianist_/sunday_at_the_village_vanguard/"><img border="0" width="150" alt="sunday at the village vanguard" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s17474.jpg"></a></td>
+			<td class="main_entry"><a title="[artist3077]" href="/web/20060417162319/http://rateyourmusic.com/artist/bill_evans__pianist_" class="list_artist">bill evans [pianist]</a><br><br><a title="[album17474]" href="/web/20060417162319/http://rateyourmusic.com/release/album/bill_evans__pianist_/sunday_at_the_village_vanguard/" class="list_album">sunday at the village vanguard</a><span class="rel_year">
+         (1961)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">74</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/elvis_costello/this_years_model/"><img border="0" width="150" alt="this year's model" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s578.jpg"></a></td>
+			<td class="main_entry"><a title="[artist178]" href="/web/20060417162319/http://rateyourmusic.com/artist/elvis_costello" class="list_artist">elvis costello</a><br><br><a title="[album578]" href="/web/20060417162319/http://rateyourmusic.com/release/album/elvis_costello/this_years_model/" class="list_album">this year&#39;s model</a><span class="rel_year">
+         (1978)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">75</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/talk_talk/laughing_stock/"><img border="0" width="150" alt="laughing stock" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2779.jpg"></a></td>
+			<td class="main_entry"><a title="[artist825]" href="/web/20060417162319/http://rateyourmusic.com/artist/talk_talk" class="list_artist">talk talk</a><br><br><a title="[album2779]" href="/web/20060417162319/http://rateyourmusic.com/release/album/talk_talk/laughing_stock/" class="list_album">laughing stock</a><span class="rel_year">
+         (1991)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">76</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/bob_dylan/the_freewheelin_bob_dylan/"><img border="0" width="150" alt="the freewheelin' bob dylan" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s6296.jpg"></a></td>
+			<td class="main_entry"><a title="[artist22]" href="/web/20060417162319/http://rateyourmusic.com/artist/bob_dylan" class="list_artist">bob dylan</a><br><br><a title="[album6296]" href="/web/20060417162319/http://rateyourmusic.com/release/album/bob_dylan/the_freewheelin_bob_dylan/" class="list_album">the freewheelin&#39; bob dylan</a><span class="rel_year">
+         (1963)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">77</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/talk_talk/spirit_of_eden/"><img border="0" width="150" alt="spirit of eden" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2679.jpg"></a></td>
+			<td class="main_entry"><a title="[artist825]" href="/web/20060417162319/http://rateyourmusic.com/artist/talk_talk" class="list_artist">talk talk</a><br><br><a title="[album2679]" href="/web/20060417162319/http://rateyourmusic.com/release/album/talk_talk/spirit_of_eden/" class="list_album">spirit of eden</a><span class="rel_year">
+         (1988)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">78</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/neil_young/rust_never_sleeps/"><img border="0" width="150" alt="rust never sleeps" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2406.jpg"></a></td>
+			<td class="main_entry"><a title="[artist738]" href="/web/20060417162319/http://rateyourmusic.com/artist/neil_young" class="list_artist">neil young</a><br><br><a title="[album2406]" href="/web/20060417162319/http://rateyourmusic.com/release/album/neil_young/rust_never_sleeps/" class="list_album">rust never sleeps</a><span class="rel_year">
+         (1979)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">79</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/frank_zappa/hot_rats/"><img border="0" width="150" alt="hot rats" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s4390.jpg"></a></td>
+			<td class="main_entry"><a title="[artist734]" href="/web/20060417162319/http://rateyourmusic.com/artist/frank_zappa" class="list_artist">frank zappa</a><br><br><a title="[album4390]" href="/web/20060417162319/http://rateyourmusic.com/release/album/frank_zappa/hot_rats/" class="list_album">hot rats</a><span class="rel_year">
+         (1969)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">80</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/frank_sinatra/songs_for_swingin_lovers_/"><img border="0" width="150" alt="songs for swingin' lovers!" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s12395.jpg"></a></td>
+			<td class="main_entry"><a title="[artist990]" href="/web/20060417162319/http://rateyourmusic.com/artist/frank_sinatra" class="list_artist">frank sinatra</a><br><br><a title="[album12395]" href="/web/20060417162319/http://rateyourmusic.com/release/album/frank_sinatra/songs_for_swingin_lovers_/" class="list_album">songs for swingin&#39; lovers!</a><span class="rel_year">
+         (1956)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">81</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/john_lennon/john_lennon_plastic_ono_band/"><img border="0" width="150" alt="john lennon/plastic ono band" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s113.jpg"></a></td>
+			<td class="main_entry"><a title="[artist59]" href="/web/20060417162319/http://rateyourmusic.com/artist/john_lennon" class="list_artist">john lennon</a><br><br><a title="[album113]" href="/web/20060417162319/http://rateyourmusic.com/release/album/john_lennon/john_lennon_plastic_ono_band/" class="list_album">john lennon/plastic ono band</a><span class="rel_year">
+         (1970)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">82</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/charles_mingus/blues_and_roots/"><img border="0" width="150" alt="blues &amp; roots" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s756.jpg"></a></td>
+			<td class="main_entry"><a title="[artist275]" href="/web/20060417162319/http://rateyourmusic.com/artist/charles_mingus" class="list_artist">charles mingus</a><br><br><a title="[album756]" href="/web/20060417162319/http://rateyourmusic.com/release/album/charles_mingus/blues_and_roots/" class="list_album">blues &amp; roots</a><span class="rel_year">
+         (1960)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">83</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/john_coltrane/my_favorite_things/"><img border="0" width="150" alt="my favorite things" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s11392.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1101]" href="/web/20060417162319/http://rateyourmusic.com/artist/john_coltrane" class="list_artist">john coltrane</a><br><br><a title="[album11392]" href="/web/20060417162319/http://rateyourmusic.com/release/album/john_coltrane/my_favorite_things/" class="list_album">my favorite things</a><span class="rel_year">
+         (1961)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">84</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/stevie_wonder/songs_in_the_key_of_life/"><img border="0" width="150" alt="songs in the key of life" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s4660.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1439]" href="/web/20060417162319/http://rateyourmusic.com/artist/stevie_wonder" class="list_artist">stevie wonder</a><br><br><a title="[album4660]" href="/web/20060417162319/http://rateyourmusic.com/release/album/stevie_wonder/songs_in_the_key_of_life/" class="list_album">songs in the key of life</a><span class="rel_year">
+         (1976)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">85</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/death/the_sound_of_perseverance/"><img border="0" width="150" alt="the sound of perseverance" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s4204.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1301]" href="/web/20060417162319/http://rateyourmusic.com/artist/death" class="list_artist">death</a><br><br><a title="[album4204]" href="/web/20060417162319/http://rateyourmusic.com/release/album/death/the_sound_of_perseverance/" class="list_album">the sound of perseverance</a><span class="rel_year">
+         (1998)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">86</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/queensryche/operation__mindcrime/"><img border="0" width="150" alt="operation: mindcrime" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s7383.jpg"></a></td>
+			<td class="main_entry"><a title="[artist2149]" href="/web/20060417162319/http://rateyourmusic.com/artist/queensryche" class="list_artist">queensrÿche</a><br><br><a title="[album7383]" href="/web/20060417162319/http://rateyourmusic.com/release/album/queensryche/operation__mindcrime/" class="list_album">operation: mindcrime</a><span class="rel_year">
+         (1988)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">87</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/black_sabbath/paranoid/"><img border="0" width="150" alt="paranoid" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2276.jpg"></a></td>
+			<td class="main_entry"><a title="[artist687]" href="/web/20060417162319/http://rateyourmusic.com/artist/black_sabbath" class="list_artist">black sabbath</a><br><br><a title="[album2276]" href="/web/20060417162319/http://rateyourmusic.com/release/album/black_sabbath/paranoid/" class="list_album">paranoid</a><span class="rel_year">
+         (1970)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">88</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/aretha_franklin/lady_soul/"><img border="0" width="150" alt="lady soul" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s8154.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1494]" href="/web/20060417162319/http://rateyourmusic.com/artist/aretha_franklin" class="list_artist">aretha franklin</a><br><br><a title="[album8154]" href="/web/20060417162319/http://rateyourmusic.com/release/album/aretha_franklin/lady_soul/" class="list_album">lady soul</a><span class="rel_year">
+         (1968)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">89</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/public_enemy/it_takes_a_nation_of_millions_to_hold_us_back/"><img border="0" width="150" alt="it takes a nation of millions to hold us back" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s7299.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1807]" href="/web/20060417162319/http://rateyourmusic.com/artist/public_enemy" class="list_artist">public enemy</a><br><br><a title="[album7299]" href="/web/20060417162319/http://rateyourmusic.com/release/album/public_enemy/it_takes_a_nation_of_millions_to_hold_us_back/" class="list_album">it takes a nation of millions to hold us back</a><span class="rel_year">
+         (1988)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">90</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/ramones/ramones/"><img border="0" width="150" alt="ramones" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s806.jpg"></a></td>
+			<td class="main_entry"><a title="[artist43]" href="/web/20060417162319/http://rateyourmusic.com/artist/ramones" class="list_artist">ramones</a><br><br><a title="[album806]" href="/web/20060417162319/http://rateyourmusic.com/release/album/ramones/ramones/" class="list_album">ramones</a><span class="rel_year">
+         (1976)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">91</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/richard_and_linda_thompson/i_want_to_see_the_bright_lights_tonight/"><img border="0" width="150" alt="i want to see the bright lights tonight " src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s10979.jpg"></a></td>
+			<td class="main_entry"><a title="[artist7944]" href="/web/20060417162319/http://rateyourmusic.com/artist/richard_and_linda_thompson" class="list_artist">richard &amp; linda thompson</a><br><br><a title="[album10979]" href="/web/20060417162319/http://rateyourmusic.com/release/album/richard_and_linda_thompson/i_want_to_see_the_bright_lights_tonight/" class="list_album">i want to see the bright lights tonight </a><span class="rel_year">
+         (1974)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">92</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/joni_mitchell/blue/"><img border="0" width="150" alt="blue" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s3287.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1076]" href="/web/20060417162319/http://rateyourmusic.com/artist/joni_mitchell" class="list_artist">joni mitchell</a><br><br><a title="[album3287]" href="/web/20060417162319/http://rateyourmusic.com/release/album/joni_mitchell/blue/" class="list_album">blue</a><span class="rel_year">
+         (1971)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">93</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/jimi_hendrix/axis__bold_as_love/"><img border="0" width="150" alt="axis: bold as love" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2325.jpg"></a></td>
+			<td class="main_entry"><a title="[artist16]" href="/web/20060417162319/http://rateyourmusic.com/artist/jimi_hendrix" class="list_artist">jimi hendrix</a><br><br><a title="[album2325]" href="/web/20060417162319/http://rateyourmusic.com/release/album/jimi_hendrix/axis__bold_as_love/" class="list_album">axis: bold as love</a><span class="rel_year">
+         (1967)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">94</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/led_zeppelin/led_zeppelin_ii/"><img border="0" width="150" alt="led zeppelin ii" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s42.jpg"></a></td>
+			<td class="main_entry"><a title="[artist31]" href="/web/20060417162319/http://rateyourmusic.com/artist/led_zeppelin" class="list_artist">led zeppelin</a><br><br><a title="[album42]" href="/web/20060417162319/http://rateyourmusic.com/release/album/led_zeppelin/led_zeppelin_ii/" class="list_album">led zeppelin ii</a><span class="rel_year">
+         (1969)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">95</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/wayne_shorter/speak_no_evil/"><img border="0" width="150" alt="speak no evil" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s18246.jpg"></a></td>
+			<td class="main_entry"><a title="[artist4990]" href="/web/20060417162319/http://rateyourmusic.com/artist/wayne_shorter" class="list_artist">wayne shorter</a><br><br><a title="[album18246]" href="/web/20060417162319/http://rateyourmusic.com/release/album/wayne_shorter/speak_no_evil/" class="list_album">speak no evil</a><span class="rel_year">
+         (1964)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">96</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/dj_shadow/endtroducing___/"><img border="0" width="150" alt="endtroducing..." src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s2612.jpg"></a></td>
+			<td class="main_entry"><a title="[artist798]" href="/web/20060417162319/http://rateyourmusic.com/artist/dj_shadow" class="list_artist">dj shadow</a><br><br><a title="[album2612]" href="/web/20060417162319/http://rateyourmusic.com/release/album/dj_shadow/endtroducing___/" class="list_album">endtroducing...</a><span class="rel_year">
+         (1996)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">97</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/the_rolling_stones/beggars_banquet/"><img border="0" width="150" alt="beggars banquet" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s992.jpg"></a></td>
+			<td class="main_entry"><a title="[artist45]" href="/web/20060417162319/http://rateyourmusic.com/artist/the_rolling_stones" class="list_artist">the rolling stones</a><br><br><a title="[album992]" href="/web/20060417162319/http://rateyourmusic.com/release/album/the_rolling_stones/beggars_banquet/" class="list_album">beggars banquet</a><span class="rel_year">
+         (1968)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">98</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/leonard_cohen/songs_of_leonard_cohen/"><img border="0" width="150" alt="songs of leonard cohen" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s3120.jpg"></a></td>
+			<td class="main_entry"><a title="[artist1026]" href="/web/20060417162319/http://rateyourmusic.com/artist/leonard_cohen" class="list_artist">leonard cohen</a><br><br><a title="[album3120]" href="/web/20060417162319/http://rateyourmusic.com/release/album/leonard_cohen/songs_of_leonard_cohen/" class="list_album">songs of leonard cohen</a><span class="rel_year">
+         (1967)</span></td></tr><tr class="trodd">
+
+<td valign="center" class="number">99</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/stan_getz_and_joao_gilberto/getz___gilberto/"><img border="0" width="150" alt="getz / gilberto" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s8758.jpg"></a></td>
+			<td class="main_entry"><a title="[artist49154]" href="/web/20060417162319/http://rateyourmusic.com/artist/stan_getz_and_joao_gilberto" class="list_artist">stan getz &amp; joão gilberto</a><br><br><a title="[album8758]" href="/web/20060417162319/http://rateyourmusic.com/release/album/stan_getz_and_joao_gilberto/getz___gilberto/" class="list_album">getz / gilberto</a><span class="rel_year">
+         (1963)</span></td></tr><tr class="treven">
+
+<td valign="center" class="number">100</td>
+<td width="1" class="list_art"><a href="/web/20060417162319/http://rateyourmusic.com/release/album/pixies/surfer_rosa/"><img border="0" width="150" alt="surfer rosa" src="/web/20060417162319im_/http://rateyourmusic.com/album_images2/s1088.jpg"></a></td>
+			<td class="main_entry"><a title="[artist229]" href="/web/20060417162319/http://rateyourmusic.com/artist/pixies" class="list_artist">pixies</a><br><br><a title="[album1088]" href="/web/20060417162319/http://rateyourmusic.com/release/album/pixies/surfer_rosa/" class="list_album">surfer rosa</a><span class="rel_year">
+         (1988)</span></td></tr></table><br/><div class="top_albums_nav"><a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=0">1 - 100</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=100">101 - 200</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=200">201 - 300</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=300">301 - 400</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=400">401 - 500</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=500">501 - 600</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=600">601 - 700</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=700">701 - 800</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=800">801 - 900</a> &nbsp;&nbsp;<a href="/web/20060417162319/http://rateyourmusic.com/top_albums?stop=1000&amp;show=100&amp;start=900">901 - 1000</a> &nbsp;&nbsp; </div> <br/><br/> 
+
+<table border="0" cellpadding="1" cellspacing="5" width="90%" align="center"><tr><td>
+</td></tr></table><br><br><hr noshade width="95%" color="#ccccff">
+<center><font size="-2"><br><br></td></tr></table>  <table border="1" width="95%" cellpadding="3" cellspacing="0" align="center" border="1" bordercolordark="#ccccff" bgcolor="#ffffff">
+  <tr align="center">
+
+  <td align="center" width="8%">
+  <a style="text-decoration:none;" href="/web/20060417162319/http://rateyourmusic.com/listen/all"><span style="text-decoration:none;font-weight:bold;font-size:15px;">&#9834;</span></a></td>
+  <td align="center" width="15%">
+  <font size="-2"><a href="/web/20060417162319/http://rateyourmusic.com/about">about</a></font></td>
+  <td align="center" width="10%">
+  <font size="-2"><a href="/web/20060417162319/http://rateyourmusic.com/tos">tos</a></font></td>
+  <td align="center" width="15%">
+  <font size="-2"><a href="/web/20060417162319/http://rateyourmusic.com/privacy">privacy</a></font></td>
+  <td align="center" width="15%">
+  <font size="-2"><a href="/web/20060417162319/http://rateyourmusic.com/faq">faq</a></font></td>
+  <td align="center" width="10%">
+  <font size="-2"><a href="/web/20060417162319/http://rateyourmusic.com/chat/">chat</a></font></td>
+  <td align="center" width="15%">
+  <font size="-2"><a href="/web/20060417162319/http://rateyourmusic.com/donate/">donate</a></font></td>
+  <td align="center" width="20%">
+  <font size="-2"><a href="/web/20060417162319/http://rateyourmusic.com/suggestions">suggestions/feedback</a></font></td>
+  </tr>
+  <tr bgcolor="#aaaacc"><td align="center" colspan="8">
+  <font color="#f8f8f8" size="-1"><b>&copy; 2000 - 2006  
+rateyourmusic.com</b></font>
+  </td></tr></table>
+  </body>
+  </html><!--
+     file archived on 16:23:19 apr 17, 2006 and retrieved from the
+     internet archive on 08:54:02 mar 29, 2023.
+     javascript appended by wayback machine, copyright internet archive.
+
+     all other content may also be protected by copyright (17 u.s.c.
+     section 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 82.883
+  exclusion.robots: 0.113
+  exclusion.robots.policy: 0.103
+  rediscdxsource: 0.511
+  esindex: 0.007
+  loadshardblock: 61.662 (3)
+  petaboxloader3.datanode: 75.758 (4)
+  load_resource: 98.996
+  petaboxloader3.resolve: 43.247
+-->
