@@ -84,87 +84,86 @@ drone;experimental;
 folk rock;rock;
 afrobeat;west african music;
 electronic;;
-rythm & blues;;
-country rock;;
-pop rock;;
-new wave;;
-mutant disco;;
-blues rock;;
-pop punk;;
-boogie rock;;
-death metal;;
-indie rock;;
+rythm & blues;r&b;
+country rock;northern american music;rock
+pop rock;pop;rock
+new wave;rock;
+mutant disco;disco;
+blues rock;rock;
+pop punk;punk rock;
+boogie rock;blues rock;
+death metal;metal;
+indie rock;alternative rock;
 singer/songwriter;;
-punk rock;;
-boom bap;;
-spiritual jazz;;
-beat music;;
-glam rock;;
-contemporary r&b;;
-acid jazz;;
-mod revival;;
-hard bop;;
-experimental rock;;
-jazz-rock;;
+punk rock;rock;punk
+boom bap;hip hop;
+spiritual jazz;jazz;
+beat music;pop rock;
+glam rock;rock;
+contemporary r&b;r&b;
+acid jazz;funk;
+mod revival;mod;punk
+hard bop;jazz;
+experimental rock;rock;
+jazz-rock;rock;
 spoken word;;
-mod;;
-rap rock;;
-beat poetry;;
-electro-industrial;;
-noise pop;;
-hard rock;;
-dream pop;;
-lo-fi / slacker rock;;
-britpop;;
-abstract hip hop;;
-soukous;;
-neo-soul;;
-turntablism;;
-third wave ska;;
-dub;;
-cool jazz;;
-british rythm & blues;;
-acid rock;;
-glitch pop;;
-avant-garde jazz;;
-post-bop;;
-art punk;;
-surf rock;;
-isicathamiya;;
-garage rock;;
-zydeco;;
-trip hop;;
-gangsta rap;;
-ska punk;;
-pop soul;;
-slowcore;;
-experimental hip hop;;
-symphonic rock;;
-baroque pop;;
-gothic rock;;
-jangle pop;;
+mod;rock;
+rap rock;rock;
+beat poetry;poetry;
+electro-industrial;electronic;post-industrial
+noise pop;indie rock;
+hard rock;rock;
+dream pop;alternative rock;
+lo-fi / slacker rock;indie rock;
+britpop;alternative rock;pop rock
+abstract hip hop;hip hop;
+soukous;central african music;
+neo-soul;soul;
+turntablism;hip hop;
+third wave ska;ska;
+dub;reggae;
+cool jazz;jazz;
+british rythm & blues;rock;rythm & blues
+acid rock;psychedelic rock;
+glitch pop;indietronica;pop rock
+avant-garde jazz;jazz;
+post-bop;jazz;
+art punk;punk;rock
+surf rock;surf music;
+isicathamiya;southern african music;a capella
+garage rock;rock;
+zydeco;louisiana music;
+trip hop;downtempo;
+gangsta rap;hardcore hip hop;
+ska punk;punk rock;third wave ska
+pop soul;soul;pop
+slowcore;indie rock;
+experimental hip hop;hip hop;
+symphonic rock;rock;
+baroque pop;pop;
+gothic rock;post-punk;
+jangle pop;alternative rock;pop rock
 ambient;;
-rockabilly;;
-drum and bass;;
-political hip hop;;
-post-hardcore;;
-mid-school hip hop;;
-indie pop;;
-traditional doom metal;;
-psychedelic soul;;
-contemporary folk;;
-progressive metal;;
-film soundtrack;;
+rockabilly;rock & toll;
+drum and bass;electronic dance music;
+political hip hop;hip hop;
+post-hardcore;hardcore [punk];
+mid-school hip hop;harcore hip hop;
+indie pop;pop;
+traditional doom metal;doom metal;
+psychedelic soul;soul;psychedelia
+contemporary folk;folk;
+progressive metal;metal;
+film soundtrack;soundtrack;
 rock;;
-alternative rock;;
-post-punk;;
-jazz fusion;;
-math rock;;
-smooth soul;;
-glam metal;;
-instrumental hip hop;;
-chamber music;;
-mbube;;
-baggy;;
-piano rock;;
-genre;tbd;
+alternative rock;rock;
+post-punk;post-punk;indie rock
+jazz fusion;jazz;
+math rock;rock;
+smooth soul;soul;
+glam metal;hard rock;
+instrumental hip hop;hip hop;
+chamber music;western classical music;descriptor
+mbube;southern african music;a capella
+baggy;alternative rock;
+piano rock;pop rock;
