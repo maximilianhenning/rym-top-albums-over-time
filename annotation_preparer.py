@@ -48,17 +48,17 @@ for div in divs_list:
     else:
         tags = "nan"
     albums_dict[album] = [genres_top, genres_secondary, tags]
-    print(albums_dict)
 
+albums_loaded = False
 files = glob(homedir + "/*")
 for file in files:
     file_name = file.replace(homedir, "")
-    if file_name == "\\to_be_annotated.csv":
-        LOADED = True
-        df_loaded = pd.read_csv(file, sep = ";")
-if LOADED:
-    df_loaded_details = df_loaded.loc[df_loaded["genres_top"] != "tbd"]
-    df_loaded_no_details = df_loaded.loc[df_loaded["genres_top"] == "tbd"]
+    if file_name == "\\albums_to_be_annotated.csv":
+        albums_loaded = True
+        df_albums_loaded = pd.read_csv(file, sep = ";")
+if albums_loaded:
+    df_loaded_details = df_albums_loaded.loc[df_albums_loaded["genres_top"] != "tbd"]
+    df_loaded_no_details = df_albums_loaded.loc[df_albums_loaded["genres_top"] == "tbd"]
     albums_no_details = df_loaded_no_details["album"].tolist()
     albums_to_add_dict = {}
     albums_left_tbd = {}
@@ -71,7 +71,43 @@ if LOADED:
     df_albums_to_add = df_albums_to_add.reset_index().rename(columns = {"index": "album", 0: "genres_top", 1: "genres_secondary", 2: "tags"})
     df_albums_left_tbd = pd.DataFrame.from_dict(albums_left_tbd, orient = "index")
     df_albums_left_tbd = df_albums_left_tbd.reset_index().rename(columns = {"index": "album", 0: "genres_top", 1: "genres_secondary", 2: "tags"})
-    df_complete = pd.concat([df_loaded_details, df_albums_to_add, df_albums_left_tbd])
-    df_complete.to_csv(homedir + "/to_be_annotated.csv", sep = ";", index = False)
+    df_albums = pd.concat([df_loaded_details, df_albums_to_add, df_albums_left_tbd])
+    df_albums.to_csv(homedir + "/albums_to_be_annotated.csv", sep = ";", index = False)
 else:
-    df_new.to_csv(homedir + "/to_be_annotated.csv", sep = ";", index = False)
+    df_new.to_csv(homedir + "/albums_to_be_annotated.csv", sep = ";", index = False)
+    # Complete this for good first run
+
+genres_top_list = df_albums["genres_top"].tolist()
+genres_secondary_list = df_albums["genres_secondary"].tolist()
+genres_lists = genres_top_list + genres_secondary_list
+genres = []
+for genres_list in genres_lists:
+    genres_list = str(genres_list)
+    if ", " in genres_list:
+        genres += [genre.strip() for genre in genres_list.split(", ")]
+    else:
+        genres.append(genres_list.strip())
+genres = list(set(genres))
+df_genres = pd.DataFrame(genres).rename(columns = {0: "genre"})
+df_genres[["up1", "up2"]] = "tbd"
+
+genres_loaded = False
+for file in files:
+    file_name = file.replace(homedir, "")
+    if file_name == "\\genres_to_be_annotated.csv":
+        genres_loaded = True
+        df_genres_loaded = pd.read_csv(file, sep = ";")
+if genres_loaded:
+    genres = df_genres_loaded["genre"].tolist()
+    genres_new = df_genres["genre"].tolist()
+    genres_to_add_dict = {}
+    for genre in genres_new:
+        if genre not in genres:
+            genres_to_add_dict["genre"] = ["tbd"]
+    df_genres_to_add = pd.DataFrame.from_dict(genres_to_add_dict, orient = "index")
+    df_genres_to_add = df_genres_to_add.reset_index().rename(columns = {"index": "genre", 0: "up1", 1: "up2"})
+    df_albums = pd.concat([df_genres_loaded, df_genres_to_add])
+    df_albums.to_csv(homedir + "/genres_to_be_annotated.csv", sep = ";", index = False)
+else:
+    df_genres.to_csv(homedir + "/genres_to_be_annotated.csv", sep = ";", index = False)
+    # Complete this for good first run
