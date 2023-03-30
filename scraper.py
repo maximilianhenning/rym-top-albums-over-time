@@ -5,7 +5,7 @@ import pandas as pd
 import time
 
 homedir = path.dirname(__file__)
-df_archives = pd.read_csv(homedir + "/archives.csv", sep = ";")
+df_archives = pd.read_csv(homedir + "/input/archives.csv", sep = ";")
 
 def archive_scraper(year, link):
     if str(link) == "nan":

@@ -4,7 +4,7 @@ from os import path, makedirs
 import re
 
 homedir = path.dirname(__file__)
-df_archives = pd.read_csv(homedir + "/archives.csv", sep = ";")
+df_archives = pd.read_csv(homedir + "/input/archives.csv", sep = ";")
 
 def wrangler(html_file, design, year):
     with open(html_file, "r", encoding = "utf-8") as file:
