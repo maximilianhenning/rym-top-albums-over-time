@@ -1,6 +1,6 @@
 import pandas as pd
 from bs4 import BeautifulSoup
-from os import path
+from os import path, makedirs
 import re
 
 homedir = path.dirname(__file__)
@@ -118,4 +118,7 @@ for index, row in df_archives.iterrows():
         df_list.append(df)
 df_combined = pd.concat(df_list, axis = 1)
 print(df_combined[:40])
-df_combined.to_csv(homedir + "/artists_and_albums.csv", sep = ";", index = False)
+
+if not path.exists(homedir + "/output"):
+    makedirs(homedir + "/output")
+df_combined.to_csv(homedir + "/output/top_albums_over_time.csv", sep = ";", index = False)

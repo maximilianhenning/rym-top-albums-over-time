@@ -1,0 +1,168 @@
+;genre;parent1;parent2;parent3
+0;power pop;pop rock;pop;
+1;psychedelic folk;contemporary folk;folk;
+2;psychedelic rock;rock;nan;
+3;canterbury scene;progressive rock;rock;nan
+4;dance-punk;post-punk;rock;nan
+5;jazz rap;hip hop;nan;
+6;soul;r&b;;
+7;avant-prog;progressive rock;rock;nan
+8;heavy metal;metal;;
+9;country;northern american music;;
+10;art pop;pop;;
+11;post-rock;rock;nan;
+12;west coast hip hop;hip hop;nan;
+13;industrial rock;post-industrial;;
+14;chamber jazz;jazz;;
+15;blue-eyed soul;pop;;
+16;synthpop;pop;;
+17;experimental big band;avant-garde jazz;jazz;
+18;microsound;experimental;;
+19;folk pop;pop;;
+20;free improvisation;experimental;;
+21;flamenco jazz;jazz;;
+22;art rock;rock;nan;
+23;ambient pop;pop;;
+24;2 tone;ska;nan;
+25;mbaqanga;marabi;;
+26;free jazz;avant-garde jazz;jazz;
+27;poetry;spoken word;nan;
+28;freakbeat;garage rock;rock;nan
+29;industrial metal;metal;;
+30;reggae;jamaican music;;
+31;minneapolis sound;synth funk;funk;r&b
+32;chamber folk;contemporary folk;folk;
+33;funk;r&b;;
+34;sunshine pop;pop;;
+35;heartland rock;rock;nan;
+36;thrash metal;metal;;
+37;plunderphonics;experimental;;
+38;synth funk;funk;r&b;
+39;british folk rock;folk rock;rock;nan
+40;rock opera;rock;nan;
+41;chamber pop;indie pop;pop;
+42;electric blues;blues;;
+43;shoegaze;alternative rock;rock;nan
+44;dark cabaret;rock;nan;
+45;krautrock;experimental rock;rock;nan
+46;merseybeat;beat music;pop rock;pop
+47;progressive rock;rock;nan;
+48;ska;;;
+49;noise rock;rock;nan;
+50;third stream;jazz;;
+51;alterantive rock;rock;nan;
+52;americana;northern american music;;
+53;post-punk revival;post-punk;rock;nan
+54;roots rock;rock;nan;
+55;space rock;psychedelic rock;rock;nan
+56;acoustic rock;rock;nan;
+57;hardcore hip hop;hip hop;nan;
+58;hip hop;;;
+59;twee pop;indie pop;pop;
+60;folk baroque;contemporary folk;folk;
+61;east coast hip hop;hip hop;nan;
+62;indie folk;contemporary folk;folk;
+63;celtic folk music;european folk music;;
+64;conscious hip hop;hip hop;nan;
+65;psychedelic pop;pop;;
+66;grunge;alternative rock;rock;nan
+67;alternative dance;dance;;
+68;field recordings;;;
+69;progressive pop;pop;;
+70;big music;pop rock;pop;
+71;modal jazz;jazz;;
+72;proto-punk;rock;nan;
+73;neo-psychedelia;psychedelia;;
+74;coldwave;post-punk;rock;nan
+75;pop rap;hip hop;nan;
+76;symphonic prog;progressive rock;rock;nan
+77;tribal ambient;ambient;nan;
+78;brass band;european music;;
+79;drone;experimental;;
+80;folk rock;rock;nan;
+81;afrobeat;west african music;;
+82;electronic;;;
+83;rythm & blues;r&b;;
+84;country rock;northern american music;;
+85;pop rock;pop;;
+86;new wave;rock;nan;
+87;mutant disco;disco;;
+88;blues rock;rock;nan;
+89;pop punk;punk rock;rock;nan
+90;boogie rock;blues rock;rock;nan
+91;death metal;metal;;
+92;indie rock;alternative rock;rock;nan
+93;singer/songwriter;;;
+94;punk rock;rock;nan;
+95;boom bap;hip hop;nan;
+96;spiritual jazz;jazz;;
+97;beat music;pop rock;pop;
+98;glam rock;rock;nan;
+99;contemporary r&b;r&b;;
+100;acid jazz;funk;r&b;
+101;mod revival;mod;rock;nan
+102;hard bop;jazz;;
+103;experimental rock;rock;nan;
+104;jazz-rock;rock;nan;
+105;spoken word;;;
+106;mod;rock;nan;
+107;rap rock;rock;nan;
+108;beat poetry;poetry;spoken word;nan
+109;electro-industrial;electronic;nan;
+110;noise pop;indie rock;alternative rock;rock
+111;hard rock;rock;nan;
+112;dream pop;alternative rock;rock;nan
+113;lo-fi / slacker rock;indie rock;alternative rock;rock
+114;britpop;alternative rock;rock;nan
+115;abstract hip hop;hip hop;nan;
+116;soukous;central african music;;
+117;neo-soul;soul;r&b;
+118;turntablism;hip hop;nan;
+119;third wave ska;ska;nan;
+120;dub;reggae;jamaican music;
+121;cool jazz;jazz;;
+122;british rythm & blues;rock;nan;
+123;acid rock;psychedelic rock;rock;nan
+124;glitch pop;indietronica;;
+125;avant-garde jazz;jazz;;
+126;post-bop;jazz;;
+127;art punk;punk;;
+128;surf rock;surf music;;
+129;isicathamiya;southern african music;;
+130;garage rock;rock;nan;
+131;zydeco;louisiana music;;
+132;trip hop;downtempo;;
+133;gangsta rap;hardcore hip hop;hip hop;nan
+134;ska punk;punk rock;rock;nan
+135;pop soul;soul;r&b;
+136;slowcore;indie rock;alternative rock;rock
+137;experimental hip hop;hip hop;nan;
+138;symphonic rock;rock;nan;
+139;baroque pop;pop;;
+140;gothic rock;post-punk;rock;nan
+141;jangle pop;alternative rock;rock;nan
+142;ambient;;;
+143;rockabilly;rock & toll;;
+144;drum and bass;electronic dance music;;
+145;political hip hop;hip hop;nan;
+146;post-hardcore;hardcore [punk];;
+147;mid-school hip hop;harcore hip hop;;
+148;indie pop;pop;;
+149;traditional doom metal;doom metal;;
+150;psychedelic soul;soul;r&b;
+151;contemporary folk;folk;;
+152;progressive metal;metal;;
+153;film soundtrack;soundtrack;;
+154;rock;;;
+155;alternative rock;rock;nan;
+156;post-punk;rock;nan;
+157;jazz fusion;jazz;;
+158;math rock;rock;nan;
+159;smooth soul;soul;r&b;
+160;glam metal;hard rock;rock;nan
+161;instrumental hip hop;hip hop;nan;
+162;chamber music;western classical music;;
+163;mbube;southern african music;;
+164;baggy;alternative rock;rock;nan
+165;piano rock;pop rock;pop;
+166;genre;tbd;;

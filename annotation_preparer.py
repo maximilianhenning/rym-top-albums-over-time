@@ -1,12 +1,12 @@
 import pandas as pd
-from os import path
+from os import path, makedirs
 from glob import glob
 from bs4 import BeautifulSoup
 import re
 import requests
 
 homedir = path.dirname(__file__)
-df = pd.read_csv(homedir + "/artists_and_albums.csv", sep = ";")
+df = pd.read_csv(homedir + "/output/top_albums_over_time.csv", sep = ";")
 
 album_list = []
 for column in df:
@@ -49,14 +49,17 @@ for div in divs_list:
         tags = "nan"
     albums_dict[album] = [genres_top, genres_secondary, tags]
 
+folder_exists = False
 albums_loaded = False
-files = glob(homedir + "/*")
-for file in files:
-    file_name = file.replace(homedir, "")
-    if file_name == "\\albums_to_be_annotated.csv":
-        albums_loaded = True
-        df_albums_loaded = pd.read_csv(file, sep = ";")
-if albums_loaded:
+if path.exists(homedir + "/annotation"):
+    folder_exists = True
+    files = glob(homedir + "/annotation/*")
+    for file in files:
+        file_name = file.replace(homedir, "")
+        if file_name == "/annotation\\albums_to_be_annotated.csv":
+            albums_loaded = True
+            df_albums_loaded = pd.read_csv(file, sep = ";")
+if folder_exists and albums_loaded:
     df_loaded_details = df_albums_loaded.loc[df_albums_loaded["genres_top"] != "tbd"]
     df_loaded_no_details = df_albums_loaded.loc[df_albums_loaded["genres_top"] == "tbd"]
     albums_no_details = df_loaded_no_details["album"].tolist()
@@ -74,7 +77,9 @@ if albums_loaded:
     df_albums = pd.concat([df_loaded_details, df_albums_to_add, df_albums_left_tbd])
     df_albums.to_csv(homedir + "/albums_to_be_annotated.csv", sep = ";", index = False)
 else:
-    df_new.to_csv(homedir + "/albums_to_be_annotated.csv", sep = ";", index = False)
+    if not folder_exists:
+        makedirs(homedir + "/annotation")
+    df_new.to_csv(homedir + "/annotation/albums_to_be_annotated.csv", sep = ";", index = False)
     # Complete this for good first run
 
 genres_top_list = df_albums["genres_top"].tolist()
@@ -89,12 +94,12 @@ for genres_list in genres_lists:
         genres.append(genres_list.strip())
 genres = list(set(genres))
 df_genres = pd.DataFrame(genres).rename(columns = {0: "genre"})
-df_genres[["up1", "up2"]] = "tbd"
+df_genres["parent1"] = "tbd"
 
 genres_loaded = False
 for file in files:
     file_name = file.replace(homedir, "")
-    if file_name == "\\genres_to_be_annotated.csv":
+    if file_name == "/annotation\\genres_to_be_annotated.csv":
         genres_loaded = True
         df_genres_loaded = pd.read_csv(file, sep = ";")
 if genres_loaded:
@@ -105,9 +110,9 @@ if genres_loaded:
         if genre not in genres:
             genres_to_add_dict["genre"] = ["tbd"]
     df_genres_to_add = pd.DataFrame.from_dict(genres_to_add_dict, orient = "index")
-    df_genres_to_add = df_genres_to_add.reset_index().rename(columns = {"index": "genre", 0: "up1", 1: "up2"})
+    df_genres_to_add = df_genres_to_add.reset_index().rename(columns = {"index": "genre", 0: "parent1"})
     df_albums = pd.concat([df_genres_loaded, df_genres_to_add])
-    df_albums.to_csv(homedir + "/genres_to_be_annotated.csv", sep = ";", index = False)
+    df_albums.to_csv(homedir + "/annotation/genres_to_be_annotated.csv", sep = ";", index = False)
 else:
-    df_genres.to_csv(homedir + "/genres_to_be_annotated.csv", sep = ";", index = False)
+    df_genres.to_csv(homedir + "/annotation/genres_to_be_annotated.csv", sep = ";", index = False)
     # Complete this for good first run
