@@ -131,7 +131,7 @@
 129;isicathamiya;southern african music;;
 130;garage rock;rock;nan;
 131;zydeco;louisiana music;;
-132;trip hop;downtempo;;
+132;trip hop;downtempo;electronic;nan
 133;gangsta rap;hardcore hip hop;hip hop;nan
 134;ska punk;punk rock;rock;nan
 135;pop soul;soul;r&b;
@@ -145,7 +145,7 @@
 143;rockabilly;rock & toll;;
 144;drum and bass;electronic dance music;;
 145;political hip hop;hip hop;nan;
-146;post-hardcore;hardcore [punk];;
+146;post-hardcore;hardcore [punk];punk;
 147;mid-school hip hop;hardcore hip hop;hip hop;nan
 148;indie pop;pop;;
 149;traditional doom metal;doom metal;;
@@ -168,3 +168,5 @@
 166;genre;tbd;;
 167;post-industrial;industrial music;;
 168;genre;tbd;;
+169;downtempo;electronic;nan;
+170;hardcore [punk];punk;;
