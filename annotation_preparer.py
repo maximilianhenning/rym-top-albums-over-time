@@ -75,7 +75,7 @@ if folder_exists and albums_loaded:
     df_albums_left_tbd = pd.DataFrame.from_dict(albums_left_tbd, orient = "index")
     df_albums_left_tbd = df_albums_left_tbd.reset_index().rename(columns = {"index": "album", 0: "genres_top", 1: "genres_secondary", 2: "tags"})
     df_albums = pd.concat([df_loaded_details, df_albums_to_add, df_albums_left_tbd])
-    df_albums.to_csv(homedir + "/albums_to_be_annotated.csv", sep = ";", index = False)
+    df_albums.to_csv(homedir + "/annotation/albums_to_be_annotated.csv", sep = ";", index = False)
 else:
     if not folder_exists:
         makedirs(homedir + "/annotation")
