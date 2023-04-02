@@ -8,7 +8,7 @@
 6;soul;r&b;;
 7;avant-prog;progressive rock;rock;nan
 8;heavy metal;metal;;
-9;country;northern american music;;
+9;country;northern american music;regional music;
 10;art pop;pop;;
 11;post-rock;rock;nan;
 12;west coast hip hop;hip hop;nan;
@@ -24,12 +24,12 @@
 22;art rock;rock;nan;
 23;ambient pop;pop;;
 24;2 tone;ska;nan;
-25;mbaqanga;marabi;;
+25;mbaqanga;marabi;southern african music;african music
 26;free jazz;avant-garde jazz;jazz;
 27;poetry;spoken word;nan;
 28;freakbeat;garage rock;rock;nan
 29;industrial metal;metal;;
-30;reggae;jamaican music;;
+30;reggae;jamaican music;regional music;
 31;minneapolis sound;synth funk;funk;r&b
 32;chamber folk;contemporary folk;folk;
 33;funk;r&b;;
@@ -51,7 +51,7 @@
 49;noise rock;rock;nan;
 50;third stream;jazz;;
 51;alterantive rock;rock;nan;
-52;americana;northern american music;;
+52;americana;northern american music;regional music;
 53;post-punk revival;post-punk;rock;nan
 54;roots rock;rock;nan;
 55;space rock;psychedelic rock;rock;nan
@@ -62,7 +62,7 @@
 60;folk baroque;contemporary folk;folk;
 61;east coast hip hop;hip hop;nan;
 62;indie folk;contemporary folk;folk;
-63;celtic folk music;european folk music;;
+63;celtic folk music;european folk music;traditional folk music;regional music
 64;conscious hip hop;hip hop;nan;
 65;psychedelic pop;pop;;
 66;grunge;alternative rock;rock;nan
@@ -77,13 +77,13 @@
 75;pop rap;hip hop;nan;
 76;symphonic prog;progressive rock;rock;nan
 77;tribal ambient;ambient;nan;
-78;brass band;european music;;
+78;brass band;european music;regional music;
 79;drone;experimental;;
 80;folk rock;rock;nan;
-81;afrobeat;west african music;;
+81;afrobeat;west african music;african music;regional music
 82;electronic;;;
 83;rythm & blues;r&b;;
-84;country rock;northern american music;;
+84;country rock;northern american music;regional music;
 85;pop rock;pop;;
 86;new wave;rock;nan;
 87;mutant disco;disco;;
@@ -115,22 +115,22 @@
 113;lo-fi / slacker rock;indie rock;alternative rock;rock
 114;britpop;alternative rock;rock;nan
 115;abstract hip hop;hip hop;nan;
-116;soukous;central african music;;
+116;soukous;central african music;african music;regional music
 117;neo-soul;soul;r&b;
 118;turntablism;hip hop;nan;
 119;third wave ska;ska;nan;
-120;dub;reggae;jamaican music;
+120;dub;reggae;jamaican music;regional music
 121;cool jazz;jazz;;
 122;british rythm & blues;rock;nan;
 123;acid rock;psychedelic rock;rock;nan
-124;glitch pop;indietronica;;
+124;glitch pop;indietronica;electronic;nan
 125;avant-garde jazz;jazz;;
 126;post-bop;jazz;;
 127;art punk;punk;;
-128;surf rock;surf music;;
-129;isicathamiya;southern african music;;
+128;surf rock;surf music;rock;nan
+129;isicathamiya;southern african music;african music;regional music
 130;garage rock;rock;nan;
-131;zydeco;louisiana music;;
+131;zydeco;louisiana music;northern american music;regional music
 132;trip hop;downtempo;electronic;nan
 133;gangsta rap;hardcore hip hop;hip hop;nan
 134;ska punk;punk rock;rock;nan
@@ -143,12 +143,12 @@
 141;jangle pop;alternative rock;rock;nan
 142;ambient;;;
 143;rockabilly;rock & toll;;
-144;drum and bass;electronic dance music;;
+144;drum and bass;electronic dance music;electronic;nan
 145;political hip hop;hip hop;nan;
 146;post-hardcore;hardcore [punk];punk;
 147;mid-school hip hop;hardcore hip hop;hip hop;nan
 148;indie pop;pop;;
-149;traditional doom metal;doom metal;;
+149;traditional doom metal;doom metal;metal;
 150;psychedelic soul;soul;r&b;
 151;contemporary folk;folk;;
 152;progressive metal;metal;;
@@ -161,8 +161,8 @@
 159;smooth soul;soul;r&b;
 160;glam metal;hard rock;rock;nan
 161;instrumental hip hop;hip hop;nan;
-162;chamber music;western classical music;;
-163;mbube;southern african music;;
+162;chamber music;western classical music;classical music;
+163;mbube;southern african music;african music;regional music
 164;baggy;alternative rock;rock;nan
 165;piano rock;pop rock;pop;
 166;genre;tbd;;
@@ -170,3 +170,19 @@
 168;genre;tbd;;
 169;downtempo;electronic;nan;
 170;hardcore [punk];punk;;
+171;marabi;southern african music;african music;regional music
+172;southern african music;african music;regional music;
+173;louisiana music;northern american music;regional music;
+174;central african music;african music;regional music;
+175;surf music;rock;nan;
+176;european folk music;traditional folk music;regional music;
+177;doom metal;metal;;
+178;western classical music;classical music;;
+179;indietronica;electronic;nan;
+180;west african music;african music;regional music;
+181;african music;regional music;;
+182;northern american music;regional music;;
+183;european music;regional music;;
+184;jamaican music;regional music;;
+185;electronic dance music;electronic;nan;
+186;traditional folk music;regional music;;
